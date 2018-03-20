@@ -1,0 +1,8 @@
+*    (__) BBBBBB--EEEEEEE-EEEEEEE-FFFFFFF (__)
+*    /oo\\BB---BB-EE------EE------FF-----//oo\
+*    \\ / BBBBBB--EEEEEE--EEEEEE--FFFFF-- \\ /
+*     oo  BB---BB-EE------EE------FF-----  oo
+*         BBBBBB--EEEEEEE-EEEEEEE-FF-----
+*          | |                       | |
+*          ^ ^                       ^ ^
+

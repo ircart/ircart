@@ -1,0 +1,5 @@
+08,08hhh01,01hhhhhhhhh
+01,01hh08,08hh01,01hhhhhhhh
+01,01h08,08hh01,01hhhhhhhhh
+01,01hh08,08hh01,01hhhhhhhh
+08,08hhh01,01hh08,01AM01,01h08,01IRC

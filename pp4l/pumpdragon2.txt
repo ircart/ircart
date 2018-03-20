@@ -1,0 +1,20 @@
+1,1xxxx3,13xxxxxxxx0,0xxxxxxxxxxxxxxxx3,13xxxxxxxx1,1xxxx
+1,1xxxxxx3,13xxxxxx  1,0    pumper  3,13xxxxxxxx1,1xxxxxx
+1,1xx3,13xx1,1xxxx3,13xxxxxxxx0,0xxxxxxxx3,13xxxxxxxx1,1xxxx3,13xx1,1xx
+1,1xx3,13xx4,4xx1,1xxxx3,13xxxxxxxx0,0xxxx3,13xxxxxxxx1,1xxxx4,4xx3,13xx1,1xx
+1,1xx3,13xx4,4xxxx1,1xxxx3,13xxxxxxxxxxxxxxxx1,1xxxx4,4xxxx3,13xx1,1xx
+3,13xxxx4,4xxxxxx1,1xxxx3,13xxxxxxxxxxxx1,1xxxx4,4xxxxxx3,13xxxx
+3,13xxxx4,4xxxxxxxx1,1xxxx3,13xxxxxxxx1,1xxxx4,4xxxxxxxx3,13xxxx
+3,13xxxxxx4,4xxxxxx3,13xxxxxxxxxxxxxxxx4,4xxxxxx3,13xxxxxx
+3,13xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1,1xxxxxx3,13xxxxxxxxxxxxxxxxxxxxxxxxxxxx1,1xxxxxx
+1,1xx0,0xx1,1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0,0xx1,1xx
+1,1xxxx5,5xxxxxxxx1,1xx0,0xx1,1xx5,5xxxx1,1xx0,0xx1,1xx5,5xxxxxxxx1,1xxxx
+3,13xx1,1xxxx5,5xxxxxxxx1,1xx5,5xxxxxxxx1,1xx5,5xxxxxxxx1,1xxxx3,13xx
+3,13xxxx1,1xxxx5,5xxxxxxxxxxxxxxxxxxxxxxxx1,1xxxx3,13xxxx
+3,13xxxxxx1,1xxxxxx5,5xxxxxxxxxxxxxxxx1,1xxxxxx3,13xxxxxx
+0,0xx3,13xxxxxxxx1,1xxxx5,5xxxxxxxxxxxx1,1xxxx3,13xxxxxxxx0,0xx
+0,0xxxx3,13xxxxxxxx1,1xxxx5,5xxxxxxxx1,1xxxx3,13xxxxxxxx0,0xxxx
+0,0xxxxxx3,13xxxxxxxx1,1xxxx5,5xxxx1,1xxxx3,13xxxxxxxx0,0xxxxxx
+0,0xxxxxxxxxx3,13xxxxxx1,1xxxxxxxx3,13xxxxxx0,0xxxxxxxxxx
+0,0xxxxxxxxxxxxxx3,13xxxxxxxxxxxx0,0xxxxxxxxxxxxxx

@@ -1,0 +1,23 @@
+12,12llllllllllllllllll1,1bbbbbbbbbbbbbbbb12,12llllllllllllll
+12,12llllllllllllll1,1bbbb11,11ssssssssssssssss1,1bbbb12,12llllllllll
+12,12llllllllllll1,1bb0,0wwwwwwwwwwwwwwww11,11ssssssss1,1bb12,12llllllll
+12,12llllllllll1,1bb0,0wwwwwwwwwwwwwwwwwwwwww11,11ssss1,1bb12,12llllllll
+12,12llllllllll1,1bb0,0wwww1,1bbbbbbbbbbbbbb0,0wwww11,11ssssss1,1bb12,12llllll
+12,12llllllll1,1bb0,0wwww1,1bbbb7,7pppppppppppp1,1bb0,0wwww11,11ssss1,1bb12,12llllll
+12,12llllllll1,1bb0,0wwww1,1bb7,7pp0,0ww7,7pp0,0wwww7,7pppppp0,0wwww11,11ssss1,1bb12,12llllll
+12,12llllllll1,1bb0,0wwww1,1bb0,0ww1,1bb7,7pp1,1bbbb0,0ww7,7pppp0,0wwww11,11ssss1,1bb12,12llllll
+12,12llllllll1,1bb0,0wwww1,1bb0,0ww1,1bb7,7pp1,1bbbb0,0ww7,7pppp0,0wwww11,11ssss1,1bb12,12llllll
+12,12llllllll1,1bb11,11ss0,0ww1,1bb7,7pp0,0ww7,7pp0,0wwww7,7pppppp0,0wwww11,11ss1,1bbbb12,12llllll
+12,12llllll1,1bb11,11ssss0,0wwww7,7pp1,1bbbbbb7,7pppppp0,0wwww1,1bbbb11,11ssss1,1bb12,12llll         
+12,12llll1,1bb0,0ww11,11ssssss0,0wwww1,1bb0,0ww1,1bbbb0,0wwwwwwww11,11ssssssssss1,1bb12,12ll
+12,12ll1,1bb0,0wwwwww11,11ss1,1bb11,11ss0,0wwwwwwwwwwwwww1,1bbbb11,11ssssssssss1,1bb12,12ll
+1,1bb0,0wwww1,1bb0,0ww1,1bb12,12ll1,1bb11,11ssssss0,0ww1,1bbbbbb11,11ssssss1,1bb11,11ssss0,0wwww1,1bb
+1,1bb0,0wwwwww1,1bb12,12llll1,1bb11,11ssssss0,0ww1,1bb11,11ssssssss1,1bb12,12ll1,1bb0,0wwwwww1,1bb
+1,1bb0,0wwwwww1,1bb12,12llll1,1bb11,11ssssss0,0ww1,1bb11,11ssssss1,1bb12,12llll1,1bbbb0,0wwww1,1bb
+12,12ll1,1bbbbbb12,12llll1,1bb0,0wwwwwwwwwwwwwwwwwwww1,1bb12,12ll1,1bb0,0wwwwww1,1bb
+12,12llllllllllll1,1bb0,0wwwwwwwwwwwwwwwwwwww1,1bb12,12ll1,1bb0,0wwwwww1,1bb
+12,12llllllllllll1,1bb11,11ssssssssssssssssssss1,1bb12,12llll1,1bbbbbb12,12ll
+12,12llllllllll1,1bb11,11ssssssssss1,1bbbb11,11ssssssss1,1bb12,12llllllllllll
+12,12llllllll1,1bb0,0wwww11,11ssssss1,1bb12,12llll1,1bb11,11ssss0,0wwww1,1bb12,12llllllllll
+12,12llll1,1bbbb0,0wwwwwwww11,11ss1,1bb12,12llllllll1,1bb0,0wwwwwwww1,1bbbb12,12llllll
+12,12ll1,1bb0,0wwwwwwwwwwww1,1bb12,12llllllllll1,1bb0,0wwwwwwwwwwww1,1bb12,12llll

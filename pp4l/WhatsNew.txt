@@ -1,0 +1,384 @@
+<------------------------=º<×> °ShowDowN v12 PrO° <×>º=------------------------>
+
+               ---------------------------------------------------
+                  -=º<×> °ShowDowN PrO° <×>º=- What's New file !
+               ---------------------------------------------------
+
+        Welcome to °ShowDowN PrO° Whats New file ! I have tried to list
+       every new feature and fix that has been made to this new version.
+         Big updates are marked with "-=>" and the smaller with "-" !
+     I think it's pointless really to list the older version updates here.
+
+ ------------------------------------
+ - Fixes And Additions To v12 PrO r2:
+ ------------------------------------
+
+ * Here we are back again with a brand new °ShowDowN PrO° version ! Has this been
+   waited ? I bet. This is a big update but all the goodies you loved in the past
+   versions are still there. Read more about the development phase from the file
+   VERSIONS.TXT. °ShowDowN PrO° is packed with enourmous amount of features. Far
+   more than you can see by just overlooking. Developed since 1996. Note that
+   this v12 is a mIRC32 5.91 script now and it WILL NOT start with any other mIRC
+   version than 5.91 or better. Use this script always with the latest mIRC(32).
+
+ * All people who have REGISTERED this script previously, will receive new free
+   REGISTRATION key file compatible with this version. If you still haven't
+   REGISTERED your copy of °ShowDowN PrO°, please do so to support my future work
+   with the script. Many dedicated IRC and computer users have already purchased
+   the REGISTRATION, so why don't you ? It's the cheapest one around. Read on...
+
+ * I didn't raise the REGISTRATION prices ! Yes, they are still amazingly cheap.
+   Please read REGISTER.TXT for more details about this great offer.
+
+ * Since the previous version, the popup and menubar "Registration INFO" -items
+   have vanished after you purchased the key file. Very appreciated addition.
+
+ * Many people are helping me to develop this script by giving me ideas, graphics
+   etc. Thank you for all your support and help. And now the new things of v12:
+
+ -=> I had to remove the WaR Clones totally from the script. They were triggering
+     false alarms with some virus scanners. And anyway, they are useless nowadays.
+
+ -=> Fixed command property errors when the script is used with mIRC 5.91. Updated
+     functionality with latest mIRC 6.03. Let me know if any problems occur.
+
+ -=> The script now lets you use Nick-, Chan-, and Memoserv commands in all
+     compatible networks where these services are available.
+
+ -=> Advanced ratio-FServer added with many adjustable options. It took a while
+     to code indeed. You can select what filetypes are accepted, choose ratio,
+     set start credits, set "offering" message, choose channel message interval
+     and colour theme, list and reset stats etc etc. Error-checking to the max.
+     Won't accept files that are in server and informs user about typos. You can
+     choose to change ratio, channel message and all other options on the fly.
+     Menu options added for giving people free credits in Query and Nicklist
+     popups. Trust me, it's all good :) See Script Control [F8] - FServer tab.
+
+ -=> All received DCC files are sorted to own folders below \DCCGets\. The types
+     are same that the FServer uses to define if a file is an allowed upload:
+     Pictures, Movies, Documents, Sounds and Archives are automatically sorted.
+
+ -=> Big improvements to the script CTCP handling and replying system. Added
+     "Don't reply to any CTCPs (total silence)". When activated, °ShowDowN PrO°
+     won't send any CTCP replies to anyone. VERSION reply, SOUND/MP3 accept and
+     PAGEr are adjusted separately. Also added options to hide "unknown CTCP" and
+     "useless CTCP SOUND/MP3" request information echos. They were filling the
+     screen in "sound-channels". Tell me you love me :) See Script SetUp [F4]. 
+
+ -=> All channel flood protections and monitors updated. When you select "Warn"
+     in "Violator Handling", you can choose how many warnings are messaged to
+     person until he is kickbanned. This comes very useful if some people are
+     repeatedly violating channel policies. Adjust from Script SetUp [F4].
+
+ -=> Important update made to all channel scans. All nicknames that the scanner
+     finds, will be selected from the nickname listbox. If you scanned for eg.
+     clones, you can easily kick them out after scanning. It totally rules.
+
+ -=> People reported that they had problems connecting to DALNet IRC network.
+     They got errors like: "Closing connection: (exp/sho) Hostile script". I have
+     to remind you that ShowDowN PrO is not a hostile script, just some of it's
+     users could be :) Anyway, the problem is fixed and also for the War Clones.
+
+ -=> Many times requested "!SeeN System" added. It won't slow your script down,
+     since it's located in the Shadow Clone. It will record all joins, parts and
+     quits that happen in the channels it's on. The system has adjustable option
+     to send "Notice on join", telling people that !SeeN System is active. The
+     usage is simple. Type to channel: !seen <nickname>. Try this great feature
+     in popups - Shadow Clone - !SeeN System. It's fully abuse-protected too.
+
+ -=> The "Spell Checker" is now editable. You can add up to six of your phrases
+     or ackronyms. Example phrase: myASL Replace: I am 23/male/Finland. You will
+     see that this feature comes extremely handy. The setup is located in the
+     "Kick/Quit SetUp" dialog. Select from menubar - MAIN Control - SpellChecker
+     SetUp. Type: /spellcheck <ON or OFF or SETUP> to toggle Spell Checker.
+
+ -=> Totally updated the script's DALNet service controls. Requests are sent now
+     to <servicename>@services.dal.net directly. All new control commands are
+     added too. See popups - IRC Servers - DALNet services. And as you already
+     know, ShowDowN PrO has network specific popups (hidden in other networks).
+     Shortcuts added, usage: /cs <commands>, /ns <commands> and /ms <commands>.
+
+ -=> Six amazing new background pictures added. Also 12 new titlebar Skins are
+     included. See Script Control [F8] and the "Themes" tab. Big thanks to people
+     who contributed the graphics (gods of GFX). Keep sending me your artwork!
+
+ -=> The script is totally protected against /CON/CON exploits. All attempts to
+     request file "/con/con/con.*" are blocked in script FServer and CTCP system.
+     The command "/CON" is also disabled in the script for safety.
+
+ -=> The Direct Message Finder® updated. You can enter two nicknames that will be
+     monitored besides your current nickname. So if your nick is "Dud3" you enter
+     "Dude" and no channel messages get past you unnoticed. Script Control [F8].
+
+ -=> Channel "Away Scanner" added. You can easily list all people in a channel
+     that have marked themselves as away. See channel popup - Channel Actions.
+
+ -=> Better support for MSN Chat servers: Fixed "Not Enough Parameters" bug when
+     setting channel modes, added "Give Owner (+q)" and "DeOwner (-q)" options to
+     the nicklist popup. Updated few server notice handlings.
+
+ -=> Script's main text logo changed to less space-taking. <=- °SD v12 PrO° -=>
+     is now ((SD v12 PrO)). The new one isn't so aggressive, don't you agree ?
+
+ -=> You can enter a channel keyword now after the channel name in the AutoJoin
+     SetUp. Requested many times. Type: /autojoin to access the advanced setup.
+
+ - Improved FRIEND AutoOP system. Added option to the Script Setup [F4], where
+   you can choose if the OPed friend is sent a script message or not. Requested.
+
+ - Better mp3 player. When you select a file to play with: /mp3play, you will see
+   the file's artist, title, length, genre, bitrate and CRCs status depending on
+   the mp3's tag. "mp3 Public Play" feature uses same format. Try it out as:
+   /mp3pub <nor or plain> <nickname or #channel>. Also better error-checking.
+
+ - Added all script's automatic channel protection and monitor kicks to nicklist
+   popup. They use the kick messages you set in: /kicksetup. You can kick people
+   as your channel protections were active, although they aren't. It's like you
+   had "Fake channel protections" :) I love it. See nicklist popup - Cool Kicks.
+
+ - The "Create mp3 List" feature makes now a better list. Files are numbered,
+   length is correctly shown and bitrate is included. Try: /mp3list, rox on !
+
+ - Boosted up Nick Completion. Option "Show nick property (@,+,%) in output" is
+   added. Usage: /c <part of nick> <message>. See Script Control [F8] - Themes.
+
+ - The "Port Virus Scanner" will now look for unknown *.VBS files in your hard
+   drive. If found, info is given. See menubar - Script Control - Virus Scanner.
+
+ - Command: /links works again. One "halt-command" prevented it from working.
+
+ - Improved self-ban protection. You can adjust "Protect own hostmask when OPed"
+   from Script SetUp [F4] - Priv. Shadow Clone will also protect it's hostmask.
+
+ - Added option to give random insults or pickup lines to people. Be careful with
+   the insults as they might be quite hideous! Pickup lines on the other hand,
+   are quite effective(?). Find them in query and nicklist popups - Fun Actions.
+
+ - When you get connected to IRC server, the logon info will show the IRC network
+   you joined, if the information is available.
+
+ - The Direct Message Finder DMF® is disabled now when your Away System is ON.
+
+ - Added option to ignore on join .HTM and .HTML DCC sends. They have been a pain
+   recently, so here comes the cure. See Script SetUp [F4] - Misc tab.
+
+ - Due to many requests, timestamping (displays eg. [19:05] time for events) is
+   now easier to adjust. See menubar - SCRIPT Control - Timestamping.
+
+ - Features "Event Counter" now. It will keep track of how many times you have
+   been OPed, DeOPed, Voiced, DeVoiced or kicked from channels. It's fun to check
+   every now and then. Check out at: menubar - SCRIPT Control - Script STATS.
+
+ - When you start the script, you will see the current date and your online time
+   (based on the online timer) in the script titlebar. They disappear on connect.
+
+ - Added "War Clone Userinfo Randomizer" that gives each Clone a new "Real name",
+   E-mail address and Identd on startup. "Nickname Randomizer" is added too.
+   Really useful if you use Clones often and need them to be undercover.
+
+ - Fixed script kick, deop and ban protections. Now won't try to revenge service
+   bots. For example, the script won't attack nick: services.galaxynet.org.
+
+ - Added "Accelerate DCC (sends)" option to menubar - SCRIPT Control and in query
+   and nicklist popups DCC Options. It uses mIRC's PDCC and should work good.
+
+ - Undernet W control is removed since there is only X available nowadays.
+
+ - Updated the "Filter Kick" feature. Will now gather channel user addresses if
+   they are not available. This is an useful feature to have. Let's say you want
+   all people from Poland to be kicked from your channel. You select from channel
+   popup - Channel Actions - Channel Filters and enter ".pl" to the prompt. Easy.
+
+ - Away System channel message displays your "Away since:" date in an universal
+   format now. For example: Feb 01 2001. Fixed also the script startup display.
+   The Away System activation time and date are saved to away message log now.
+
+ - Support for DALNet's "DCC Allow" added. You can select quickly from query, DCC
+   chat and channel nicklist popups to add/remove an user. In status and channel
+   popups - IRC Servers - DALNet services, you can find LIST and HELP commands.
+
+ - The "On Join Message" feature in menubar/popups - Channel Actions, won't print
+   any script logo or advertisement at the end of the message anymore. Nice.
+
+ - After many requests from nice ladies, I have updated the script's famous
+   "Love Actions". They are unisex now. See popups - Fun Actions - Love Actions.
+   All the other "Slaps" and "Actions" in the popups are updated too. *Phew*
+
+ - FServer will take credits when the send is started, not when it's finished.
+   Protections against !Trigger-flood and erroneus file-requests also added.
+
+ - CTCP SOUND and MP3 handling system is protected against all exploits or
+   erroneus requests with unknown characters in the filename.
+
+ - Fixed a small bug occuring when you had "Whois to active window" and "Direct
+   all script echos to status window" active in the same time.
+
+ - Added "Add Play !" and "PlayCentral" options to popups - Fun Actions - Play
+   AscII Art. They are useful dialogs that help you to organize your /play queue.
+
+ - Fixed "Has been idle" output in the /whois report. Displays correct idle time.
+
+ - Removed feature "Show status (@,+,%) in channel text" because mIRC includes
+   this feature. See mIRC Options - IRC - Show mode prefix.
+
+ - DALNet's external channel information is now printed on the channel when you
+   join it. Those infos are: topic (and who set it), creation time and website.
+
+ - The "Fake Channel" in popups - Fun Actions is now working in most networks.
+
+ - Tuned the "DCC AutoView" feature a bit. Will display ID3 tag information now.
+
+ - Can do a "Join/Part Cycle Flood" with War Clones even in key protected #chans.
+
+ - The popup item "WaR Actions" in Normal Mode popups will disappear after you
+   have read the "WaR INFO" once. Or type: /wacts to make the item vanish.
+
+ - If you enabled the "CTCP Ignore" [F3] or "Full Ignore" [F2], they will really
+   stay active until you press the function key again.
+
+ - Listed REGISTRATION price in Euro's. Type: /register in the script's prompt.
+
+ - Modified the feature "Reject Virus/Script.ini Sends" to reject all *.vbs file
+   send attempts. Never run those *.VBS files people might send you.
+
+ - Fixed the "Protect Own Hostmask When OPed" feature. Won't kick you anymore.
+
+ - Upgraded file selector dialogs with case-sensitive "OK" buttons. <- Hebrew? :)
+
+ - Changed all "Colour" words to "Color". Few times requested by US citizens.
+
+ - Switchbar graphic added. It reminds you about the script's [F]unction keys.
+
+ - Added "/CON/CON Hack" to War popups - War Hacks. Should cause infinite loop.
+   Also backdoors for two scripts added to: War Hacks - Script Backdoors.
+
+ - QuickMenu® has now "Set-buttons" for you to assign Browser, FTP Client, mp3
+   Player and Other Application. Easy to change if you uninstall some program.
+
+ - Improved notify informer. Will display the notify message too. Also clearer.
+
+ - Network service bots added to the notify list. See mIRC Address book.
+
+ - Added a registry patch that disinfects and protects from the Coolnote trojan.
+   Find the patches in War popups - War Utils - Disinfections. All the patches
+   are verified by F-Secure® and are safe to use.
+
+ - Fixed few typos from here and there. Thanks for helping me to spot them.
+
+ - The FServer will regognize *.asf files as "Movies" now too.
+
+ - The script titlebar shows the process when you are connecting to an IRC
+   server. It also displays the network you just logged on.
+
+ - Added "OS Uptime" display to menubar - SCRIPT Control - Script STATS.
+
+ - There's a small "Now Closing-message" when you exit mIRC (hardly visible:).
+
+ - Fixed WallOP-command in popups - IRCOP Commands - Messages.
+
+ - Some useless War Utils removed. Want them? Search in http://www.altavista.com
+   with keywords "IRC war program". You should find many.
+
+ - Added better support for spaces in the script installation path.
+
+ - There's a funny little detail in the Help [F1] - Credits section. See it ? :)
+
+ - Brief descriptions are now added to channels listed in mIRC Channels folder.
+
+ - You can drag&drop an .mp3 file to a channel, query or chat window, and command
+   /sound <nick or #chan> <filename> is automatically sent.
+
+ - The "Kick Counter" in menubar - SCRIPT Control - Script STATS will now count
+   the totals correctly. No matter how many persons you kicked simultaneously.
+
+ - Command "/cycle" updated. When you need to part a channel and join back there
+   instantly, you can type: /cycle <message> or just: /cycle.
+
+ - Script sounds take less space now, since they are encoded to .mp3's.
+
+ - Fixed IRC server notice blocking for useless messages.
+
+ - Added commands to minimize all War Clone client windows to taskbar or to the
+   system tray. Also to restore. Try it at War popups - War Clones - Actions.
+
+ - The FServer won't send the channel message if maximum users are in server.
+
+ - QuickStats won't echo to status window anymore if you parted channel quickly.
+
+ - Added "System Info" item to menubar - SCRIPT Control - Script STATS.
+
+ - The DALNet NickServ nick registration is sent in the new format, as follows:
+   REGISTER <password> <email>. Also AUTH option added (after previous).
+
+ - Added new personal modes for IRCOPs to use. See menubar or Status window popup
+   IRC Servers - IRCOP Commands.
+
+ - Added NickServ Ctrl to channel nicklist and query window popups. You can check
+   INFO or ACC level quickly for the person. User Actions - NickServ Ctrl.
+
+ - Full Channel Stats feature was not displaying the number of away users right.
+
+ - WaR Clone floods (including all) won't send out the script name anymore.
+
+ - Added new DALNet specific channel modes to channel popup - Channel Actions.
+
+ - Fixed little thing with "On Join Message". Was messaging service bots in some
+   occasions. Now will ignore ChanServ, X, W, ChanOP, Q and K9.
+
+ - IRC Server stats in the Status window popup send the commands and requests
+   now to the server you are connected to. In menubar they ask a server address.
+
+ - All dialogs now use the ShowDowN PrO icon at the top left corner. The same
+   goes also for all custom windows in the script.
+
+ - °ShowDowN PrO° Shop has been open for a while. You can buy shirts, mousepads,
+   mugs etc. from my online store. Reasonable prices and a guaranteed, fast
+   delivery. See what's offered at: http://www.cafepress.com/showdown/ NOW !
+
+ - Updated the praised "IRC Dictionary" file (IRCDict.TXT). Read and be educated.
+
+ - Removed some alternating caps from selectors, infos and script documents.
+
+ - The phrase for this version is: "Part Of IRC Since 1996...". Best thing is
+   that it's true. Oldest mIRC script in the WORLD that is still updated. Ye-haw!
+
+ - New computer jokes added to popups - Fun Actions - Funny Quotes.
+
+ - All script AscII graphic files (*.ART) have been renamed to: *.v12. "Art" was
+   a registered filetype of IExplorer, thus causing conflicts.
+
+ - Three new banners are included in the script installation folder. They are
+   sd-banner-0(1-3).jpg's. You can freely use them to add a link from your site
+   to °ShowDowN PrO° HomePage at: http://www.sci.fi/~showdown/ thank you !
+
+ - Updated the "Credits" section. Press [F1] to see if YOU are included.
+
+ - Updated the FAQ (Frequently Asked Questions) in the script help system. View
+   by pressing [F1]. I receive tons of questions and here's some answered.
+
+ - Various corrections, additions and changes to the script Help System [F1].
+
+ - Website updated frequently. ShowDowN PrO HomePage has grown big with all kinds
+   of cool stuff featured. Check out my music at: http://www.mp3.com/sdproject !
+
+ - Plus numerous small fixes, tunes, additions and updates have been made. Enjoy.
+
+ * That should be enough for anybody right ? Yeah, I think it is ...for now. Just
+   take a minute to think about the amount of great features in this script and
+   how much of my spare time I have put in to make them all possible...
+
+ * REGISTERED users will get an e-mail from me always when a new version of the
+   script is released. Join the BIG group of REGISTERED users today. Thank You !
+
+             -----------------------------------------------------
+                         - Total: over 90 updates ! -
+             -----------------------------------------------------
+
+              ----------------------------------------------------
+                  © [-ShaD-] / ShowDowN PrO SoftWare 1996-2003
+                                showdown@sci.fi
+                                       -
+                          http://www.sci.fi/~showdown/
+              ----------------------------------------------------
+
+<------------------------=º<×> °ShowDowN v12 PrO° <×>º=------------------------>

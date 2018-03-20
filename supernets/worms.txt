@@ -1,0 +1,23 @@
+4,1Worms Armageddon 0                                                                                                                                
+0,1                                                                                                                                                 
+0,1[13Installation & Setup0]                                                                                                                           
+0,011. Torrent & install Worms Armageddon                                                                                                            
+0,1	14-0 12http://thepiratebay.org/torrent/12392765/Worms_Armageddon_3.7.2.1_[no-Steam]0                                                                  
+0,1                                                                                                                                                 
+0,012. Download WormNAT2 & place the DLL files from it into the "C:\Program Files (x86)\Worms Armageddon" directory.                                 
+0,1	14-0 12http://worms.thecybershadow.net/wormkit/wkWormNAT2.zip0                                                                                        
+0,1                                                                                                                                                 
+0,013. Start the game, open the options screen, click "Advanced" & make sure "Load Wormkit modules" is checked.                                      
+0,1                                                                                                                                                 
+0,1Note: If you get an error about save data when you start worms you have to edit the worms directory folder permissions to have full write access.
+0,1                                                                                                                                                 
+0,1[13Useful Resources0]                                                                                                                               
+14,1�0 Torrent Mirror 12https://www.pyrex.pw/files/worms/worms.torrent0                                                                                  
+14,1�0 Maps & Schemes 12https://www.pyrex.pw/files/worms/worms-maps-schemes.zip0                                                                         
+14,1�0 Mod Pack	 12https://www.pyrex.pw/files/worms/worms-mods.zip0                                                                                      
+14,1�0 Worms Wiki	 12http://worms2d.info/Worms_Armageddon0                                                                                               
+0,1                                       12   0                                                                                                       
+0,1[13Credits0]                                                                                                                                        
+0,1 14-0 TEAM WORMSEC OK                                                                                                                               
+0,1 14-0 irc.supernets.org (6667/+6697) #anythinggoes                                                                                                  
+

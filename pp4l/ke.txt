@@ -1,0 +1,15 @@
+4,4sonikx1so1,1nikx4,041sonik1,1x1s4,4onikx1sonikx1soni
+4,4sonikx1soni1,1kx4,041s7,7onikx1,011s7,7onikx14,4sonikx1soni
+4,4sonikx17,7soni1,1kx7,071sonik1,1x1s7,7onik4,4x1so7,7nikx1soni
+4,4sonik7,7x1son1,1ikx7,071soni1,1kx17,7sonikx1sonikx1soni
+4,4soni7,7kx1son1,1ikx8,081son1,1ikx8,081s7,7onikx1sonikx1soni
+4,4so7,7nikx1s8,8o1,1nik8,8x1so1,1ni8,8kx1sonikx1sonikx17,7soni
+4,4s7,7onikx8,081so1,1ni8,8kx11,1son8,8ikx1sonikx1sonikx1soni
+7,7soni8,8k3,3x1s1,1on3,3ik1,1x1so3,3nik8,8x1sonikx1sonikx1soni
+3,3sonikx11,1sonikx13,3sonikx1sonikx1,011sonikx3,031soni
+3,3sonikx1,011soni12,12kx1,011so12,12nik3,3x1soni12,12k1,1x112,12so3,3nik1,1x12,1213,3soni
+12,12soni1,1kx112,12sonikx11,1son12,12ikx1soni1,1kx12,121son1,1ik12,12x1soni
+13,13so12,12n1,1ikx12,121sonikx1s1,1on12,12ikx113,13son1,1ik13,13x1s1,1oni13,13kx11,1so13,13ni
+13,13so1,1nik13,13x1sonikx1s1,1on13,13ikx1s1,1onikx1so13,13nikx1,011s13,13oni
+1,1soni13,13kx1sonikx1so1,1ni13,13kx1son1,1ikx13,131sonik1,1x113,13soni
+1,1so13,13nikx1sonikx1so1,1nikx1s13,13oni1,1kx1sonikx13,131soni

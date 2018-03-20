@@ -1,0 +1,46 @@
+                    7,7xxxxxxxxxxxxxxxx
+          7,7xxxxxxxxxxxxxxxxxxxx1,1xx7,7xxxxxxxxxxxxxx
+      7,7xxxxxxxxxxxxxx1,1xx7,7xxxxxxxxxxxxxxxxxx1,1xx7,7xxxxxx
+    7,7xxxxxxxx1,1xx7,7xxxxxxxxxxxxxx1,1xx7,7xxxxxxxxxxxxxxxxxxxx
+    7,7xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx1,1xx7,7xxxxxxxxxxxx
+  8,8xxxxxxxxxxxxxxxxxx5,5xxxxxxxxxxxx8,8xxxxxxxxxxxxxxxx5,5xxxxxx
+  8,8xx5,5xxxxxxxxxxxxxx8,8xxxxxxxxxxxxxx5,5xxxxxxxxxxxxxx8,8xxxxxx5,5xx
+    5,5xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      8,8xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx5,5xxxxxxxx8,8xxxx
+    5,5xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx8,8xxxxxxxxxxxx5,5xx
+    5,5xxxxxxxxxxxxxxxxxxxxxxxxxx8,8xxxxxx5,5xxxxxxxxxxxxxxxxxxxx
+    8,8xxxxxxxxxxxxxxxxxxxxxxxxxxxx5,5xx8,8xx5,5xx8,8xxxxxxxxxxxxxxxxxxxx
+    5,5xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx8,8xxxxxx5,5xxxxxxxxxxxxxxxxxx
+    5,5xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx8,8xx5,5xxxxxxxxxx
+  5,5xxxxxxxxxxxxxxxx8,8xxxx5,5xxxxxxxxxxxxxx8,8xxxxxxxxxxxxxxxxxxxxxxxx
+5,5xxxxxx8,8xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx5,5xxxxxxxxxxxxxxxxxx
+    8,8xxxx5,5xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      5,5xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      7,7xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    7,7xxxxxxxx1,1xx7,7xxxxxxxxxx1,1xx7,7xxxxxx1,1xx7,7xxxxxxxxxxxxxx1,1xx7,7xxxxxxxx
+    7,7xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      7,7xxxxxxxxxxxxxx1,1xx7,7xxxxxxxxxxxxxxxxxx1,1xx7,7xxxxxxxxxxxxxx
+        7,7xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                     7,7xxxxxxxxxxxxxxxxxxxx
+                      |.      ':. ;``"``\
+                     / '::'::'    /      ;
+                    |':::' '::'  /       |
+                    \   '::' _.-`;       ;
+                    /`-..--;` ;  |       |
+                   ;  ;  ;  ;  ; |       |
+                   ; ;  ;  ; ;  ;        /        ,--.........,
+                   |; ;  ;  ;  ;/       ;       .'           -='.
+                   | ;  ;  ; ; /       /       .\               '
+                   |  ;   ;  /`      .\   _,=="  \             .'
+                   \;  ; ; .'. _  ,_'\.\~"   //`. \          .'
+                   |  ;  .___~' \ \- | |    /,\ `  \      ..'
+                 ~ ; ; ;/  =="'' |`| | |       =="''\.==''
+                 ~ /; ;/=""      |`| |`|   ==="`
+                 ~..==`     \\   |`| / /=="`
+                  ~` ~      /,\ / /= )")
+                 ~ ~~         _')")  
+                 ~ ~   _,=~";`
+                 ~  =~"|;  ;|       4QUADSTACKERbird
+                  ~  ~ | ;  |       ===============
+               ~ ~     |;|\ |
+                       |/  \|

@@ -1,0 +1,32 @@
+12,12xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx15,15xx12,12xxxxxx
+12,12xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx15,15xx12,12xxxxxx
+12,12xxxxx11,02GAY HEADQUARTERS12,12xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx15,15xx12,12xxxxxx
+12,12xxxxxxxxx11,02SEATTLE, WA12,12xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxxxxxxxx4,4xxxxxx12,12xx4,4xxxxxx12,12xxxxxxxxxxxxxxxxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxxxxxx4,4xxxxxxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxxxx4,4xxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxxxx4,4xxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxx4,4xxxxxxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxx4,4xxxxxxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxx4,4xxxxxxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxxxx8,8xxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxxxx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx12,12xxxxxxxxxxxxxxxx15,15xxxxxx
+12,12xxxxxxxxxxxxxxxxxxxx8,8xxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxx15,15xx1,1xx15,15xx
+12,12xxxxxxxxxxxxxxxxxxxx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx12,12xxxxxxxxxxxxxxxx15,15xxxxxx
+12,12xxxxxxxxxxxxxxxxxxxx8,8xxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxx15,15xxxxxx
+12,12xxxxxxxxxxxxxxxxxxxx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx12,12xxxxxxxxxxxxxxxx15,15xx1,1xx15,15xx
+12,12xxxxxxxxxxxxxxxxxxxx8,8xxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxx15,15xxxxxx
+12,12xxxxxxxxxxxxxxxxxxxx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx12,12xxxxxxxxxxxxxxxx15,15xxxxxx
+12,12xxxxxxxxxxxxxxxxxxxx8,8xxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxx15,15xx1,1xx15,15xx
+12,12xxxxxxxxxxxxxxxxxxxx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx12,12xxxxxxxxxxxxxxxx15,15xxxxxx
+12,12xxxxxxxxxxxxxxxxxxxx8,8xxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxx15,15xxxxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxxxx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx12,12xxxxxxxx15,15xx1,1xx15,15xxxx1,1xx15,15xxxx
+14,14xxxxxx12,12xxxxxxxxxxxxxx8,8xxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxx15,15xxxxxxxxxxxxxx
+14,14xxxxxx12,12xxxxxxxxxxxxxx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx12,12xxxxxxxx15,15xxxxxxxxxxxxxx
+14,14xxxxxx12,12xxxxxxxxxxxxxx8,8xxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxx15,15xx1,1xx15,15xxxx1,1xx15,15xxxx
+14,14xxxxxx12,12xxxxxxxxxxxxxx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx12,12xxxxxxxx15,15xxxxxxxxxxxxxx
+14,14xxxxxx12,12xxxxxxxxxxxxxx8,8xxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxx15,15xxxxxxxxxxxxxx
+14,14xxxxxx12,12xxxxxxxxxxxxxx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx1,1xx8,8xx12,12xxxxxxxx15,15xx1,1xx15,15xxxx1,1xx15,15xxxx
+14,14xxxxxx12,12xxxxxxxxxxxxxx8,8xxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxx15,15xxxxxxxxxxxxxx
+14,14xxxxxx12,12xxxxxxxxxxxxxx8,8xxxxxxxx1,1xxxxxx8,8xxxxxxxx12,12xxxxxxxx15,15xxxxxxxxxxxxxx
+14,14xxxxxx12,12xxxxxxxxxxxxxx8,8xxxxxxxx1,1xxxxxx8,8xxxxxxxx12,12xxxxxxxx15,15xxxxxxxxxxxxxx

@@ -1,0 +1,20 @@
+01,01xxxx03,03xxxxxxxx00,00xxxxxxxxxxxxxxxx03,03xxxxxxxx01,01xxxx
+01,01xxxxxx03,03xxxxxx  01,00    pumper  03,03xxxxxxxx01,01xxxxxx
+01,01xx03,03xx01,01xxxx03,03xxxxxxxx00,00xxxxxxxx03,03xxxxxxxx01,01xxxx03,03xx01,01xx
+01,01xx03,03xx04,04xx01,01xxxx03,03xxxxxxxx00,00xxxx03,03xxxxxxxx01,01xxxx04,04xx03,03xx01,01xx
+01,01xx03,03xx04,04xxxx01,01xxxx03,03xxxxxxxxxxxxxxxx01,01xxxx04,04xxxx03,03xx01,01xx
+03,03xxxx04,04xxxxxx01,01xxxx03,03xxxxxxxxxxxx01,01xxxx04,04xxxxxx03,03xxxx
+03,03xxxx04,04xxxxxxxx01,01xxxx03,03xxxxxxxx01,01xxxx04,04xxxxxxxx03,03xxxx
+03,03xxxxxx04,04xxxxxx03,03xxxxxxxxxxxxxxxx04,04xxxxxx03,03xxxxxx
+03,03xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+01,01xxxxxx03,03xxxxxxxxxxxxxxxxxxxxxxxxxxxx01,01xxxxxx
+01,01xx00,00xx01,01xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx00,00xx01,01xx
+01,01xxxx05,05xxxxxxxx01,01xx00,00xx01,01xx05,05xxxx01,01xx00,00xx01,01xx05,05xxxxxxxx01,01xxxx
+03,03xx01,01xxxx05,05xxxxxxxx01,01xx05,05xxxxxxxx01,01xx05,05xxxxxxxx01,01xxxx03,03xx
+03,03xxxx01,01xxxx05,05xxxxxxxxxxxxxxxxxxxxxxxx01,01xxxx03,03xxxx
+03,03xxxxxx01,01xxxxxx05,05xxxxxxxxxxxxxxxx01,01xxxxxx03,03xxxxxx
+00,00xx03,03xxxxxxxx01,01xxxx05,05xxxxxxxxxxxx01,01xxxx03,03xxxxxxxx00,00xx
+00,00xxxx03,03xxxxxxxx01,01xxxx05,05xxxxxxxx01,01xxxx03,03xxxxxxxx00,00xxxx
+00,00xxxxxx03,03xxxxxxxx01,01xxxx05,05xxxx01,01xxxx03,03xxxxxxxx00,00xxxxxx
+00,00xxxxxxxxxx03,03xxxxxx01,01xxxxxxxx03,03xxxxxx00,00xxxxxxxxxx
+00,00xxxxxxxxxxxxxx03,03xxxxxxxxxxxx00,00xxxxxxxxxxxxxx

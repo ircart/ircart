@@ -1,0 +1,6 @@
+6auth {
+3    user = "pumper@*.wepump.in";
+5    spoof = "penis.pump.4.lyfe";
+7    flags = gline_exempt, can_pump;
+10    class = "pumpers";
+2};

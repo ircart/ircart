@@ -1,0 +1,12 @@
+4,4http://code.google.com/p/asciipumper/ http://code.google.com/p/asci
+4,4http://code.google.com/p/asciipumper/ http://code.google.com/p/asci
+4,4http:/0,0/code.g4,4o0,0ogl4,4e.co0,0m/p/a4,4scii0,0pum4,4per0,0/ h4,4t0,0tp://code.g4,4oogl0,0e.com/p4,4/asci
+4,4http:0,0/12,12/code.0,0g4,4o0,0o12,12g0,0l4,4e.c0,0o12,12m/p/a0,0s4,4cii0,0p12,12um0,0p4,4er0,0/12,12 0,0h4,4t0,0t12,12p://c8,8o12,12de.0,0g4,4oog0,0l12,12e.com/0,0p4,4/asci
+4,4http0,0:12,12/0,0/co8d8,8e.google.co0,0m/p/a12,12s0,0c4,4ii0,0p12,12u0,0m12,12p0,0e4,4r0,0/12,12 0,0h4,4t0,0tp://12,12c8,8o0,0de.g4,4oo0,0g12,12l0,0e.com/p4,4/asci
+4,4htt0,0p12,12:0,0/4,4/co8,8de4,4.go0,0o12,12g0,0l4,4e0,0.12,12c0,0o4,4m/8,8p4,4/a0,0s12,12c0,0i8,8ip12,12u0,0mp12,12e0,0r8,8/ http4,4:/0,0/8,8c0,0o4,4de.8,8goog0,0l4,4e.com/p/asci
+4,4htt0,0p12,12:0,0/4,4/0,0co8,8de.google.c0,0om/8,8p0,0/as12,12c0,0i4,4i8,8p12,12u0,0m4,4p0,0e8,8r/12,12 0,0h4,4ttp:/0,0/8,8c0,0o8,8de.4,4go0,0o12,12g0,0le.com/p4,4/asci
+4,4htt0,0p12,12:0,0/4,4/0,0c12,12ode.0,0g4,4o0,0o12,12g0,0l4,4e0,0.8,8com12,12/8,8p12,12/asc0,0i4,4i8,8p12,12u0,0m4,4p8,8er12,12/ 0,0h4,4ttp:/0,0/8,8code4,4.goo0,0g12,12le.com/p0,0/4,4asci
+4,4htt0,0p12,12:0,0/4,4/0,0code12,12.0,0g4,4o0,0o12,12g0,0l4,4e0,0.12,12c0,0o8,8m0,0/8,8p/0,0as12,12c8,8iip12,12u0,0m4,4p8,8e4,4r0,0/12,12 0,0h4,4ttp:/0,0/8,8c0,0o4,4d8,8e.goo4,4g0,0le.com/12,12p/0,0a4,4sci
+4,4http0,0:12,12/0,0/co8,8de.g4,4o0,0o12,12g0,0l4,4e8,8.com4,4/p8,8/asci4,4i0,0p12,12u0,0m4,4p8,8er/ http4,4:/0,0/8,8c0,0o4,4de.go8,8ogle.0,0com/12,12p0,0/4,4asci
+4,4http:0,0/12,12/code0,0.8,8google.12,12c0,0o4,4m/p/a0,0s12,12c0,0i4,4i0,0p12,12u0,0m4,4per0,0/12,12 0,0h4,4ttp:/0,0/8,8c0,0o4,4de.go0,0o12,12gle8,8.c12,12om/0,0p4,4/asci
+4,4http://code.google.com/p/asciipumper/ http://code.google.com/p/asci

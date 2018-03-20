@@ -1,0 +1,34 @@
+8,4HOARDERS...YOU.DEFY.COLLECTIVISM.AND.KEEP.BACK.THE.FORCES.OF
+8,4.REVOLUTION...DOWN.WITH.SHOWERS.AND.UP.WITH.GNU...REMEMBER..
+8,4.NOT.UNIX.ALSO.M1,1                  8,4EANS.NOT.USABLE...THERE.IS
+8,4.NO.CHANNEL.B1,1         0,0        1,1      8,4UT.BUTTES.AND.GUDROW.IS.
+8,4ITS.KING..1,1        0,0              1,1      8,4.HOARDERS...YOU.DEFY.C
+8,4OLLECTIVI1,1      0,0                 1,1        8,4SM.AND.KEEP.BACK.THE
+8,4.FORCES.1,1     0,0                    1,1         8,4OF.REVOLUTION...DO
+8,4WN.WITH1,1     0,0                       1,1         8,4.SHOWERS.AND.UP.
+8,4WITH.G1,1      0,0                       1,1          8,4NU...REMEMBER..
+8,4.NOT.U1,1       0,0              1,1    0,0   1,1           8,4NIX.ALSO.MEANS.
+8,4NOT.U1,1             0,0              1,1              8,4SABLE...THERE.
+8,4IS.NO1,1         0,0   1,1 5,5 1,1  0,0   1,1   0,0 1,1 5,5 1,1    0,0    1,1         8,4.CHANNEL.BUT.
+8,4BUTT1,1             5,5  0,0 1,1 0,0   1,1  0,0  5,5  0,0         1,1         8,4ES.AND.GUDRO
+8,4W.I1,1           0,0     1,1 0,0                  1,1           8,4S.ITS.KING.
+8,4..1,1         0,0        1,1 0,0                  1,1            8,4HOARDERS..
+8,4.Y1,1         0,0                           1,1             8,4OU.DEFY.C
+8,4O1,1          0,0        1,1   0,0 1,1  0,0             1,1              8,4LLECTIVI
+8,4S1,1          0,0       1,1              0,0      1,1               8,4M.AND.K
+8,4E1,1          0,0     1,1                 0,0    1,1                8,4EP.BACK
+8,4.T1,1          0,0  1,1       0,0      1,1       0,0  1,1                   8,4HE.FO
+8,4RC1,1                0,0 1,1   0,0        1,1   0,0 1,1                      8,4ES.O
+8,4F.1,1                0,0    1,1       0,0  1,1                           8,4RE
+8,4VO1,1                                                         8,4L
+8,4UT1,1                                                         8,4I
+8,4ON1,1            8,8  1,1 8,8   1,1  8,8  1,1  8,8 1,1   8,8 1,1   8,8 1,1   8,8 1,1  8,8  1,1  8,8 1,1  8,8 1,1           
+8,4..1,1           8,8 1,1    8,8 1,1  8,8 1,1  8,8 1,1 8,8 1,1   8,8 1,1   8,8  1,1 8,8  1,1 8,8 1,1  8,8 1,1 8,8  1,1 8,8 1,1           
+8,4.DO1,1           8,8 1,1   8,8 1,1  8,8    1,1 8,8 1,1   8,8 1,1   8,8 1,1 8,8 1,1 8,8 1,1 8,8    1,1 8,8 1,1 8,8  1,1          8,4W
+8,4N.WIT1,1       8,8  1,1    8,8 1,1  8,8 1,1  8,8 1,1 8,8   1,1 8,8   1,1 8,8 1,1   8,8 1,1 8,8 1,1  8,8 1,1 8,8 1,1  8,8 1,1          8,4H
+8,4.SHOWE1,1                                                    8,4RS
+8,4.AND.UP1,1                                      0,1BY EGG1,1     8,4.WIT
+8,4H.GNU...1,1                         8,4REMEMB1,1               8,4ER...N
+8,4OT.UNIX.AL1,1               8,4SO.MEANS.NOT.USABLE1,1      8,4...THERE.I
+8,4S.NO.CHANNEL.BUT.BUTTES.AND.GUDROW.IS.ITS.KING...HOARDERS...
+8,4YOU.DEFY.COLLECTIVISM.AND.KEEP.BACK.THE.FORCES.OF.REVOLUTION

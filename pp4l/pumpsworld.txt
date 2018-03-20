@@ -1,0 +1,15 @@
+1,1pumpsworldpumpsworldpumpsworldpumpsworldpumpsworldpumpsworldpu
+1,1pumps0,0worldpump1,1sw0,0or1,1ldp0,0um1,1p0,0sw1,1orldp0,0um1,1p0,0sworldpum1,1ps0,0wor1,1l0,0dpumpswo1,1rldpu
+1,1pumps0,0wo1,1rldpu0,0mp1,1sw0,0or1,1ldp0,0um1,1p0,0swo1,1rld0,0pum1,1p0,0sw1,1orldp0,0um1,1pswo0,0r1,1l0,0dp1,1umpsworldpu
+1,1pumps0,0wo1,1rldpu0,0mp1,1sw0,0or1,1ldp0,0um1,1p0,0sw1,1o0,0r1,1l0,0d1,1p0,0um1,1p0,0sw1,1orldp0,0um1,1psworl0,0dp1,1umpsworldpu
+1,1pumps0,0worldpump1,1sw0,0or1,1ldp0,0um1,1p0,0sw1,1or0,0l1,1dp0,0um1,1p0,0sworldpum1,1psworl0,0dpumpswo1,1rldpu
+1,1pumps0,0wo1,1rldpumpsw0,0or1,1ldp0,0um1,1p0,0sw1,1orldp0,0um1,1p0,0sw1,1orldpumpsworldpumps0,0wo1,1rldpu
+1,1pumps0,0wo1,1rldpumpsw0,0orldpum1,1p0,0sw1,1orldp0,0um1,1p0,0sw1,1orldpumpsworl0,0dpumpswo1,1rldpu
+1,1pumpsworldpumpsworldpumpsworldpumpsworldpumpsworldpumpsworldpu
+1,1pumps0,0wo1,1rldpumpswor13,13ldpump1,1sworl0,0dpumps1,1world0,0p1,1umpswor0,0ldpumpsw1,1orldpu
+1,1pumps0,0wo1,1rldpumpswo13,13rl1,1dpum13,13psw1,1orl0,0d1,1pump0,0sw1,1orld0,0p1,1umpswor0,0ld1,1pumps0,0wo1,1rldpu
+1,1pumpsw0,0or1,1ldp0,0u1,1mpswo13,13r1,1ldpumpsw13,13o1,1rl0,0d1,1pum0,0psw1,1orld0,0p1,1umpswor0,0ld1,1pumpsw0,0o1,1rldpu
+1,1pumpswo0,0r1,1ld0,0pump1,1sw0,0o13,13r1,1ldpumpsw13,13o1,1rl0,0dpump1,1sworld0,0p1,1umpswor0,0ld1,1pumpsw0,0o1,1rldpu
+1,1pumpswo0,0r1,1l0,0dp1,1um0,0pswo13,13rl1,1dpumpsw13,13o1,1rl0,0d1,1pump0,0sw1,1orld0,0p1,1umpswor0,0ld1,1pumps0,0wo1,1rldpu
+1,1pumpswo0,0rld1,1pumps0,0w1,1or13,13ldpumpswo1,1rl0,0d1,1pumpsw0,0or1,1ld0,0pumpsw1,1or0,0ldpumpsw1,1orldpu
+1,1pumpsworldpumpsworldpumpsworldpumpsworldpumpsworldpumpsworldpu

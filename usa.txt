@@ -1,0 +1,13 @@
+4,4xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+0,0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+4,4xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+0,0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+4,4xxxxxxxx0,4DEMOCRACY4,4xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+0,0xxxxxxxx4,0MORE LIKE0,0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+4,4xxxxxxxx0,4HYPOCRISY4,4xxxxxxxxxxxxx2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*
+0,0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx2,20,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x
+4,4xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*
+0,0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx2,20,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x
+4,4xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*
+0,0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx2,20,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x
+4,4xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*2,2x0,2*

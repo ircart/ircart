@@ -1,0 +1,10 @@
+1,1same same same same same same same same same same sam
+1,1same8,8 same 1,1same s8,8ame s1,1ame 8,8sa1,1me8,8 sa1,1me 8,8sam1,1e same8,8 same1,1 sam
+1,1sa8,8me 1,1same same8,8 sa1,1me s8,8am1,1e s8,8ame 1,1s8,8am1,1e8,8 s1,1a8,8m1,1e sam8,8e 1,1sam8,8e1,1 sam
+1,1sa8,8me1,1 same same same sa8,8m1,1e sa8,8me1,1 sa8,8me 1,1sa8,8m1,1e sa8,8me1,1 sam8,8e1,1 sam
+1,1same8,8 same sa1,1me same 8,8same1,1 sa8,8me1,1 sam8,8e1,1 sa8,8me1,1 s8,8am1,1e s8,8ame1,1 sam
+1,1same same s8,8a1,1me sa8,8me s1,1am8,8e1,1 sam8,8e1,1 sam8,8e1,1 sam8,8e1,1 s8,8ame sa1,1me sam
+1,1same same 8,8sa1,1me s8,8am1,1e sam8,8e1,1 sam8,8e1,1 sam8,8e1,1 sam8,8e 1,1sa8,8m1,1e same sam
+1,1same sam8,8e s1,1ame 8,8sa1,1me s8,8ame 1,1sam8,8e1,1 sam8,8e1,1 same8,8 1,1sa8,8me1,1 sam8,8e s1,1am
+1,1sam8,8e same1,1 same s8,8ame sa1,1me8,8 s1,1am8,8e1,1 sam8,8e1,1 same8,8 1,1same8,8 same1,1 sam
+1,1same same same same same same same same same same sam

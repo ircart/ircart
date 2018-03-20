@@ -1,0 +1,20 @@
+1,1xxxx3,3xxxxxxxx0,0xxxxxxxxxxxxxxxx3,3xxxxxxxx1,1xxxx
+1,1xxxxxx3,3xxxxxx  4,0          1  3,3xxxxxxxx1,1xxxxxx
+1,1xx3,3xx1,1xxxx3,3xxxxxxxx0,0xx4      4,3 3xxxxxxx1,1xxxx3,3xx1,1xx
+1,1xx3,3xx4,4xx1,1xxxx3,3xxxxxxxx0,0xxxx3,3xxxxxxxx1,1xxxx4,4xx3,3xx1,1xx
+1,1xx3,3xx4,4xxxx1,1xxxx3,3xxxxxxxxxxxxxxxx1,1xxxx4,4xxxx3,3xx1,1xx
+3,3xxxx4,4xxxxxx1,1xxxx3,3xxxxxxxxxxxx1,1xxxx4,4xxxxxx3,3xxxx
+3,3xxxx4,4xxxxxxxx1,1xxxx3,3xxxxxxxx1,1xxxx4,4xxxxxxxx3,3xxxx
+3,3xxxxxx4,4xxxxxx3,3xxxxxxxxxxxxxxxx4,4xxxxxx3,3xxxxxx
+3,3xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1,1xxxxxx3,3xxxxxxxxxxxxxxxxxxxxxxxxxxxx1,1xxxxxx
+1,1xx0,0xx1,1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0,0xx1,1xx
+1,1xxxx5,5xxxxxxxx1,1xx0,0xx1,1xx5,5xxxx1,1xx0,0xx1,1xx5,5xxxxxxxx1,1xxxx
+3,3xx1,1xxxx5,5xxxxxxxx1,1xx5,5xxxxxxxx1,1xx5,5xxxxxxxx1,1xxxx3,3xx
+3,3xxxx1,1xxxx5,5xxxxxxx1the4 1pumper5xxxxxxx1,1xxxx3,3xxxx
+3,3xxxxxx1,1xxxxxx5,5xxxx1 monster5xxxx1,1xxxxxx3,3xxxxxx
+0,0xx3,3xxxxxxxx1,1xxxx5,5xxx1 5xxxxxxxx1,1xxxx3,3xxxxxxxx0,0xx
+0,0xxxx3,3xxxxxxxx1,1xxxx5,5xxxxxxxx1,1xxxx3,3xxxxxxxx0,0xxxx
+0,0xxxxxx3,3xxxxxxxx1,1xxxx5,5xxxx1,1xxxx3,3xxxxxxxx0,0xxxxxx
+0,0xxxxxxxxxx3,3xxxxxx1,1xxxxxxxx3,3xxxxxx0,0xxxxxxxxxx
+0,0xxxxxxxxxxxxxx3,3xxxxxxxxxxxx0,0xxxxxxxxxxxxxx

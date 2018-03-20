@@ -1,0 +1,50 @@
+0,1            0,4 0,1                      0,11                                              0,1    
+0,1           0,4   0,1                     0,11                                              0,1    
+0,1      0,4 0,1    0,4 0,7 0,4 0,1       0,4 0,1             0,11   0,4    0,1      0,7 0,1                         0,11       0,1    
+0,1     0,4   0,1  0,4  0,7 0,4  0,1     0,4  0,1             0,11   0,4      0,1  0,7     0,1                       0,11       0,1    
+0,1    0,4  0,7 0,4 0,1  0,4 0,7   0,4  0,1    0,4   0,1            0,11   0,4        0,1  0,7 0,1                         0,11       0,1    
+0,1   0,4  0,7  0,4 0,1  0,4 0,7 0,8 0,7  0,4 0,1   0,4  0,7 0,4  0,1      0,0 0,1    0,11   0,4         0,1                           0,11       0,1    
+0,1  0,4 0,7 0,8  0,7 0,1   0,7 0,8  0,7  0,4 0,1   0,4 0,7 0,8 0,7 0,4 0,1      0,0 0,1    0,11   0,4           0,0                         0,11       0,1    
+0,1 0,7  0,8  0,7 0,1  0,7   0,8   0,7  0,1   0,4 0,7 0,8  0,7  0,1  0,0       0,1 0,11   0,4             0,0                       0,11       0,1    
+0,7  0,8  0,7 0,1  0,7    0,8   0,7  0,1   0,7  0,8  0,7  0,1     0,0 0,1    0,11   0,4              0,0                      0,11       0,1    
+0,7 0,8  0,7 0,1   0,7   0,8    0,7 0,1  0,7    0,8   0,7  0,1    0,0 0,1    0,11   0,4             0,3                       0,11       0,1    
+0,7         0,8       0,7    0,8     0,7 0,1         0,11   0,4           0,3                         0,11       0,1    
+0,7             0,8   0,7           0,1        0,11   0,4       0,3                             0,11       0,1    
+0,7                            0,1       0,11   0,4    0,3                                0,11       0,1    
+0,7                             0,1      0,11                                              0,1    
+0,7                              0,1     0,11                                              0,1    
+0,1                     9THE f1re + VXP hate/fan club!!! 0                                
+0,1                                                                                     
+0,1                                                                                     
+0,1                       9FANS: Lorillard Tobacco Co.(Newports)0                         
+0,1                             9go6.net ipv6 gateway0                                    
+0,1                             9vap0r/pheco0                                             
+0,1                             9FncyPntz0                                                
+0,1                             9PP4L0                                                    
+0,1                             9DFI(rip)0                                                
+0,1                             0910% of EFNet0                                            
+0,1                             9#Impulse0                                                
+0,1                             9hundres of women worldwide(ya we pimpin)0                
+0,1                     9HATERS: #Efnet/#sex/#obs 0                                       
+0,1                             9BraGGy 0                                                 
+0,1                             9every brackey0                                           
+0,1                             9#vanity key=vanity(genius)0                              
+0,1                             0990% of EFNet0                                            
+0,1                             9irc-junkies.org0                                         
+0,1                             9oz/zi/ayzee(basically any opers with z in the nick)0     
+0,1                             9bryan(doesnt hate f1re just vxp)0                        
+0,1                             9infid3l(doesnt hate vxp just f1re)0                      
+0,1                             9HIVlntine       0                                        
+0,1   9SHOUTS TO: pagga, hozkinz, synth, pheco, vap0r, pauzed, scd, redrum-i, luldungs, 0 
+0,1   9turbonegr, fncypntz, CHOzen1, pervert, tnt419, terror, acid, moon, shaggs, analog,
+0,1   9Johne, c0rrupt, billeh, nstavros, TiK, vxb(inaca), weblog(hehe), Chuck(know IRL),1R
+0,1   9litup/OSjedi(at ease soldiers, be safe), gimpyD, grooblle, Swishy, CCE, cpt_lare,0 
+0,1   9janet, brandi, r3my, hzu, insect, iNFERNiS, l0de, nino, nev4r, #PENISPUMP, aic, 0  
+0,1   9Crash2Wrk, lame, under, solaar, [-JuNKa-], aRch^, tarpsocks, Mr^Mafia, Benji,  0   
+0,1   9gobeyond, gay_panda, cutie578, goatty/gnaddy, lilpeepee, infid3l(<3), shortyz, 0   
+0,1   9TACO, Hermes, PullTab, ramprat, SubbyMan, xt0rt, burnice, defile, ke, g00n, Hams,0 
+0,1   9Snaxe, Eaglebird, Nyieusgrube, s0ftd1ss(sup pops), zippy2, test4, hlcno, E_T      
+0,1   9            0                                                                      
+0,1                                                                                     
+0,1                                                                                     
+0,1                                                                                     

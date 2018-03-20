@@ -1,0 +1,16 @@
+        1,1hhhhhhhhhhhh        
+      1,1hh4,4hhhhhhhhhhhh1,1hh      
+    1,1hh4,4hhhhhhhhhhhhhhhh1,1hh    
+    1,1hh4,4hhhhhhhhhhhhhhhh1,1hh    
+    1,1hhhh4,4hhhhhhhhhhhh1,1hh1,1hh  
+  1,1hhhh0,0hh1,1hhhhhhhhhhhh0,0hh1,1hhhh  
+1,1hh0,0hh1,1hh0,0hhhhhhhhhhhhhhhh1,1hh0,0hh1,1hh
+1,1hh0,0hhhh0,0hhhh1,1hh0,0hhhh1,1hh0,0hhhh0,0hhhh1,1hh
+  1,1hhhh0,0hhhh1,1hh0,0hhhh1,1hh0,0hhhh1,1hhhh  
+  1,1hhhhhh0,0hhhhhhhhhhhh1,1hhhhhh  
+1,1hh0,0hhhh1,1hhhhhhhhhhhhhhhh0,0hhhh1,1hh
+1,1hh0,0hhhh1,1hhhhhhhhhhhhhhhh0,0hhhh1,1hh
+  1,1hhhhhh4,4hhhh1,1hhhh4,4hhhh1,1hhhhhh  
+    1,1hh4,4hh1,1hhhh4,4hhhh1,1hhhh4,4hh1,1hh    
+    1,1hh4,4hhhhhh1,1hhhh4,4hhhhhh1,1hh    
+      1,1hhhhhh    1,1hhhhhh      

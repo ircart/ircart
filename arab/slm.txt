@@ -1,0 +1,10 @@
+1,1ooooooooo4,4o1,1oooooooooo
+1,1ooooooooo4,4oo1,1ooooooooo
+1,1ooooooooo4,4o1,1oooooo4,4oo1,1oo
+1,1ooo4,4oo1,1oooo4,4o1,1oo4,4o1,1o4,4o1,1oo4,4oo1,1o
+1,1oooo4,4oo1,1ooo4,4o1,1ooo4,4o1,1o4,4o1,1o4,4oo1,1o
+1,1oooo4,4ooooooooooooooo1,1o
+1,1ooo4,4o1,1oooooooooooooooo
+1,1ooo4,4o1,1oooooooooooooooo
+1,1ooo4,4o1,1oooooooooooooooo
+1,1oooo4,4o1,1ooooooooooooooo

@@ -1,0 +1,259 @@
+<------------------------=º<×> °ShowDowN v12 PrO° <×>º=------------------------>
+
+          -----------------------------------------------------------
+            -=º<×> °ShowDowN PrO° <×>º=- Versions And Development !
+          -----------------------------------------------------------
+
+ Welcome to °ShowDowN PrO° versions and development file ! In this file, I will
+    list some version history of this script and personal thoughts of mine.
+
+      (For basic info about ShowDowN PrO, please refer to READTHIS.TXT !)
+
+             -----------------------------------------------------
+                           -=º<×> °Contents° <×>º=-
+             -----------------------------------------------------
+
+                        (1) ShowDowN PrO Versions Info
+                        (2) Script Future / Development
+                        (3) Legal Disclaimer
+
+             -----------------------------------------------------
+                        (1) ShowDowN PrO Versions Info
+             -----------------------------------------------------
+ 
+   Versions of the ShowDowN PrO script that have been publicly released are:
+ v3.5, v4.5, v5.5, v6.5, v7.5, v7.7, v8.5, v9.5, v10, v11, v12 and v12-r².
+
+ -----------------------------
+ º<×> °ShowDowN v3.5 PrO° <×>º
+ (For mIRC 4.6 at October '96)
+ -----------------------------
+
+   The first version of ShowDowN PrO that was publicly released ! This is really
+ nothing more today than a collectors item. It all started from here. It's quite
+ amazing how much the script has gone better from this version. But you know, it
+ all has to start somewhere. Even the Rome was not built in one day. This version
+ had users globally about 200.
+
+ ---------------------------------
+ -=º<×> °ShowDowN v4.5 PrO° <×>º=-
+ (For mIRC 4.7 at December '96)
+ ---------------------------------
+
+   The script got better as I learned more about the mIRC scripting. I guess this
+ means that ShowDowN PrO was growing up with me. As it still is today. Though the
+ script wasn't very advanced at the time, this version had it's faithful users.
+ I have all other ShowDowN PrO versions saved, but not this one (damn!). So if
+ someone has this version, please send it to me :) Had users around 500 or so.
+
+ ---------------------------------
+ -=º<×> °ShowDowN v5.5 PrO° <×>º=-
+ (For mIRC 4.72 at February '97)
+ ---------------------------------
+
+   With this release, ShowDowN PrO made it's final breaktrough, and got into the
+ hearts of many people. This version was introducing for the first time the WaR
+ and Normal popup modes of the script, that are almost legendary nowadays, and
+ an essential part of the script even today. The unique look and the style of the
+ script was starting to form in this version that even got some awards from mIRC
+ scripting websites. This version got pretty famous and had users over 2000.
+
+ ---------------------------
+ <=- °ShowDowN v6.5 PrO° -=>
+ (For mIRC 5.02 at July '97)
+ ---------------------------
+
+   I worked quite hard to make this version possible. Introduced very much cool
+ and useful new features. Since the previous version had done the breaktrough
+ already, it was very easy for this version to get very popular and receive users
+ worldwide. The own style of ShowDowN PrO that points it out from other mIRC
+ scripts was shaped into it's final form. One could say, that it can only get
+ better from here. This version had it's moments and got total users over 5000.
+
+ ------------------------------
+ <=- °ShowDowN v7.5 PrO° -=>
+ (For mIRC 5.3 at December '97)
+ ------------------------------
+
+   Since a quite big break in the development of ShowDowN PrO, I decided to get
+ back in to work again. I had received huge amounts of supporting and encouraging
+ e-mails from the script's users and I just couldn't let them all down by
+ dropping the development. Users of my script are special and all VERY important
+ to me, and that's a fact. This version introduced a great deal of new features
+ and was supporting the new mIRC features better. Since the previous versions had
+ done so well, it was not hard to get well over the 10000 users limit.
+
+ ------------------------------
+ <=- °ShowDowN v7.7 PrO° -=>
+ (For mIRC 5.31 at January '98)
+ ------------------------------
+
+   This was an update version where I included the features that were left out
+ from the last release. This is among the alltime most used mIRC scripts for
+ sure. A big thanks for that goes to you, script users. Thanks everyone for
+ the support I have received. But note that upgrading a script this big is
+ really hard work and takes up lots of time and money. On to the next version...
+
+ ---------------------------
+ <=- °ShowDowN v8.5 PrO° -=>
+ (For mIRC 5.4 at July '98)
+ ---------------------------
+
+   Winds of change started to blow as this was the biggest update to ShowDowN PrO
+ so far. The amount of new cool features was almost overwhelming. For this new
+ version, I had almost totally rewritten the script's code, help files and other
+ related files. Many unique features were introduced, that couldn't be found from
+ anywhere else. And what was among the biggest and most awaited new things in the
+ script was the chance to REGISTER it to yourself. This was also the first time
+ that it had ever been done in a mIRC script. But ShowDowN PrO was gotten used to
+ showing way to the other scripts. This version had also gone trough an extremely
+ long beta testing phase to sort out all possible bugs. And what was cool is that
+ now you could participate and contribute to the script by REGISTERING it against
+ a very small amount of money. Due to that, I can keep on producing better and
+ more advanced versions of this script for you to enjoy. Thank you very much for
+ all that REGISTERED their copy. Remember that the REGISTRATION is valid for all
+ the future versions also. So anyway, this version was the first one I was very
+ satisfied of. This was the script's comeback and a final breaktrough as I also
+ had planned it. It's true that over 100.000 people have tried out this version.
+
+ ------------------------------
+ <=- °ShowDowN v9.5 PrO° -=>
+ (For mIRC 5.41 at January '99)
+ ------------------------------
+
+   This was a version I actually coded while I was in the army, doing my military
+ service(!). I guess this shows how much dedication I have towards this "job" as
+ I may call it today. Let me tell you a little story about this... We had a one
+ month break in the military training. Other guys were playing games and watching
+ movies but not me. I brought my computer to the base and planted it into a small
+ office at the top floor. I sat there everyday from morning to late night coding
+ SD PrO, drinking soda and smoking cigarettes. Hehe, that was against the strict
+ regulations though... but it was essential for the development =D Oh, those were
+ the days. There were quite remarkable new features in this one, including a
+ chance to turn ON/OFF all script's colours, the menubar themes and languages.
+ People really appreciated these, and they provoked me to make effort boosting up
+ the configurability in ShowDowN PrO. I assume after this version, all the
+ expectations had to be very high for people that had gotten used to the good
+ quality and range of features. The script homepages broke the 500000 visitors
+ limit. I worked much on the script homepage, making it a cool place to visit.
+
+ --------------------------------
+ °ShowDowN v10 PrO°
+ (For mIRC 5.61 at January '2000)
+ --------------------------------
+
+   I had big difficulties finding time to make this version, since I had so
+ little spare time. I took my time to arrange things in my real life. Got out of
+ the army, moved to a bigger apartment, bought a new car and got a new job. When
+ all of this was done, I could sit back and start to code a new version of the
+ script again. And I worked really hard on this version. I actually coded 8 hours
+ almost every day for a month. A total facelift was done to ensure easy usage.
+ Professional dialog setups, themes for popups, adjustable protections, dynamic
+ menus etc. etc. URL for the script homepage changed to www.sci.fi/~showdown/.
+
+ -----------------------------
+ °ShowDowN v11 PrO°
+ (For mIRC 5.71 at June '2000)
+ -----------------------------
+
+   This script version, as usual, was full of new exciting and unseen features.
+ From these, my favorite would have been be the Script Skins addition. The script
+ used more dialogs throughout. Key words are: clear user interface, easy to use,
+ comprehensive, good design and WORKING items. All setups can be seen to come
+ from the same script and that's important. Indeed. °ShowDowN PrO° Shop opened.
+ This version was quite good, no major bugs or anything. Background pictures and
+ titlebar Skins have been a good success. Keep sending them to me !
+
+ ---------------------------------
+ ((ShowDowN v12 PrO))
+ (For mIRC 5.82 at February '2001)
+ ---------------------------------
+
+   This is the fun part. All the coding is behind and the new script version just
+ can't wait to be released. °ShowDowN PrO° has come a very long way from year
+ 1996 to 2001. That's a long time for a mIRC script, actually °ShowDowN PrO° is
+ the world's oldest mIRC script still updated. That's really something, don't you
+ think? Anyway, I save all (useful) feedback e-mails I get. This time I gave an
+ extra strong effort to make all requested features. The ratio-FileServer was the
+ most requested feature I think. The script is more network compatible than ever
+ before, will work in: IRCNet, EFNet, DALNet, UnderNet, GalaxyNet, AustNet, MSN
+ Chat etc. You are using the best script in the world and I intend to keep it
+ that way with updates and new versions. All I can say now is that with the help
+ of all people who have REGISTERED their copy, I am able to do all this. I hope
+ you like this new release and continue to support my work by  REGISTERING your
+ copy. Not much asked now is it ? Just one letter. See you in ShowDowN v13 PrO.
+
+---------------------------------
+ ((ShowDowN v12 PrO) r²)
+ (For mIRC 5.91 at October '2001)
+ ---------------------------------
+
+   This is an update to fix all the problems that mIRC's changed command formats
+ and properties caused. Version number is not changed because features aren't
+ added much, just been updated fixed. I am sorry that you had to wait so long for
+ this release but I was so busy with all my several IRL projects. I am making a
+ careed as a singer too nowadays besides all other things. °ShowDowN PrO° LIVES !
+
+ * SMALL UPDATE! (March 2003):
+ I had to remove the WaR Clones totally from the script. They were triggering
+ false alarms with some virus scanners. And anyway, they are useless nowadays.
+
+             -----------------------------------------------------
+                        (2) Script Future / Development
+             -----------------------------------------------------
+
+   The development has taken a new turn now that so many people offer their help.
+ I get offered free sites, graphics, coding assistance, advertising, co-operation
+ offers and the list goes on. In the future, I will continue to make all the code
+ and design of the script myself. I am sorry but the only one I can trust about
+ it is me. I am accepting lots of graphics, external programs and stuff that have
+ been essentially made for ShowDowN PrO. Keep it going, I really appreciate that.
+
+ -------------------------------------
+ For ShowDowN PrO developers and fans:
+ -------------------------------------
+
+ - °ShowDowN PrO° Shop: You can now buy T-shirts, mousepads, mugs, caps etc. from
+   my online store. Reasonable prices and a guaranteed, fast delivery. So wann
+   see what's offered ? VISIT: http://www.cafepress.com/showdown/ NOW !
+
+ - Script Skins: http://www.sci.fi/~showdown/skins.htm
+
+ - Script banners and graphics: http://www.sci.fi/~showdown/banners.htm
+
+ - SD PrOject mp3 music: http://www.mp3.com/sdproject
+
+ You need more hits to your homepage? You have something IRC related content in
+ your site? If so, join "IRC users Webring" now to increase your visitor rates.
+ It's free. See: http://w.webring.com/hub?ring=ircuserswebring&id=1&hub
+
+             -----------------------------------------------------
+                             (3) Legal Disclaimer
+             -----------------------------------------------------
+
+   ShowDowN PrO Is Provided On An AS IS Basis Without Warranty Of Any Kind. In
+ No Event Shall [-ShaD-] Or ShowDowN PrO SoftWare Be Liable For Any Damages
+ Whatsoever Caused By The Script's Any Related Files, Even If [-ShaD-] Has Been
+ Advised Of The Possibility Of Such Damages. Registration Is Optional, And Is
+ Done By Free Will. ShowDowN PrO May Not Be Distributed As A Part Of Any
+ Commercial Package. All Rights Of ShowDowN PrO Are Owned By The Author. Any
+ Violations To This Script's Copyrights Will Be Prosecuted By The Law. Rights Of
+ The External Programs In The Script Are Owned By Their Respective Authors.
+
+ ------------------------------------------------------------------------------
+   And now that you have gotten to the end of this file I would personally
+ like to thank you again for choosing ShowDowN PrO as your mIRC script. I really
+     hope you will enjoy using it as much as I enjoyed making it for you !
+ ------------------------------------------------------------------------------
+
+ - Please read the REGISTER.TXT for information how to REGISTER this script to
+   your name. It's cheap, easy and risk-free ! Thank you for your contribution !
+
+              ----------------------------------------------------
+                  © [-ShaD-] / ShowDowN PrO SoftWare 1996-2003
+                                showdown@sci.fi
+                                       -
+                          http://www.sci.fi/~showdown/
+              ----------------------------------------------------
+
+<------------------------=º<×> °ShowDowN v12 PrO° <×>º=------------------------>

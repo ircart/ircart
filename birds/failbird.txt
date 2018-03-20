@@ -1,0 +1,5 @@
+0,4      _..._     "This bird can   
+-irc.gnaa.us- *** Message to #GNAA throttled due to flooding
+0,4   .-'     '-.  and will fail."  
+0,4  /     _    _\    ============  
+0,4 /_____(o)__/__)    Failbird     

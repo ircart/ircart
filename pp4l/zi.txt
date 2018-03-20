@@ -1,0 +1,32 @@
+12,12xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+12,12xx0,0xx12,12xxxxxx0,0xx12,12xx0,0xxxxxxxx12,12xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+12,12xx0,0xxxx12,12xxxx0,0xx12,12xx0,0xx12,12xxxx0,0xx12,12xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+12,12xx0,0xxxxxx12,12xx0,0xx12,12xx0,0xx12,12xxxx0,0xx12,12xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+12,12xx0,0xx12,12xx0,0xxxxxx12,12xx0,0xx12,12xxxx0,0xx12,12xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+12,12xx0,0xx12,12xxxx0,0xxxx12,12xx0,0xxxxxxxx12,12xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0,0xx12,12xx0,0xx12,12xxxx
+0,0xxxxxxxxxx12,12xxxxxxxxxxxxxxxx0,0xx12,12xx0,0xx12,12xxxxxxxxxxxxxxxxxxxxxx0,0xx12,12xx0,0xx12,12xxxx
+12,12xxxx0,0xx12,12xxxxxxxxxxxxxxxxxxxx0,0xx12,12xx0,0xx12,12xx0,0xx12,12xxxxxxxxxxxxxxxxxx0,0xx12,12xx0,0xx12,12xxxx
+12,12xxxx0,0xx12,12xxxxxx0,0xx12,12xxxxxxxxxxxx0,0xx12,12xx0,0xx12,12xxxxxx0,0xx12,12xxxxxxxxxxxxxx0,0xx12,12xx0,0xx12,12xxxx
+12,12xxxx0,0xx12,12xxxxxx0,0xxxx12,12xx0,0xxxxxx12,12xx0,0xx12,12xx0,0xx12,12xx0,0xx12,12xx0,0xxxxxx12,12xx0,0xxxxxx12,12xx0,0xx12,12xx0,0xx12,12xxxx
+12,12xxxx0,0xx12,12xxxxxx0,0xx12,12xxxx0,0xx12,12xx0,0xx12,12xx0,0xx12,12xx0,0xx12,12xx0,0xx12,12xx0,0xx12,12xx0,0xx12,12xx0,0xx12,12xx0,0xx12,12xxxxxxxxxxxx
+12,12xxxx0,0xx12,12xxxxxx0,0xx12,12xxxx0,0xxxxxx12,12xx0,0xx12,12xx0,0xx12,12xx0,0xx12,12xx0,0xx12,12xx0,0xx12,12xx0,0xxxxxx12,12xx0,0xx12,12xx0,0xx12,12xxxx
+12,12xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0,0xx12,12xxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxxxxxxxxxx9,9xx12,12xxxxxxxxxxxxxxxxxx9,9xx12,12xx0,0xx12,12xxxxxxxxxxxx
+12,12xxxxxxxxxxxxxxxxxxxxxxxxxx9,9xxxxxxxx12,12xxxxxx9,9xxxxxxxx12,12xx0,0xx12,12xxxxxxxxxxxx
+12,12xxxx1,1xxxxxxxxxxxxxx12,12xxxxxxxxxxxxxx9,9xx12,12xxxxxx9,9xx12,12xxxx0,0xxxxxx12,12xxxxxxxxxxxx
+12,12xx1,1xxxx8,5          1,1xxxx12,12xxxxxxxxxxxx9,9xxxxxxxxxx12,12xxxxxxxxxxxxxxxxxxxxxx
+12,12xx1,1xx8,5  11,11    8,5  11,11    8,5  1,1xx12,12xxxxxxxxxx9,9xxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxxxxxx
+12,12xxx 8,5              12,12xxxxxxxxxxxx9,9xxxx1,1xx9,9xx1,1xx9,9xxxx12,12xxxxxxxxxxxxxxxxxxxx
+12,12xx  8,5    1,1        8,5  12,12xxxxxxxxxxxx9,9xxxxxxxxxxxxxx12,12xxxxxxxxxxxxxxxxxxxx
+12,12xxxx8,5    1,1  8,5    1,1  8,5  12,12  xxxxxxxxxxxx9,9xxxxxxxxxx12,12xxxxxxxxxxxxxxxxxxxxxx
+12,12xxxxxx8,5          12,12xxxxxxxxxxxxxxxxxx9,9xx1,1xx9,9xx12,12xxxxxxxxxxxxxxxxxxxxxxxx
+8,5  12,12 xxxxxxx8,5  12,12xxxxxxxx8,5  12,12xxxxxxxxxxxxxx9,9xx12,12xxxxxxxxxxxxxxxxxxxxxxxxxx
+8,5    12,12xxxx3,3xxxxxx12,12xxxx8,5    12,12xxxxxxxxxxxxxx9,9xxxxxxxx12,12xxxxxxxxxxxxxxxxxxxx
+12,12xx3,3xxxxxxxx0zi3xxxxxxxx12,12xxxxxxxxxx9,9xxxxxxxxxxxxxxxxxxxxxxxx12,12xxxxxxxxxx
+12,12xxxxxxxx3,3xxxxxx12,12xxxxxxxxxxxxxx9,9xxxx12,12xx9,9xxxxxxxxxxxxxxxxxxxxxxxxxxxx12,12xx
+12,12xxxxxxxx3,3xxxxxx12,12xxxxxxxxxxxx9,9xxxx12,12xxxxxx9,9xx12,12xxxxxx9,9xxxxxxxxxxxxxxxxxxxx
+12,12xxxxxxxx8,5      12,12 xxxxxxxxxxx9,9xxxx12,12xxxx9,9xxxx12,12xxxxxxxxxxxxxx9,9xxxxxxxxxxxx
+12,12xxxxxxxx8,5  0,12uu8,5  12,12xxxxxxxxxxxx9,9xxxx12,12xxxx9,9xx12,12xxxxxxxxxxxxxx9,9xxxx12,12xx9,9xx12,12xxxx9,9xx
+12,12xxxxxxxx8,5  12,12xx8,5  12,12xxxxxxxxxxxxxx9,9xx12,12xxxx9,9xxxx12,12xxxxxxxxxx9,9xxxx12,12xxxx9,9xx12,12xxxx9,9xx
+12,12xxxxxx8,5    12,12  8,5    12,12xxxxxxxxxxxxxxxxxx9,9xxxxxx12,12xxxxxx9,9xxxx12,12xxxxxx9,9xxxx12,12xx9,9xx

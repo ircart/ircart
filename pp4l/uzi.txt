@@ -1,0 +1,15 @@
+.
+.                     OO                    QQQQ     OO
+.                    OOOO                    QQ     OOOO
+.                   WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+.                SSSXXXXXXXXXXXX--------XXXXXXXXXXXXXXXXXWmmmmmm
+.                SSSXXXXXXXXXXXX--------XXXXXXWWWWWWWWWWWWMMMMMM
+.                SSSXXXXXXXXXXXXxxxxxxxxXXXXXXWWWWWWWWWWWW
+.                SSS   SSS     CEEEEEEEE C  Z
+.                SSS SS        CWXXXXXXW  C Z
+.                SSSS          CWXXXXXXWZZZZ
+.                SSS            WXXXXXXW
+.                SSS            WXXXXXXW
+.                               WXX++XXW
+.                                NNNNNN
+.                                NNNNNN

@@ -1,0 +1,45 @@
+&&@@@@@dddddddddHHHHHHHHHHH3HH33333333333333333333HHHHdHHHHHHHHHHHHHHHHHHHHdddddddddd@@@@@@@&&&&&&&_____^^^^^         
+&&@@@@dddddddHHHHHHHHHH3333333333333333333333333333H& :\: @H33333HHHHHHHHHHHHHdddddddddd@@@@@@@@&&&&&&____^^^^^         
+@@@@ddddddHHHHHHHHH333333333333333333333p3p333333@ :\\::\\\:^H333333333HHHHHHHHHHHddddddddd@@@@@@@&&&&&&_____^^^^       
+@@ddddddHHHH333333333333333pp3pppppppppppppppp3@x\\:\:::\\:\\\^3333333333333HHHHHHHHHdddddddd@@@@@@@&&&&&&___^^^^^      
+@ddddHHHHH3333333333333pppppppppppppppppppppp3 \:::x::x:\\::\\\:@333333333333333HHHHHHHHdddddddd@@@@@@&&&&&&___^^^^     
+ddddHHHH3333333333333pppppppppppppppppppppppHx\xx::xxxxx\#:x\\:#\&33333333333333333HHHHHHHHddddddd@@@@@@&&&&&___^^^^^   
+ddHHHH333333333333pppppppppppppppWpWWWWWppp3x:x xxx  x x:\:xxxx:\\@pppp33333333333333HHHHHHHHddddddd@@@@@&&&&&___^^^^^^ 
+dHHH3333333333pppppppppp3d3ppWWWWWWWWWWWWWp xx     ^^ ^ x:x x  xx::3pppppppp3333333333HHHHHHHHddddddd@@@@@@&&&&____^^^^ 
+HHHH3333333ppppppppppppWp&&33WWWWWWWWWWWWWd:x   ^  __^^ xxx x  xxx\_ppppppppp33@d3333333HHHHHHHdddddddd@@@@&&&&&____^^^^
+HHH33333pppppppppppWWWWW3H33@dWWWWWWWWWWWW^x ^__&&_&&_d_xx       x:xpppppppp33d^&@333333333HHHHHHdddddd@@@@@@&&&&____^^^
+H333333pppppppppppWWWWWWpdp33pWWWWddHddH3W x^_&@d@_dddH& x ^     x:\ppHHpp3pp3@dHHH33333333HHHHHHHddddddd@@@@&&&&&____^^
+H33333ppppppppppWWWWWWWWWWWWpp3W33pH@@pH3W_x^&d3ppHWpHH@ x^^   x x\\pd&3H&_HpppH3d33333333333HHHHHHHHddddd@@@@&&&&&____^
+33333ppppppppppWWWWWWWWWWW3dpd&ppWWW3HdHWWHx ^ddWNNEE3HH x^^   xx:\ WpHHd@HHd@d@H333333333333HHHHHHHddddddd@@@@&&&&_____
+33333pppppppppWWWWWWWWWWWWWH3d@d_&d@@&@d3pp&xxx_3NQzDEH@@ ^ x :\:\:H33Hd3pp3@dd&^@ppp333333333HHHHHHHHdddddd@@@@@&&&&___
+3333pppppppWWWWWWWWWWWWWWWWWp@^xx      xxx  xx: ^&NzLzH&_   xx\\\# _^  xxxxxx _ppppppp3333333333HHHHHHHHddddd@@@@@&&&&__
+3333pppppppWWWWWWWWWWWWWWp@^  _&&@@@d&___^^ x xxx  dQP3_   xx\##\x _&@&_^__^ xxx_3pppppp3333333333H3HHHHHHddddd@@@@&&&&_
+3333pppppppWWWWWWWWWWWWp&x ^__@d3p977Np&_^   xxx::x_39@   x::##xx^@d3d&_&&&__  xx:_ppppppp33333333333HHHHHHddddd@@@&&&&&
+333ppppppppWWWWWWWWWWW3x  ^_@HN7zzQQDPQEWHd_  xxx\:x@3&^xx:\##x &33H@H@@@___   xxx: pppppppp3333333333HHHHdddddd@@@@&&&&
+333ppppppppWWWWWWWWWWW x  &@337JzQLLDQz7Wp3H@&^xxx\\ d@ xx\##x HEJE7WHd&___^^  xxxx\@ppppp33333333333HHHHddddddd@@@&&&__
+3333pppppppWWWWWWWWWWW:: _&d@H3WEQzQJ77pW3WH&&&_ xx\x^^x::\#x EDPPJWd&^^   xxxxxx::\_ppppp333333333HHHHHHddddd@@@@@&&&&_
+333pppppppppWWWWWWWWWWx:x^&_&&@d&@3ppWpWW3pd@^   x::\  x:\#  NLLzW@^&ddHHd& xxxx::\\@p3ppp333333333HHHHHdddddd@@@@@&&&&_
+333ppppppppWWWWWWWWWWW@:x  _^&&_HWNNNNp@3HH3H&   x::\xxx\#: 3EW3_   &_^3WpppH :\\\\x3pp33333333333HHHHHHdddddd@@@@&&&&__
+333pppppppppWWWWWWWWWWW_:x  ^&^3NNW333ppd&3H&3&  xx::xxx\#xHd   @H@pHH33d&dH33x\#\x3ppp3333333333HHHHHHHddddd@@@@&&&&___
+3333ppppppppWWWWWWWWWWWWH x   ^Wpp333WpNppppWWW^    xxxx:: xxx HWp3d3Wpd3H&HHHx\:_3ppp333333333333HHHHHddddddd@@@&&&&&__
+3333pppppppppWWWWWWWWWWWWW3@ x HHddHWp3WNNWWWWWW^^  xx xxxx  ^3WpppHWWp@_@@^@&x&pppppp33333333333HHHHHHddddddd@@@&&&&___
+3333pppppppppWWWWWWWWWWWWWWWWWdpW3WW3333NW@3ppHp3NWHd&^      ^p@&^^HWWdWWWWp3Hppppppp33333333333HHHHHHHdddddd@@@@&&&____
+H33333ppppppppWWWWWWWWWWWWWWWWWHHH333Hd3WWW&@33@Hx  xxxx:::::@dp3d@WW3@ @@&^&pppppppp3333333333HHHHHHHddddddd@@@&&&&____
+H33333pppppppppppWWWWWWWWWWWWWWW3Hp9WWppWpW@@NpWd@d@&__&@@_&^@WW3H33Hd&_@_d3ppppppp3333333333HHHHHHHHHddddd@@@@&&&&_____
+HH3333333ppppppppppWWWWWWWWWWWWWWWp@d@pppp3pWWWWHHd_        x_WWWp3pWWpd^&&3ppppp33333333333HHHHHHHHddddddd@@@@&&&&____^
+HHH3333333pppppppppppWWWWWWWWWWWW3&@dpWWWWWWWWWW@xxx: xx:: xx_WWWWWWWppp3dx ppp333333333333HHHHHHHHddddddd@@@@&&&&____^^
+HHHH33333333pppppppppppppWWWWWWWpx^HWWWWWWWWWWWp@Hx:\&H :#x^@ddpWWpWpppp@ :\3pp33333333333HHHHHHHHddddddd@@@@@&&&____^^^
+dHHHH33333333p3ppppppppppppWpWWWd\xHNpWWWWWWWpH& :#[\dd \##\xx  ^&ddd@&^xx\x33333333333HHHHHHHHHHddddddd@@@@@&&&____^^^^
+ddHHHH333333333333ppppppppppppppH\:x&pWpNpWp3d :##[#\3Hx\####\:xxxxxxxx:\\\d333333333HHHHHHHHHHddddddd@@@@@@&&&&__^^^^^^
+ddddHHHHHH3333333333ppppppppppppp #\xx   ^^  x\##[##xd x\\\###\:::::\\##\ d33333333HHHHHHHHHdddddddd@@@@@@&&&&&__^^^^^  
+@dddddHHHHH333333333333ppppppppppp^#\\xx:::::\###\#\x x\\x\\# x\##\##\x^d33333333HHHHHHHHHHdddddddd@@@@@&&&&&___^^^^^   
+@@dddddHHHHHH3333333333333333p33pp3H x\\\\###: @3x\\xxx\\:\##@33HdddH333333333HHHHHHHHHddddddddddd@@@@@&&&&&___^^^^^    
+@@@@dddddHHHHHHH33333333333333333333333dd@@d33333^\\:x::\\## 333333333333333HHHHHHHHHHddddddddd@@@@@&&&&&&_____^^^      
+&&@@@@@dddddHHHHHHHHH33333333333333333333333333333 #\::#### 3333333333333HHHHHHHHHHHdddddddd@@@@@@@&&&&&&_____^^^       
+&&&&@@@@dddddddHHHHHHHHHHH3333333333333333333333333@x####x@3333333H3HHHHHHHHHHHdddddddddd@@@@@@@@&&&&&&_____^^^^        
+_&&&&@@@@@@ddddddddHHHHHHHHHHHH33H333333333333333333Hd^ @H3H3HHHHHHHHHHHHHHHdddddddddd@@@@@@@@@&&&&&&_____^^^^^       
+___&&&&&@@@@@@@ddddddddddHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHdddddddddddd@@@@@@@@@&&&&&&&_____^^^^^       
+^____&&&&&&&@@@@@@@dddddddddddHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHddddddddddddddd@@@@@@&@@&&&&&&&&______^^^^        
+^^^^_____&&&&&&&@@@@@@@ddddddddddddddddddddddHHHHHHHdHdddddddddddddddddddd@@@@@@@@@@&&&&&&&&&______^^^^^^        
+  ^^^^^______&&&&&&&&@@@@@@@d@ddddddddddddddddddddddddddddddddddddd@@@@@@@@@@@@@&&&&&&&&&&_______^^^^^^         
+                  G   E   A   U   X                          S   A   I   N   T   S

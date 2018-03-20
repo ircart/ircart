@@ -1,0 +1,26 @@
+                        6O O O O O
+                        6O      6 O
+                        6O      6 O
+       6 O O O O O O O O 6O     6  O           2 O
+       6 O                      6 O           2 O
+       6 O                      6 O           2 O
+       6 O                      6 O        2 O O O O
+       6 O                      6 O O O O    2 O O
+       6 O     2 O O    2   O O         6 O    2 O O
+       6 O      2 O O   2  O O          6 O    2 O O
+       6 O       2 O O  2 O O           6 O2 O O O
+       6 O   2 O O2  O O O O  O O       6 O2 O O
+   2 O O 6O   2 O O           O O       6 O
+ 2 O O O 6O   2 O O           O O       6 O
+ 2 O O  6 O                            6 O
+ 2 O O  6 O    2 O O O O O O O O        6 O
+ 2 O O  6 O    2 O             O        6 O
+       6 O    2 O O O O O O O O        6 O
+       6 O                            6 O
+       6 O O O O O O O O O O O O O O O O
+               2 O   O    2 O   O
+               2 O   O    2 O   O
+          2O O O O   O    2 O   O O O O
+          2O         O    2 O         O
+          2O O O O O O    2 O O O O O O
+               

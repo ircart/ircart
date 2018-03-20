@@ -1,0 +1,7 @@
+      0,0hh      0,0hh      
+    0,0hhhhhhhhhhhhhh    
+  0,0hhhh  0,0hhhhhh  0,0hhhh  
+0,0hhhhhhhhhhhhhhhhhhhhhh
+0,0hh  0,0hhhhhhhhhhhhhh  0,0hh
+0,0hh  0,0hh          0,0hh  0,0hh
+      0,0hh      0,0hh      

@@ -1,0 +1,190 @@
+<------------------------=º<×> °ShowDowN v12 PrO° <×>º=------------------------>
+
+           ---------------------------------------------------------
+              -=<×> °ShowDowN PrO° <×>=- Installation Help File !
+           ---------------------------------------------------------
+
+           (!! Please read this file for FAQ about ShowDowN PrO !!)
+
+      (!! DO NOT INSTALL TO FOLDER WITH SPACES LIKE C:\Program Files\ !!)
+
+             (!! USE THIS SCRIPT ONLY WITH mIRC v5.91 OR ABOVE !!)
+
+             -----------------------------------------------------
+                            -=<×> °Contents° <×>=-
+             -----------------------------------------------------
+
+                    (1) What Is ShowDowN PrO And What Does It Do ?
+                                 - - -
+                    (2) What Do You Need To Run It ?
+                                 - - -
+                    (3) Installation Of ShowDowN PrO
+                                 - - -
+                    (4) Files In This Package (SDv12PrO.EXE)
+                                 - - -
+                    (5) Legal Disclaimer
+
+             -----------------------------------------------------
+                (1) What Is ShowDowN PrO And What Does It Do ?
+             -----------------------------------------------------
+
+   ShowDowN PrO is a script for mIRC v5.91 (newest recommended) and above to
+ ease up the use of mIRC client and to make it as efficient and fun to use as
+ possible. ShowDowN PrO is a high level, very advanced and modern mIRC script,
+ a result of endless working and betatesting hours that have been spent in the
+ making process of this script. And it shows. I would like to thank you for
+ choosing ShowDowN PrO as your mIRC script, and I really hope you will enjoy
+ using it as much as I enjoyed making it for you ! Welcome to the future...
+
+             -----------------------------------------------------
+                       (2) What Do You Need To Run It ?
+             -----------------------------------------------------
+
+    To be able to run, and to operate ShowDowN PrO with as little problems as
+ possible, you will need to have the following hardware/software as a minimum:
+
+ -=> Hardware:
+   Pentium/AMD PC with minimum of 16 MB RAM, 8 MB HD space, (S)VGA display, modem
+ or a network connection to the internet, soundcard (recommended) and a mouse.
+
+ -=> Software:
+   mIRC v5.91 or above EXE (newest mIRC version always recommended), Win95,
+ Win98, Win2000 Or NT. Windows 3.1x with mIRC 16 bit works partially, clones and
+ utils won't work because of the memory handling and the 32 bit utils.
+
+             -----------------------------------------------------
+                       (3) Installation Of ShowDowN PrO
+             -----------------------------------------------------
+
+      (!! DO NOT INSTALL TO FOLDER WITH SPACES LIKE C:\Program Files\ !!)
+
+   Installation is different in ShowDowN v12 PrO than it was in versions below
+ v10. It should be easier and than ever before. And as some people were quite
+ unfamiliar with MS-DOS, the installation is now done in Windows. I have answered
+ to some of the most common installation questions at the end of this section.
+ 
+ -=> Installation in Windows95, 98, ME, NT or XP:
+
+   Download the script file SDv12PrO.EXE from the URLs below. Run it and click
+ "SetUp" button when the program asks. Choose a folder to install the script. You
+ can choose your current mIRC folder, but all your settings will then be lost.
+ Remember that the folder name MUST NOT include spaces in it, like for example
+ C:\Program Files\ does. After the script files are extracted, you can close the
+ installation program.
+
+ After this just copy mIRC32.EXE (remember only v5.91 or above will work) into
+ the folder you just chose in the installation program. Run mIRC32 from that
+ folder and you are done !
+ TIP: You can use Windows Explorer to easily copy mIRC32.EXE to the script folder
+ if you like. Just drag and drop the file and then click to run it.
+
+ If you wish, you can make a shortcut to the mIRC32 executable to your Windows's
+ desktop using the icon file SD-Icon.ICO.
+ TIP: Right click in the Windows's clean desktop to bring up a control popup.
+ Select: New / Shortcut. Choose mIRC32.EXE that is in the ShowDowN PrO folder
+ and then specify a name for the shortcut. Right click the icon you just created
+ and choose: Properties. Click button "Change icon" and select SD-Icon.ICO.
+
+ -!-!---------- FREQUENTLY ASKED QUESTIONS (FAQ) - Please read: ------------!-!-
+
+ - Where can I get the mIRC32 v5.91 and above executable ? 
+ From the internet site at http://www.mirc.co.uk and from ShowDowN PrO site at:
+ http://www.sci.fi/~showdown/ !
+
+ - Will ShowDowN PrO work in Windows 3.1x with mIRC 16 bit executable ?
+ It will work partially. For example the WaR Clones and the Shadow Clone can't
+ be loaded, because the 16 bit mIRC doesn't allow multiple copies of it running.
+ Some of the 32 bit programs in the script will not also work, but that's not
+ really a problem, since most of the script features will work OK. I assume that
+ you will get problems in the installation, since the extractor is real 32bit.
+
+ - Where can I get the .DLL and .OCX files needed to run the WaR Utils ?
+ Try searching ActiveX controls pack from the internet. It contains for example
+ WINSCK.OCX and *.DLL files. If http://www.warforge.com doesn't work, I don't
+ know any other site. Please don't e-mail me and ask for site URLs.
+
+ - How come mIRC says "/run: command disabled" when I try to use the script ?
+ This is because mIRC will disable the "/run" command by default to prevent fake
+ scripts from doing harm to your computer. This is how to enable the command:
+ Start the script up and go to: mIRC options / General / Lock / Disable commands.
+ Uncheck the "/run" box. You can leave the "/dll" checked.
+
+             -----------------------------------------------------
+                   (4) Files In This Package (SDv12PrO.EXE)
+             -----------------------------------------------------
+
+ (! ShowDowN PrO directory should contain following files after installation !)
+
+ -=> Main Directory/Folder:
+   AddrBook.INI, AwayMsg.LOG, mIRC.HLP, mIRC.INI, REGISTER.TXT, REGISTER.DOC,
+ Servers.INI, SD-Banner-01, -02 and 03.JPG, SD-Icon.ICO, Perform.INI, URLs.INI,
+ Versions.TXT, REGISTER.TXT, ReadTHIS.TXT, mIRC.GID and WhatsNew.TXT.
+
+ -=> UTILS Directory/Folder: 
+   Fortune.HTM, Matrix_patch.REG, NetGhost.EXE, PPark_patch.REG, PortSnif.EXE,
+ Sub_7_patch.REG, Cnote_patch.REG, Mars.EXE, Memory-B.EXE, The_Gun.EXE,
+ SD-Error.EXE, SD-Mario.EXE and WG-Scan.EXE.
+
+ -=> SYSTEM Directory/Folder:
+   SDAlias.INI, SDAlias2.INI, SDAlias3.INI, SDAlias4.INI, SDAlias5.INI,
+ SDAlias6.INI, SDAlias7.INI, SDAlias8.INI, SDAlias9.INI, SDAlias10.INI,
+ SDCTCPs.INI, SDCTCPs2.INI, SDEvent.INI, SDEvent2.INI, SDEvent3.INI, SDUsers.INI,
+ SDEvent4.INI, SDTbar.INI, SDVars.INI, SDEvent5.INI, SDEvent6.INI, SDEvent7.INI,
+ SDEvent8.INI, SDEvent9.INI, SDEvent10.INI, SDEvent11.INI, SDNPops.INI,
+ SDRaws.INI, SDRaws2.INI, SDSystem.INI, and SDWPops.INI.
+
+ -=> Texts Directory/Folder:
+   Annoying.TXT, CntryLst.TXT, DiskCare.TXT, Elevator.TXT, FSrvWelc.TXT,
+ Finger.TXT, IRCAdict.TXT, IRCDict.TXT, MSecrets.TXT, PCJokes.TXT, PizzaFun.TXT,
+ Insults.TXT, Pickups.TXT and UNIXHelp.TXT.
+
+ -=> SHADCLON Directory/Folder:
+   SCAlias.INI, SCAlias2.INI, SCCTCPs.INI, SCEvents.INI, SCPops.INI, SCRaw.INI,
+ ShadClon.INI, ShowDowN.INI, TakeConf.INI, TakerBot.INI and TBEvents.INI.
+
+ -=> SOUNDS Directory/Folder:
+   48 midi sound files with .MID, and 17 mpeg3 sound files with .MP3 extension.
+
+ -=> GRAPHICS Directory/Folder:
+   92 AscII files with .v12 extension, 6 bitmap files with .BMP extension and
+ 13 JPeg files with .JPG extension.
+
+ -=> SKINS Directory/Folder:
+   Skins-Readme.TXT and SD-tb-01 - 18.JPG's.
+
+ -=> LOGS Directory/Folder:
+   Logs.TXT and Seen.TXT.
+
+ -=> DCCGETS Directory/Folder:
+   DCCGets.TXT.
+
+             -----------------------------------------------------
+                              (5) Legal Disclaimer
+             -----------------------------------------------------
+
+   ShowDowN PrO Is Provided On An AS IS Basis Without Warranty Of Any Kind. In
+ No Event Shall [-ShaD-] Or ShowDowN PrO SoftWare Be Liable For Any Damages
+ Whatsoever Caused By The Script's Any Related Files, Even If [-ShaD-] Has Been
+ Advised Of The Possibility Of Such Damages. Registration Is Optional, And Is
+ Done By Free Will. ShowDowN PrO May Not Be Distributed As A Part Of Any
+ Commercial Package. All Rights Of ShowDowN PrO Are Owned By The Author. Any
+ Violations To This Script's Copyrights Will Be Prosecuted By The Law. Rights
+ Of The External Programs In The Script Are Owned By Their Respective Authors.
+
+ ------------------------------------------------------------------------------
+   And now that you have gotten to the end of this file I would personally
+ like to thank you again for choosing ShowDowN PrO as your mIRC script. I really
+     hope you will enjoy using it as much as I enjoyed making it for you !
+ ------------------------------------------------------------------------------
+
+ - Please read the REGISTER.TXT for information how to REGISTER this script to
+   your name. It's cheap, easy and risk-free ! Thank you for your contribution !
+
+              ----------------------------------------------------
+                  © [-ShaD-] / ShowDowN PrO SoftWare 1996-2003
+                                showdown@sci.fi
+                                       -
+                          http://www.sci.fi/~showdown/
+              ----------------------------------------------------
+
+<------------------------=º<×> °ShowDowN v12 PrO° <×>º=------------------------>

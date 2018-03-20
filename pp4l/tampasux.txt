@@ -1,0 +1,15 @@
+4,4ballsball0,0sballsballsballsballsballsballsballsballsb13,13allsball0,0sballsballsballsballs
+0,0ball4,4s0,0balls4,4ballsba0,0l4,4lsballsba0,0l4,4lsballs0,0b4,4allsbal0,0lsballsb13,13allsba7,7llsball0,0sballsballsballs
+0,0ball4,4s0,0ballsballsb4,4a0,0l4,4l0,0sba4,4l0,0lsb4,4a0,0l4,4l0,0sball4,4s0,0ballsba4,4l0,0lsballsba13,13ll7,7sballsballsba0,0llsballsballs
+0,0ball4,4s0,0balls4,4ballsba0,0l4,4l0,0sba4,4l0,0lsb4,4a0,0l4,4lsballs0,0b4,4allsbal0,0lsballsball7,7sballsballsball0,0sballsballs
+0,0ball4,4s0,0balls4,4b0,0allsb4,4a0,0l4,4l0,0sba4,4l0,0lsb4,4a0,0l4,4l0,0sballsb4,4a0,0llsba4,4l0,0lsballsballsb7,7allsballsballsba0,0llsballs
+0,0ball4,4s0,0balls4,4ballsba0,0l4,4l0,0sba4,4l0,0lsb4,4a0,0l4,4l0,0sballsb4,4allsbal0,0lsballsballsbal7,7lsballsbal1%7,7sball0,0sballs
+0,0ballsballsba12,12l0,0lsballsballsballsball12,12s0,0ballsballsb12,12a0,0llsballsballs7,7ballsba1%7,7l1%7,7b1%7,7llsb0,0alls
+0,0ballsbal12,12lsbal0,0lsballs12,12ba0,0llsbal12,12ls0,0ball12,12sba0,0llsball12,12sba0,0llsballsballsb7,7all1%%%7,7llsball1%7,7ba0,0lls
+0,0ballsba12,12ll0,0sballsballs12,12ba0,0llsball12,12s0,0ballsb12,12all0,0sbal12,12ls0,0ballsballsballsb1,7%7,7l1%7,7s1%%%7,7ls1%7,7a1%%%%7,7a0,0lls
+0,0ballsba12,12l0,0lsb12,12allsbal0,0lsb12,12a0,0llsball12,12s0,0ballsball12,12sball0,0sballsballsballs1%1,7%%%7,7sb1%%7,7ls1%7,7al1%%7,7ba0,0lls
+0,0ballsba12,12llsba0,0llsbal12,12ls0,0b12,12al0,0lsball12,12s0,0ballsballs12,12balls0,0ballsballsballs1%0,0a1,7%%7,7sbal1%%7,7ball1%7,7b1%0,0lls
+0,0ballsballsballsball12,12s0,0ba12,12llsballs0,0ballsball12,12sb0,0all12,12sba0,0llsballsballsbal1%1,7%7,7b1%%7,7lsb1%7,7lls1%0,0alls
+0,0ballsballsballsba12,12ll0,0sballsballsballsba12,12ll0,0sballsballsballsballsball7,7s1%7,7a1%%7,7s1%7,7a1%7,7l1,0%%0,0alls
+0,0ballsballsball12,12sbal0,0lsballsballsballsb12,12al0,0lsballsballsballsballsballsballsballsballs
+0,0balls12,12ballsball0,0sballsballsballsballsballsballsballsballsballsballsballsballsballs

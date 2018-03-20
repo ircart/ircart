@@ -1,0 +1,9 @@
+4SHHHHHHHHHHH! 1It's the Cops!!!!
+0,0xxxxxxxxxxxxxx4,4xxxxxx1,1x12,12xxxxxx
+0,0xxxxxxxxxxxx 1,0//0,0xxxxxxxxxxx1,0\\
+0,0xxxxxxxxxxx 1,0//0,0xxxxxxxxxxxxx1,0\\
+0,0xxxxxxxxxx1,1---------------------
+0,0xxxxxxxxxx1,1---------------------
+0,0XXXXXXXXXX7,7X1,1X8,0(0)15,15XXX4,4X15,15XXX12,12X15,15XXX8,0(0)1,1X7,7X
+0,0xxxxxxxxx15,15--------2,15POLICE15,15---------
+0,0xxxxxxxxxxx1,1xx0,0xxxxxxxxxxxxxx1,1xx0,0xxxxxxxxxx

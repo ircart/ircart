@@ -1,0 +1,6 @@
+d      dong  d
+o     d    s o
+n     o    d n
+g     n    o g
+s     g    n s
+dongs  sdon  dongs

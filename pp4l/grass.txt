@@ -1,0 +1,11 @@
+HEY YO CUT THE GRASS
+1,1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1,1xxx9,9x1,1xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+9,9x1,1xx9,9x1,1xxxx9,9x1,1x9,9x1,1xxxx9,9x1,1xx9,9x1,1x9,9x1,1xxxxxxxxxxx
+9,9x1,1x9,9xx1,1xxxx9,9x1,1xx9,9x1,1xxx9,9x1,1xx9,9x1,1x9,9x1,1xx9,9x1,1xxxx9,9xxxx
+9,9xxxx1,1x9,9xxxx1,1xx9,9x1,1xxx9,9x1,1xx9,9x1,1xx9,9x1,1x9,9x1,1x9,9xxxx1,1x9,9x1,1x
+9,9xx7,7x9,9x7,7x9,9xx7,7x9,9x7,7xxx9,9x7,7xx9,9x7,7xx9,9x7,7xx9,9xxxx7,7x9,9xxx7,7x9,9x1,1x
+9,9x7,7xx9,9x1,1x9,9x7,7xx9,9x1,1x7,7xx9,9x7,7xx9,9x7,7xx9,9xx7,7xx9,9x7,7x9,9x7,7xx9,9x7,7xx9,9x7,7x
+7,7xxx9,9x1,1xx7,7x1,1xxx7,7xx1,1x7,7xx1,1xx7,7xxx1,1xx9,9x1,1xxxxxxxx7,7x
+
+HEY YO CUT THE GRASS

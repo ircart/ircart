@@ -1,0 +1,13 @@
+00,13FFFFFFFF U      U CCCCCCCC K   K
+00,13F        U      U C        K  K 
+00,13F        U      U C        K K  
+00,13FFFFFFF  U      U C        KK   
+00,13F        U      U C        KK   F        U      U C        K K  F        U      U C        K  K F        UUUUUUUU CCCCCCCC K   K
+02,13                                
+04,08W     W OOOOOOOO RRRRRRRR  K   K
+04,08W     W O      O R       R K  K 
+04,08W     W O      O R       R K K  
+04,08W     W O      O RRRRRRRR  KK   
+04,08W     W O      O RRR       KK   
+04,08W  W  W O      O R  RR     K K  
+04,08 WW WW  OOOOOOOO R    RRR  K  K 

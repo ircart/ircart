@@ -1,0 +1,54 @@
+                    - IRC Abuse Report Form -
+
+ This form is for reporting IRC-based abuse and harassment. IRC is a
+ family-friendly global chat area and disrespectful language will not
+ be tolerated. Operators are not guards, but they will kick, or in
+ some cases ban a user for repeated offenses. They take their jobs
+ seriously and will not put up with any unwarrented sass.
+
+Your nick:  ____________
+On network: ____________
+
+
+ - Please list the dates and times you were harassed or abused on irc:
+_______________
+_______________
+_______________
+
+
+
+ - Please list the nick(s) of the perpetrators:
+____________
+____________
+____________
+
+
+
+ - What networks and channels are the offenders promogulating hatred?
+____________________
+____________________
+____________________
+
+
+
+- Please describe, in detail, the emotional distress caused by these
+  nefarious actions
+
+___________________________________________
+___________________________________________
+___________________________________________
+___________________________________________
+
+
+
+- Please list any known troll group affiliations (e.g. #anxiety,
+  nanog, pp4l, hardchats, bantown, GNAA, buttes, etc...) involved
+
+_______________
+_______________
+_______________
+
+
+Thank you for your submission, this incident report will be evaluted
+and cared about passionately.
+

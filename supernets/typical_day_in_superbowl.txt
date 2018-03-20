@@ -1,0 +1,25 @@
+1,12                                                                           
+1,12     0  1                                                                    
+1,12   0  1 0  1                                                                   
+1,12  0 1,14 0- irssi.exe                                                 _ [] 0,4 X 1,12   
+1,12  0 1,15 File14|1Edit14|1Tools14|1Help                                                1,12   
+1,12  0 1,15 14,1[03:43:01]0 14<0 6lulzilla14> 0h                                         1  1,15 1,12   
+1,12   1,15 14,1[03:43:10] <0~4acidvegas14>0 h                                         1 1,15 1,12   
+1,12  0 1,15 14,1[03:43:11]0 14<0~4acidvegas14>0 lulzilla: were you that kid in highschool 1 1,15 1,12   
+1,12  0 14,15 14,1[03:43:15]0 14<0~4acidvegas14>0 who would have a little notebook with them1 1,15 1,12   
+1,12 0  0,15 14,1[03:43:37] <0~4acidvegas14>0 @ all times                               1 1,15 1,12   
+1,12 0 14 14,15 14,1[03:43:58] <0~4acidvegas14>0 labeled as "SPYNOTES" on the cover of it   1,15 1,12   
+1,12 0 1 0,15 14,1[03:44:13]0 14<0~4acidvegas14>0 and it was filled with drawings of         1,15 1,12   
+0,12   0,15 14,1[03:44:22]0 14<0~4acidvegas14>1 0sonic the hedge hog with a giant cock?     1,15 1,12   
+0,12 1 0 0,15 14,1[03:44:23] <0 6lulzilla14>0 who didnt draw picturs of sanik             1,15 1,12   
+0,12   0,15 14,1[03:44:45] <0 6lulzilla14> 0w/ a giant cock?                            1,15 1,12   
+0,12   0,15 14,1[03:44:49] <0~4acidvegas14>1 0the "real" freaks.              1           1,15 1,12   
+0,12   0,15 14,1[03:44:50] <0 8Palazzo14>0 n e donkey biscuit    1  0          1           1,15 1,12   
+0,12   0,15 14,1[03:45:54] <0@10CodyPython14>1 0holy shit                   1              1,15 1,12   
+0,12   0,15 14,1[03:45:58] <0@10CodyPython14>10 0i just realized..you're all faggots    1   1,15 1,12   
+0,12   0,15 14,1[03:45:58] <0@10CodyPython14>0 and these chats FUCKING suck.     1 0       1,15 1,12   
+1,12   15,15 14,1[12#superbowl14]15 0_15        1 0 14     1                                      1,15 1,12   
+1,12   1,15    0 1 0 1                                                              1,12   
+1,12    0          1                                                             
+1,12   0Typical day in #superbowl...  1                                          
+1,12                                                                           

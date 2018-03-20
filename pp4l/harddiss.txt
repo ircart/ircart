@@ -1,0 +1,38 @@
+00,01                                                                                                    
+00,01 04,01                                                                                                   
+04,01                                                ------------------------------.                     
+04,01                                                mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm                     
+04,01                                                mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm                     
+04,01                     smmmmmmmmmmmmmmmmmmmmm-    mMM:`````````.-:+hMMMMMMMMMMMMm                     
+04,01                     yMMMMMMMMMMMMMMMMMMMMM-    mMMMMo oMMMMMMNdo`-NMMMMMMMMMMm                     
+04,01                     yMMMM:       oMMMMMMMM-    mMMMMo oMMMMMMMMM+ sMMMMMMMMMMm                     
+04,01 -oo++///:::---..    yMMMMmmmd- `  yMMMMMMM-    mMMMMo oMMMMMMMMm. hMMMMMMMMMMm                     
+04,01 oMMMMMMMMMMMMMMM`   yMMMMMMMo `ds `dMMMMMM-    mMMMMo :ssssso+- `sMMMMMMMMMMMm     syyyyyysssssss- 
+04,01 yMMs. sMMMMs.mMN    yMMMMMMy  yMM/ .NMMMMM-    mMMMMo -+++++//. sMMMMMMMMMMMMm    `NMy/:ooo+omMMM: 
+04,01 hMMMy yMMMM+ NMm    yMMMMMd` oMMMN- :MMMMM-    mMMMMo +MMMMMMMM. dMMMMMMMMMMMm    `MMMy/MMMMN/sMM: 
+04,01 mMMMo -:://.`MMh    yMMMMN.  .....`  +MMMM-    mMMMMo +MMMMMMMMo +MMMMMMMMMMMm    `MMMs+MMMMMN`MM- 
+04,01 NMMM+ mmmmd..MMs    yMMMM: -dddddddh` sMMM-    mMMMMo +MMMMMMMMh -MMMMMMMMMMMm    .MMMooMMMMMd:MM. 
+04,01`MMMM:`MMMMM`:MMo    yMMM+ `mMMMMMMMMy  hMM-    mMMMMo +MMMMMMMMM``NMMMMMMMMMMm    -MMMo+NNNdo/NMM. 
+04,01-MMMMsoMMMMM:oMM/    yMMMy+dMMMMMMMMMMsodMM-    mMMMMdydMMMMMMMMMy /NMMMMMMMMMm    -MMMdsssshNMMMM` 
+04,01:MMMMMMMMMMMMMMM:    +yyyyyyyyyyyyyyyyyyyyy.    mMMMMMMMMMMMMMMMMMs`.+syyyydMMm    .ossssssyyyyyyy  
+04,01./+++ooossyyyhhh.                               yhhhhhhhhhhhhhhhhhhy/-.`.../hhy                     
+00,01                                                                                                    
+00,01  08,01                                           `                                                      
+08,01                                 `:/+osyhdmNMM+                                                     
+08,01                                 -MMMMMMMMMMMMh                                                     
+08,01                                  mMMdso+/NMMMN`                                                    
+08,01                                  sMMd+o. hMMMM:                                                    
+08,01                                  :MMMMMo +MMMMs                                                    
+08,01                                  `NMMMMd .MMMMm    -ddhhysso++/::-.  -ddhhysso++//:--              
+08,01                `..````````        hMMMMM. mMMMM.   oMMMms++oyNMMMMm  /MMMms++oymMMMMN              
+08,01                NMdyyyhhdNMMMM/    +MMMMM/ sMMMM+   yMMs.ymNmh-sMMMy  sMMy.smNmh-oMMMh              
+08,01               `NMms:dddy++NMM/    .MMMMMy :MMMMh   mMM//MMMMMmhMMM+  dMM+:NMMMMNhMMMs              
+08,01               `MMMy/MMMMMh-MM:     dMMMMN` NMMMN` `MMMNs//shNMMMMM:  NMMMs//ohNMMMMM/              
+08,01               `MMMs+MMMMMN`MM-     sMMMMM: yMMMM: -MMMMMMMds::mMMM` .MMMMMMMms::mMMM.              
+08,01               .MMMooMMMMM+sMM.     -MMMMMs /MMMMs +MMs/MMMMMM.oMMm  /MMy:MMMMMM:+MMN               
+08,01               -MMMo:oooo+dMMM.      NMMMMm/oMMMMm sMMNo:oyhs::NMMh  oMMMo:oyhs/:mMMd               
+08,01               -MMMMMMMMMMMMMM`      yMMMMMMMMMMMM-dMMMMMmhhdNMMMMo  hMMMMMmhhhNMMMMs               
+08,01                `````......---       /MMMNmdhyso+/.NMMMMMMMMMMMMMM/  NMMMMMMMMMMMMMM+               
+08,01                                      .`          `/+oosyyhddmmNNM.  /+oosyyhhdmmNNM-               
+08,01                                                                                                    01,00 
+

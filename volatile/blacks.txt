@@ -1,0 +1,9 @@
+  __
+c(..)o
+ (=)BBBBBB--LL--------AAA----CCCCC--KK---KK--SSSSS-
+    BB---BB-LL-------AA-AA--CC---CC-KK--KK--SS-----\\
+    BBBBBB--LL------AAAAAAA-CC------KKKKK----SSSSS- |
+    BB---BB-LL------AA---AA-CC---CC-KK--KK-------SS |
+    BBBBBB--LLLLLLL-AA---AA--CCCCC--KK---KK--SSSSS- ^
+     | |                                       | |
+     ^ ^                                       ^ ^

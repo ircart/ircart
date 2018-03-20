@@ -1,0 +1,15 @@
+12,12                                                              
+12,12                                                              
+12,12                   12,15 Windows Protection Error 12,12                 
+12,12                                                              
+12,12                                                              
+12,12    0,12A fatal exception 0E has occured at 0028:C0011E36 in 12,12     
+12,12   0,12 VXD VMM(01) + 00010E36.  The current application will 12,12    
+12,12   0,12 be terminated.12,12                                            
+12,12                                                              
+12,12   0,12* Press any key to terminate the current application.12,12      
+12,12   0,12* Press CTRL+ALT+DEL again to restart your computer.12,12       
+12,12   0,12You will lose any unsaved information in all applications.12,12 
+12,12                                                              
+12,12               0,12Press any key to continue _  12,12                  
+12,12                                                              

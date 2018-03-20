@@ -1,0 +1,16 @@
+0,8 1 /!\0,4 8W A R N I N G0 1,8/!\ 0  
+0,1                          
+0,1   THE NOTORIOUS HACKER   
+0,1   COLLECTIVE "WORMSEC"   
+0,1     IS BACK ON IRC!      
+0,1                          
+0,1 UN-PLUG YOUR ROUTER      
+1,1        1,13    1,1  0            
+4,1   0    0,13 1     0,1  rm -rf *  1 
+4,1      1 1,13  1,0X1,13 _  1,1            
+4,1 LOCK0 1  1,0X1,13 /   0,1 /quit irc  
+4,1 UR DOOR1 1,13/    0,1 b4 too late
+1,1          1,13    1,1            
+1,1          1,13         1,1       
+1,1          1,13             1,1   
+0,1IRC.WORMSEC.US #SUPERBOWL

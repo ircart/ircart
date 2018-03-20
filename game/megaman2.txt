@@ -1,0 +1,48 @@
+                                        1,1hhhhhhhhhhhh                                
+                                        1,1hhhhhhhhhhhh                                
+                                1,1hhhhhhhhhhhh11,11hhhhhhhh1,1hhhh                            
+                                1,1hhhhhhhhhhhh11,11hhhhhhhh1,1hhhh                            
+                            1,1hhhh12,12hhhhhhhhhhhh1,1hhhh11,11hhhhhhhh1,1hhhh                        
+                            1,1hhhh12,12hhhhhhhhhhhh1,1hhhh11,11hhhhhhhh1,1hhhh                        
+                        1,1hhhh12,12hhhhhhhhhhhhhhhhhhhh1,1hhhhhhhhhhhhhhhh                    
+                        1,1hhhh12,12hhhhhhhhhhhhhhhhhhhh1,1hhhhhhhhhhhhhhhh                    
+                        1,1hhhh12,12hhhhhhhhhhhhhhhhhhhh1,1hhhh11,11hhhhhhhh12,12hhhh1,1hhhh                
+                        1,1hhhh12,12hhhhhhhhhhhhhhhhhhhh1,1hhhh11,11hhhhhhhh12,12hhhh1,1hhhh                
+                    1,1hhhh11,11hhhh12,12hhhhhhhhhhhhhhhhhhhhhhhh1,1hhhhhhhh12,12hhhh1,1hhhh                
+                    1,1hhhh11,11hhhh12,12hhhhhhhhhhhhhhhhhhhhhhhh1,1hhhhhhhh12,12hhhh1,1hhhh                
+                    1,1hhhh11,11hhhh12,12hhhhhhhh8,8hhhh0,0hhhhhhhhhhhh12,12hhhhhhhh0,0hhhh1,1hhhh              
+                    1,1hhhh11,11hhhh12,12hhhhhhhh8,8hhhh0,0hhhhhhhhhhhh12,12hhhhhhhh0,0hhhh1,1hhhh                
+                    1,1hhhh11,11hhhh12,12hhhh8,8hhhh0,0hhhhhhhh1,1hhhhhhhh8,8hhhh1,1hhhh0,0hhhh1,1hhhh                
+                    1,1hhhh11,11hhhh12,12hhhh8,8hhhh0,0hhhhhhhh1,1hhhhhhhh8,8hhhh1,1hhhh0,0hhhh1,1hhhh                
+                        1,1hhhh12,12hhhh8,8hhhh0,0hhhhhhhh1,1hhhhhhhh8,8hhhh1,1hhhh0,0hhhh1,1hhhh                
+                        1,1hhhh12,12hhhh8,8hhhh0,0hhhhhhhh1,1hhhhhhhh8,8hhhh1,1hhhh0,0hhhh1,1hhhh                
+                    1,1hhhhhhhh12,12hhhh8,8hhhhhhhh0,0hhhhhhhhhhhh8,8hhhh0,0hhhhhhhh1,1hhhh                
+                    1,1hhhhhhhh12,12hhhh8,8hhhhhhhh0,0hhhhhhhhhhhh8,8hhhh0,0hhhhhhhh1,1hhhh                
+            1,1hhhhhhhh11,11hhhhhhhh1,1hhhh12,12hhhh8,8hhhh1,1hhhhhhhhhhhhhhhh8,8hhhh1,1hhhhhhhhhhhh            
+            1,1hhhhhhhh11,11hhhhhhhh1,1hhhh12,12hhhh8,8hhhh1,1hhhhhhhhhhhhhhhh8,8hhhh1,1hhhhhhhhhhhh            
+        1,1hhhh12,12hhhh11,11hhhhhhhhhhhhhhhh1,1hhhh8,8hhhhhhhhhhhhhhhhhhhh1,1hhhh11,11hhhhhhhh12,12hhhh1,1hhhh        
+        1,1hhhh12,12hhhh11,11hhhhhhhhhhhhhhhh1,1hhhh8,8hhhhhhhhhhhhhhhhhhhh1,1hhhh11,11hhhhhhhh12,12hhhh1,1hhhh        
+        1,1hhhh12,12hhhhhhhh11,11hhhhhhhhhhhhhhhh1,1hhhhhhhhhhhhhhhhhhhh11,11hhhhhhhh12,12hhhhhhhh1,1hhhh        
+        1,1hhhh12,12hhhhhhhh11,11hhhhhhhhhhhhhhhh1,1hhhhhhhhhhhhhhhhhhhh11,11hhhhhhhh12,12hhhhhhhh1,1hhhh        
+    1,1hhhh12,12hhhhhhhhhhhh11,11hhhh1,1hhhh11,11hhhhhhhhhhhhhhhhhhhhhhhhhhhh1,1hhhh11,11hhhh12,12hhhhhhhhhhhh1,1hhhh    
+    1,1hhhh12,12hhhhhhhhhhhh11,11hhhh1,1hhhh11,11hhhhhhhhhhhhhhhhhhhhhhhhhhhh1,1hhhh11,11hhhh12,12hhhhhhhhhhhh1,1hhhh    
+    1,1hhhh12,12hhhhhhhh1,1hhhhhhhhhhhh11,11hhhhhhhhhhhhhhhhhhhhhhhhhhhh1,1hhhhhhhhhhhh12,12hhhhhhhh1,1hhhh    
+    1,1hhhh12,12hhhhhhhh1,1hhhhhhhhhhhh11,11hhhhhhhhhhhhhhhhhhhhhhhhhhhh1,1hhhhhhhhhhhh12,12hhhhhhhh1,1hhhh    
+    1,1hhhh12,12hhhhhhhhhhhh1,1hhhhhhhh11,11hhhhhhhhhhhhhhhhhhhhhhhhhhhh1,1hhhhhhhh12,12hhhhhhhhhhhh1,1hhhh    
+    1,1hhhh12,12hhhhhhhhhhhh1,1hhhhhhhh11,11hhhhhhhhhhhhhhhhhhhhhhhhhhhh1,1hhhhhhhh12,12hhhhhhhhhhhh1,1hhhh    
+    1,1hhhh12,12hhhhhhhhhhhh1,1hhhhhhhh12,12hhhhhhhhhhhhhhhhhhhhhhhhhhhh1,1hhhhhhhh12,12hhhhhhhhhhhh1,1hhhh    
+    1,1hhhh12,12hhhhhhhhhhhh1,1hhhhhhhh12,12hhhhhhhhhhhhhhhhhhhhhhhhhhhh1,1hhhhhhhh12,12hhhhhhhhhhhh1,1hhhh    
+        1,1hhhhhhhhhhhh    1,1hhhh12,12hhhh12,12hhhh12,12hhhhhhhhhhhhhhhhhhhh1,1hhhh    1,1hhhh1,1hhhhhhhh      
+        1,1hhhhhhhhhhhh    1,1hhhh12,12hhhh12,12hhhh12,12hhhhhhhhhhhhhhhhhhhh1,1hhhh    1,1hhhh1,1hhhhhhhh        
+                    1,1hhhh11,11hhhhhhhh12,12hhhh12,12hhhhhhhhhhhh11,11hhhhhhhhhhhh1,1hhhh                    
+                    1,1hhhh11,11hhhhhhhh12,12hhhh12,12hhhhhhhhhhhh11,11hhhhhhhhhhhh1,1hhhh                    
+                1,1hhhh12,12hhhhhhhh11,11hhhh11,11hhhh11,11hhhh1,1hhhh11,11hhhhhhhhhhhhhhhh12,12hhhh1,1hhhh          
+                1,1hhhh12,12hhhhhhhh11,11hhhh11,11hhhh11,11hhhh1,1hhhh11,11hhhhhhhhhhhhhhhh12,12hhhh1,1hhhh                
+            1,1hhhhhhhh12,12hhhhhhhhhhhh11,11hhhh1,1hhhh    1,1hhhh11,11hhhh12,12hhhhhhhhhhhh1,1hhhhhhhh      
+            1,1hhhhhhhh12,12hhhhhhhhhhhh11,11hhhh1,1hhhh    1,1hhhh11,11hhhh12,12hhhhhhhhhhhh1,1hhhhhhhh            
+    1,1hhhhhhhh12,12hhhhhhhhhhhhhhhhhhhh1,1hhhh            1,1hhhh12,12hhhhhhhhhhhhhhhhhhhh1,1hhhhhhhh    
+    1,1hhhhhhhh12,12hhhhhhhhhhhhhhhhhhhh1,1hhhh            1,1hhhh12,12hhhhhhhhhhhhhhhhhhhh1,1hhhhhhhh    
+1,1hhhh12,12hhhhhhhhhhhhhhhhhhhhhhhhhhhh1,1hhhh            1,1hhhh12,12hhhhhhhhhhhhhhhhhhhhhhhhhhhh1,1hhhh
+1,1hhhh12,12hhhhhhhhhhhhhhhhhhhhhhhhhhhh1,1hhhh            1,1hhhh12,12hhhhhhhhhhhhhhhhhhhhhhhhhhhh1,1hhhh
+1,1hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh            1,1hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+1,1hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh            1,1hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh

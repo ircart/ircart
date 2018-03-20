@@ -1,0 +1,40 @@
+3,3xxxxxxxxxxxxxxxxxxxx9,8xx3,3xxxxxxxxxxxxxxxxxx7,11xx3,3xxxxxxxxxxxxxxxxxxxx0                  
+3,3xx13,4xx3,3xx13,4xx3,3xxxxxxxxxxxx9,8xx3,3xxxxxxxxxxxxxxxxxx7,11xx3,3xxxx4,13xxxxxx3,3xxxxxxxxxx0                  
+13,4xxxxxxxxxx3,3xx11,7xxxxxx3,3xx9,8xx3,3xxxxxxxxxxxxxxxxxx7,11xx3,3xxxx4,13xx3,3xxxxxxxxxxxxxx0                  
+3,3xx13,4xx3,3xx13,4xx3,3xxxx11,7xx3,3xxxxxx9,8xxxxxx3,3xx8,9xxxxxx3,3xxxx7,11xxxxxx3,3xx4,13xxxxxx3,3xxxxxxxxxx0                  
+13,4xxxxxxxxxx3,3xx11,7xx3,3xxxxxx9,8xx3,3xx9,8xx3,3xx8,9xx3,3xx8,9xx3,3xxxxxx7,11xx3,3xxxxxxxx4,13xx3,3xxxxxxxxxx0            4 0     
+3,3xx13,4xx3,3xx13,4xx3,3xxxx11,7xxxxxx3,3xx9,8xx3,3xx9,8xx3,3xx8,9xxxxxxxx3,3xxxx7,11xx3,3xxxx4,13xxxxxx3,3xxxxxxxxxx0                  
+3,3xxxxxxxxxxxxxxxxxxxxxxxxxx1,5xx3,3xxxxxxxx1,5xx3,3xxxx1,5xx3,3xx1,5xxxx3,3xxxxxxxxxxxx0    install       
+3,3xxxxxxxxxxxxxxxx1,5xx3,3xx1,5xxxxxxxx3,3xx1,5xxxxxxxxxxxxxxxxxxxx3,3xxxxxxxxxxxx0   gentoo         
+3,3xxxxxxxxxxxx1,5xx3,3xx1,5xx3,3xx1,5xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx3,3xxxxxxxxxxxx0                  
+3,3xxxxxxxxxxxx1,5xxxxxxxxxxxxxx0,8xxxxxxxxxxxxxxxxxx1,5xxxxxx3,3xx1,5xxxx3,3xxxxxx0                  
+3,3xxxxxxxx1,5xxxxxxxxxxxx0,8xxxxxxxxxxxxxxxxxxxxxxxxxx1,5xxxxxxxxxx3,3xxxxxx0                  
+3,3xxxxxxxx1,5xxxxxxxxxx0,8xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx1,5xxxxxx3,3xxxxxx0      friendly    
+3,3xxxxxx1,5xxxxxxxxxx0,8xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx1,5xxxx3,3xxxxxxxx0     african-     
+3,3xxxxxx1,5xxxxxxxx0,8xxxx5,1xxxxxxxxxxxx0,8xxxx5,1xxxxxxxxxxxx0,8xxxxxx1,5xxxxxx3,3xxxx0          american
+3,3xx1,5xx3,3xx1,5xxxx0,8xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx1,5xxxx3,3xxxx0            men   
+3,3xx1,5xxxxxx0,8xxxxxxxxxx0,0xxxxxxxxxxxx0,8xxxx0,0xxxxxxxxxxxx0,8xxxxxx1,5xxxxxx3,3xxxx0                  
+3,3xx1,5xxxxxx0,8xxxxxxxxxx0,0xxxx12,12xxxxxx0,0xx0,8xxxx0,0xx12,12xxxxxx0,0xxxx0,8xxxxxxxx1,5xx3,3xxxxxx0                  
+3,3xxxx1,5xx0,8xxxxxxxxxxxxxx0,0xxxxxxxxxx0,8xxxx0,0xxxxxxxxxx0,8xxxxxxxxxxxxxx3,3xxxx0                  
+3,3xx0,8xxxxxxxxxxxxxxxxxxxxxxxxxxxx1,1xxxx0,8xxxxxxxxxxxxxxxxxxxxxxxx3,3xxxx0                  
+3,3xxxx0,8xxxxxxxxxxxxxxxxxxxxxxxxxx1,1xxxx0,8xxxxxxxxxxxxxxxxxxxxxxxx3,3xxxx0                  
+3,3xxxxxx0,8xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx3,3xxxxxx0                  
+3,3xxxxxxxx0,8xxxxxxxx6,13xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0,8xxxxxx3,3xxxxxx0                  
+3,3xxxxxxxxxx0,8xxxxxx6,13xx1,0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx6,13xx0,8xxxx3,3xxxxxxxx0                  
+3,3xxxxxxxxxxxx0,8xxxx6,13xxxx1,0xxxxxxxxxxxxxxxxxxxxxxxxxx6,13xxxx0,8xxxx3,3xxxxx0n e chats            
+3,3xxxxxxxxxxxx0,8xxxxxx6,13xxxxxx1,0xxxxxxxxxxxxxxxxxx6,13xxxxxx0,8xxxx3,3xxxxxxxxxx0                  
+3,3xxxxxxxxxxxxxxxx0,8xxxxxx6,13xxxxxxxxxx1,0xx6,13xxxxxxxxxx0,8xxxxxx3,3xxxxxxxxxxxx0                  
+3,3xxxxxxxxxxxxxxxxxx0,8xxxxxxxxxxxx6,13xxxxxx0,8xxxxxxxxxx3,3xxxxxxxxxxxxxxxx0                  
+3,3xxxxxxxxxxxxxxxxxxxxxxxxxx0,8xxxxxxxxxxxx3,3xxxxxxxx3,1xx3,3xxxxxxxxxxxxxx0                  
+3,3xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx3,1x3,0x3,1xx3,3xxxxx3,1xxxxxxx0               0,3   
+3,3xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0keek3xxxxxx3,1x3,0xxx3,1xxxxxx3,0x0xxxxx               0,1 0,3  
+3,3xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx3,1xx3,0xxx0xxxxxxxxxxxxx       cocques 0,1  0,3 
+3,3xxxxxxxxx0need help? ask3xxxxxxxxxxxxxxxxxxx3,1xxx0,0xxxxxxxxxxxxxxxxx                0,1 0,3 
+0,3                                          0,1  0,0              3     0               0,1  
+0,3                                          0,1  0,0           3guidelines coming0       0,1 
+0,3                                          0,1  0,0             3           0           0,1 
+0,3                                          0,1 0,0   3           0 3soon      0          0,1  
+0,3                                          0,1   0,0 3                       0         0,1 0,3 
+0,3                      chatsguy              0,1  0,0   3                      0      0,1  0,3 
+0,3                    here reporting 4          0,1 3 3,0    0 3              0     0,1      0,3  
+0,3                              chattes           0,1                         0,3       

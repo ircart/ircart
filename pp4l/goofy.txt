@@ -1,0 +1,28 @@
+1,1oooooooooooooooooooooooooo0,1.1,1ooooooooooooooooooooooooooooo
+1,1ooooooooooooooooooooooo0,1.1,1oo0,1!\1,1oo0,1_1,1ooooooooooooooooooooooooo
+1,1ooooooooooooooooooooooo0,1l\/ ( /(_1,1oooooooooooooooooooooooo
+1,1oooooooooooooooooooooo0,1_o0,1\`--" _/1,1.ooooooooooooooooooooooo
+1,1oooooooooooooooooooooo0,1\~")1,1ooo0,1(_,/)1,1oooooooooooooooooooooo
+1,1oooooooooooooooooooooo0,1_)/.   0,1,\,/1,1ooooooooooooooooooooooo
+1,1ooooooooooooo0,1_____,-"~1,1oooo0,1\ /1,1ooo0,1"~"-._____1,1oooooooooooooo
+1,1ooooooooo0,1,-~"1,1ooooo0,1"~-.1,1oo.1,1oo"1,1oo.1,1oo0,1,-~"1,1ooooo0,1"~-.1,1oooooooooo
+1,1ooooooo0,1,^1,1ooooooooooooo0,1^.1,1o0,1`.1,1o0,1.'1,1o0,1,^1,1ooooooooooooo0,1^.1,1oooooooo
+1,1oooooo0,1/1,1ooooooooooooooooo0,1\1,1oo0,1^1,1oo0,1/1,1ooooooooooooooooo0,1\1,1ooooooo
+1,1ooooo0,1Y___________________Y1,1ooo0,1Y___________________Y1,1oooooo
+1,1ooooo0,1|1,1o0,1|^~"|^   12,1_0,1 ^|"~^|1,1o0,1|1,1ooo0,1|1,1o0,1|"~"|^ 12,1_0,1   ^|"~"|1,1o0,1|1,1oooooo
+1,1ooooo0,1|1,1o0,1!1,1ooo0,1l   12,1(_)0,1 !1,1ooo0,1!1,1o0,1l1,1ooo0,1|1,1o0,1!1,1ooo0,1l1,1o12,1(_)1,1ooo0,1!1,1ooo0,1!1,1o0,1|1,1oooooo
+1,1ooooo0,1l1,1oo0,1\1,1oo0,1`\.___,/'1,1oo0,1/1,1oo0,1!1,1ooo0,1l1,1oo0,1\  `\.___,/'  /1,1oo0,1!1,1oooooo
+1,1oooooo0,1\1,1oo0,1^.1,1ooooooooo0,1,^1,1oo0,1/!1,1ooo0,1!\1,1oo0,1^.1,1ooooooooo0,1,^1,1oo0,1/1,1ooooooo
+1,1ooooooo0,1^.  ~-------~  ,^\`v-v'/^.  ~-------~ 1,1o0,1,^1,1oooooooo
+1,1ooooooo0,1_)~-._______,-~1,1ooo0,1}---{1,1ooo0,1~-._______,-~(_1,1oooooooo
+1,1oo0,1.--"~1,1ooooooooooo0,1,-^7'1,1o0,1/1,1ooooo0,1\1,1o0,1`Y^-,1,1ooooooooooo0,1~"--.1,1ooo
+1,1o0,1/1,1ooooooooooooooo0,1(_,/ ,/'1,1ooooo0,1`\. \._)1,1oooo0,1___1,1oooooooo0,1\1,1oo
+1,1o0,1\_____.,--"~~~"--..,__1,1oooooooo0,1___,..--<"~1,1ooo0,1~"-.,___/1,1oo
+1,1ooooo0,1/ (1,1oooo0,1__,--~ _.._""~~~~"" ,-"1,1oo0,1"-.`\1,1ooooo0,1/~.-"1,1oooo
+1,1ooooo0,1`._"--~_,.--"~ 1,1oo 0,1\1,1ooooooo0,1/1,1oooooooo0,1\ `---' /1,1ooooooo
+1,1oooooooo0,1"~"" 1,1ooooooooooo0,1\1,1ooooo0,1/1,1oooooooooo0,1"-.__,/1,1oooooooo
+1,1oooooooooooooooooooooooo0,1`L1,1ooo0,1]'1,1ooooooooooooooooooooooooo
+1,1ooooooooooooooooooooooooo0,1l1,1ooo0,1!1,1oooooooooooooooooooooooooo
+1,1ooooooooooooooooooooooooo0,1j___L1,1oooooooooooooooooooooooooo
+1,1oooooooooooooooooooooooo0,1(_____)1,1ooooooooooooooooooooooooo
+1,1ooooooooooooooooooooooooo0,1|1,1ooo0,1|1,1oooooooooooooooooooooooooo

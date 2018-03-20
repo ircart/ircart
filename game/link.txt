@@ -1,0 +1,16 @@
+        9,9hhhhhhhhhhhh      
+      9,9hhhhhhhhhhhhhhhh    
+  7,7hh  9,9hh5,5hhhhhhhhhhhh9,9hh  7,7hh
+  7,7hh  5,5hhhhhhhhhhhhhhhh  7,7hh
+  7,7hhhh5,5hh7,7hh9,9hh7,7hhhh9,9hh7,7hh5,5hh7,7hhhh
+  7,7hhhh5,5hh7,7hh5,5hh7,7hhhh5,5hh7,7hh5,5hh7,7hhhh
+    7,7hhhhhhhhhhhhhhhhhhhh5,5hh
+      9,9hh7,7hhhh5,5hhhh7,7hhhh9,9hh5,5hhhh
+  5,5hhhhhhhhhh7,7hhhhhh9,9hhhhhh7,7hh
+5,5hhhh7,7hh5,5hhhhhhhh9,9hhhhhhhhhh7,7hh
+5,5hh7,7hhhhhh5,5hhhh7,7hh5,5hhhh9,9hhhh5,5hh  
+5,5hhhh7,7hh5,5hhhhhh7,7hh9,9hh5,5hhhhhh9,9hh  
+5,5hhhh7,7hh5,5hhhhhh7,7hh5,5hhhh9,9hhhhhh  
+5,5hhhhhhhhhhhh7,7hh9,9hhhhhh5,5hh    
+  7,7hhhhhhhhhh    5,5hhhhhh    
+                5,5hhhhhh    

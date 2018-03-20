@@ -1,0 +1,15 @@
+0,0fireduke5M8,8INAS0,0CIIfiredu8,8ke50,0MINASCIIfireduke5MINASCIIfireduke5MINASCIIfireduke5MIN
+0,0fireduke8,085M0,0INAS8,8CI0,0Ifired8,8uke50,0MINASCIIfireduke5MINASCIIfireduke5MINASCIIfireduke5MIN
+0,0firedu8,8ke0,005MINASCI8,8If0,0ire8,8duke50,0MINASCIIfireduke5MINASCIIfireduke5MINASCIIfireduke5MIN
+0,0fired8,8uk0,0e5MINASCIIfireduk8,8e50,0MINASCIIfireduke5MINASCIIfireduke52D0,0I2U0,0A2K0,0C2E0,0Ifireduke5MIN
+0,0fired8,8uk0,0e5MINASCIIfireduk8,8e50,0MINASCIIfireduke5MINASCIIfireduk2,2e0,005MINASCIIf2,2i0,0reduke5MIN
+0,0fired8,8uk0,0e5MINASCIIfireduk8,8e50,0MINASCIIfireduke5MINASCIIfireduk2,2e50,0MINASCII2,2fi0,0reduke5MIN
+8,8fireduke5MINA0,0SCIIfireduk8,8e50,0MIN8,8AS0,0CI8,8Ifir0,0eduke8,085MINASC0,0IIfireduk2,2e5MINASCIIfi0,0reduke5MIN
+0,0fired8,8uk0,0e5MINASCIIfireduk7,7e8,0850,0MIN8,8AS0,0C8,8I0,0Ifi8,8re0,0duk8,8e50,0MINAS8,8CI0,0Ifireduk2,2e5MINASCIIfi0,0reduke5MIN
+0,0fired7,7u8,8k0,0e5MINASCIIfireduk7,7e8,0850,0MIN8,8ASC0,0IIfir8,8e0,0du8,8ke0,005MINAS8,8CI0,0Ifireduk2,2e5M0,0I2,2NASC0,0I2,2Ifi0,0reduke5MIN
+0,0fired7,7uk0,0e5MINASCIIfireduk7,7e8,0850,0MIN8,8AS0,0CIIfiredu8,8ke5MINASC0,0IIfireduk2,2e5MINASCIIfi0,0reduke5MIN
+0,0fired4,4u7,7k0,0e5MINASCIIfireduk7,7e50,0MIN7,7A8,8S0,0CIIfiredu7,7k8,8e0,005MINASCIIfireduke2,025MINASCIIf0,0ireduke5MIN
+0,0fired7,7uk0,0e5MINASCIIfireduk4,4e7,0750,0MIN7,7A8,8S0,0CIIfiredu4,4k7,7e0,005MINASCIIfireduke52,2MI0,0NASC2,2II0,0fireduke5MIN
+0,0fired7,7u4,4k0,0e5MINASCIIfireduk4,4e7,0750,0MIN4,4A7,7S0,0CIIfireduk4,4e50,0MINASCIIfireduke5M2,2INASCI0,0Ifireduke5MIN
+0,0fired4,4uk0,0e5MINASCIIfireduk4,4e50,0MIN4,4AS0,0CIIfireduke4,045MI0,0NASCIIfireduke5MI2,2NASC0,0IIfireduke5MIN
+0,0fired4,4uk0,0e5MINASCIIfireduk4,4e50,0MIN4,4AS0,0CIIfireduke5M4,4INASCI0,0Ifireduke5MINASCIIfireduke5MIN

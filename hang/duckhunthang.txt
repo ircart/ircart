@@ -1,0 +1,8 @@
+3,3p1DUCK3,3u1HUNT3,3m1DOG3,3mp
+11,11pum5,5ppMmp11,11p5,5u11,11m0,0p11,11p5,5u11,11mp
+11,11pum5,5pp1M5,5mp11,11pu1,5x4_1x11,11ump
+11,11pum5,5pp1U5,5mp11,11p5,5umppu11,11mp
+11,11pum5,5pp1S5,5mp11,11pu5,5mpp11,11ump
+11,11pum5,5pp1T5,5mp11,11pu5,5m11,11p5,5p11,11ump
+11,11pum5,5ppump11,11pumppump
+3,3pum1HANG3,3ppumppump

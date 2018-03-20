@@ -1,0 +1,45 @@
+RRRRRRRRRRRRRRRRRRRRRRRRRRRPRRPPRPP&&RPPPPPPPPPPP&&$&&$$$*$$*+~~~~~----.-....-----..~+$*&&$$&&&&&PPPPPPPPPPPPPPPPPPPPPPP
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRPR&P&&RPPPPP&&P&*$$*+~+~~~~~~~~--------....  .--.......-+*+$&&&&&&&&PPP&PPPPPPPPPPPPPPPP
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRPRPPP&&$&&PPPP$+&+$~+~.....-~~~-~-~-~~-----.... .  ..--.......-~~~*&&&&&&&&&&PP&PPPPPPPPPPPP
+###RRRRRRRRRRRRRRRRRRRRRRRRRRRRPPP&$&PP$P&++*++~--...-~++++~~-~~-~~~----.. ..................-++$&&&&&&&&&PP&PPPPPPPPPPP
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRPRPPP&*$P$+-++------.---~+~~~+~~~~~~-~~-~-.....................  .+~$&&&&&&&&&&&&PPPPPPPPPP
+RRRRRRRRRRRRRRRRRRRRRRRRRRPRRRRRRP&P$&&$++~~------~~~++++~-~~~-~~--------.......---....-.-... .-~+$&&&&&&&&&&&&PP&&&&P&&
+########RRRRRRRRRRRRRRRRPPPP#RP&PP&*&*$&++~~---~~~+*~+++~+~~~~~---.-----.---........------... ...-$$&&P&&&&&&&&&&&PPPPPP
+#######RRRRRRRRRRRRRRRPRRRPPRRPP*&P$~+&++~~--~~++*++++++++~~~~~~--.------....   ......-~~-.... .  .~*&&&&&&&&&&&&&&&&&&&
+#######RRRRRRRRRR#RRRRRRRRRRRPRP&$&*$+$+~~~+++++**+++++++++++~~~~-------.-....... .....-~--........-*$&&&&&&&&&&&&&&&&&&
+#######RRRRRRRPPP#RRRRRRRRRPPRPP&P&&**++++++++*+*++++++++++++~~~~~--------..............-... .--...-+$&&&&&&&&&&&&&&&&&&
+#######RRRPRPPPPP#RRRRRRRRRPPP&P~&&~$++++++++++$*+*++++++++++~~~--------.................--.  . ...-**$$$&&&&&&&&&&&&&&&
+#######RPPPPPPPPPRRRRRRRRRRPPRPP$+P+*~&+++++++****++++++++++~~~--------..................-- ..... .-+*$$$$&&&&&&$&&&&&&&
+#######PPPPPPPPPPRRRRRRRRRPPPRR&P+++*~$*+++++*$$***+++++++++~~~--------...................~.. .. ...~+$$$$$$$&&&&&&&&&&&
+#######PPPPPPPPPPRRRRRRRRRRPRPP&&&+&+P+++++++*&****+++++++++++~~~~-------................---.-.-...-.+*$$$$$$$$$$&&&&&&&
+#######PPPPPPPPPPRRRRRPRRPPP&RP&PPP&*++++++++*$***$&P&P&&$$**+++~~~~~~-~-~-~-~~~--.........~~~-.... .~**$$$$$$$$$&$$&$&&
+#######PPPPPPPPPPRRRRRPRRPPP&P&&&*+&+++~+~+++****P&&&$$&&PPPP&&*++~~~~++$&&&$*&$**++~-......~-----...-~++*$$$$$$$&$&$$$$
+#######PPPPPPPPPPR#RPRPPRPP&&RPP&&+*++~++$+++&***$$$$&&&&P&&&$$*++~-~~+******++~~~~~~~~-....~~~-.-.  -~****$$$$$$$$$$$$$
+#######PPPPPPPPPRR#PPPPPPPP&&RRPP&*+++++++*++*****$&&P$PP&P&&&&&*+~- .~$$&$&&$$&&+-~~+~-....~~~-.-...-~~~~$*$$$$&$$$$$$$
+#######PPPPPPPPPPRRRPPPRRPPRR&RP+*++++++++*+***++**$&&$$&$$*$$$&*+--..-+*$$*****~+++~-~-....~---.-...-..+*+$$*$$&$$$$$$$
+#######PPPPPPPPPRRRRRRPPRPPRRRPP&&+*++++++***+*++++++**$$*****+*++--....-~+*+++~~~-.........~-...   ..-  .+**$$$$$$$$$$$
+#######PPPPPPPPPPRRRRRRRRRRRRPRP&+*++*++*+*$$+++++++++++++++++++++~-........----............~~~-.   .--~~~++*$*$$$$$$$$$
+#######PPPPPRRRPPPRRRRRRPPRRRRPP~P**+++**$$$&*++++~~~----~++++++++~-. .....................-~~-...-....~-~~+$$*$$$$$$$$$
+#######PPPPPPPRRPPRRRR&PRRRRRRP&&&&+*******&&**++++~~~~~++++++++++~-. ....-+~~--...........~+~~-----... .~*****$**$$$$$$
+#######PRR&&$RRRRRRRRRRRRRRRRRPPP&$$******&&&&**+++++++++**+*+++++~~......~++++~---..-...-.~--~~~--.. ...~~****$**$$$$$$
+#######R#RRPPPPPPPRRRRRRRRRRRRRP&+$**$+**$$&&&**++++++*******$&&*+++~-~*~-~+*+++~~---------~~-+~~~.--.--.~~****$***$$$$$
+#######PP#RRPPR#RPRRRPRRRR#RRRPPP&$$$$+*$$&&&P********$**$****$$&$$**+--..-++***++~~-------~++-~~~~~-.-+-~+***+$****$$$$
+#RR####RR##R#######RRRRRRRR###RPP&&$&$$*&&&$&&$*+***********+++*+*+~--.....-++*$**+~~~----+*~+++~~~-~~+~~++***$***$*$$$$
+#######RRR##R######RRRRRRRRRRRRR&P$&&*$&$&PPR&&***+++++*$$&&&&&&$$****$$*+~~~+++++~~-----+~++*++++++~~++******$****$$$$$
+###RPPPPRRRRRRRRRRRRRRRRRRRRPRPRP&PP&&&&&&PPRPR&**++++++*$&P*+++~~+-.~-+~*P&+++~~~~-----~$+.++++~*$$*+********$***$$$$$$
+&*&RRRRR##RRRRRRRRRRRR#R#R#R#RR&P&&&$&P&&RRPRRPR&**+++++++****++$+&~~~-~---.--~~~------~$++++~***$&****$**$$$$$*****$$$$
+RRRRRRRRRRRRRRRRRRRRRRRR###RRRRPPP&$&P&&P&R####RR**++++++++**+~~-----....-..---~~----~~********$$$&$$$**$$$$$$$**$$$$$$$
+PPPRRRRRRPRRRRRRRRRRR#R#####RRRRPPPPP&&&P&P##R#RRR&***+**++******++++~~~-..----~~--~~**$$*$*$*$$$$&$$$*$$$$$$$****$$$$$$
+RRRRRR#R#PPRRRRRR###RRRR###RRR#RRP&$&$PP&&$RRRRRRR#&$***+*+++++++++~~~--..------~~~~~-+**$$$$$$$$&&$$$$$$$$$*$*$*$$$$$$$
+PRRRR#RPR#&R########RRR######RRRRP&P&&P&P&&PRRRRRR&&&$***+**+++~-----......-----~~+----+++***$*$$&&$$$$$$$$$*$$*$$*$$$$$
+RPRRR################RR####RRRRRRRPRP&&RRRRRRRRRRR&&&$&$*****++~~~~--.--.-----~+~~---+++***$**********$$$$$$$$$$$$$$$$$$
+PRRRRR#R##R##R#RR#R##R#####RRRRRRRRRRRRRRRRRRRRRRRR&&&&&&$$*$++++++~~-------~++~~--+******$**********$**$$$*$$$$$$$$$$$$
+RRRRRRRRRRRRRRRRRR###R#R###RRRRRRRRRRRRRRRRRRRRRRRRRR&&&&&&$$$$*****++~~~~~+~~~-*$$*****&*****&**+******************$$$$
+RRRRRRRRRRRRRRRRRRRRRRRRPPRRRRRRRRRPRRRRRRRRRRRRRRRRRRRR&$&&&&&&&$$$$$$**+++~*$&$$*******$**P****$$$**$***************PP
+RRRRRRRRRRRRRRRRRRRRRPPPRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRP&&&&&&&&$*&$&&&$$$$&$&**$***P&**&$$$*&*$$$$$*$$***$*$$*$**
+RRRRRRRRRRRRRRRRRRRPPPPPRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRPPP&&&&&&&&&&&&*$$$$*$&P*$$&**$$P$$&$$$&&$$$$&$&&$$***
+&&PPPPPRPRRRPRRRRPPPPPPPRPRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRPPPPPPP&PPPPP&$$&$$$$$&P$**PP$*$&&&$&&$&&&$$&$&P&PP$&&$*
+&$&&$&&&&PP&PPPPPPPPPPPPPPRPRPRRRRRRRRPRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRP&&&&$$&&$$$$&P&$**PP$*&&&P&$&$&P$&&$&PPP&&&&$&R&
+&&$&$&$$&$*&&&&PPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRRRRRRRRRRP&&&&&&&&&&&&&&&$$$$$$$$&$&PP$**$P&$*&&&&P$$&&P$&&$PPP&&&P&$RRPP
+$&&$&$$$&&$&&&PPPPPPPPPPPPPPRPPPPRRRRRRRRRRRRRRRRRRRRRP&&&PPPPPP&&&&&$$$$$$$$$$&&PP&$*$&P&$&&$&&PP$$&&&&&&PPPP$&R&PRPRP&
+&&$*$&&*&&$$&PPPPPPPPPPPPRPPPRRPRRRRPRRRPPRRRRRRRPPP&&&&&&&&&$&&&&&$$$&$$$$$&&&&PP&$$*PP&$$&&&&PPP$&&&&&PPRPP$PR&RRRR&&&

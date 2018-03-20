@@ -1,0 +1,7 @@
+4,4xx8,8xx9,9xx4,4xx1,1xxxx12,12xx
+1,1xxxxxx7,7xx1,1xxxx6,6xx
+1,1xxxxxx8,8xx1,1xxxx13,13xx
+4,4xx7,7xx8,8xx9,9xx12,12xx6,6xx13,13xx
+13,13xx1,1xxxx12,12xx1,1xxxxxx
+6,6xx1,1xxxx6,6xx1,1xxxxxx
+12,12xx1,1xxxx13,13xx9,9xx8,8xx4,4xx

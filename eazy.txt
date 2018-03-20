@@ -1,0 +1,27 @@
+1,11                                                      0       1      0     
+1,11                                                         0               
+1,11                                                         0               
+1,11                                                         0               
+1,11                               1,1[nig]1,11                     0               
+1,11                          1,1hhhhhhhhhhhhhhhh1,11               0               
+1,11                         1,1hhhhhhhhhhhhhhhhhh1,11              0               
+1,11                       1,1hhhhhhh0COMPTON1hhhhhhh0,11 1                      0     
+1,11                       1,1hhhvhhhhhhhhhhhhhhhhh1,11             0               
+1,11                      1,1hhhhhhhhhhhhhhhhhhhhhh1,11             0               
+1,11                      14,14h1,1hhhhhhhhhhhhhhhhhhh14,14hh1,11             0               
+1,11                     1,1h14,14hhhhhhhhhhhhhhhhhhhhh1,1hhh 1,11          0               
+1,11                    1,1hhhhhh7,7hhhhhhhhhhhhhhhhh1,1hhhh1,11          0               
+1,11                    1,1hhhhhhhhhhhhhhhhhhhhhhhhhhh1,11          0               
+1,11                    1,1hhhhhh7,7h1,1hhhhhh7,7hhhh1,1hhhhh7,7hh1,1hhh1,11         0                
+1,11                    1,1hhhhh7,7hhh1,1hhhh7,7hhhhhh1,1hhh7,7hhh1,1hh1,11           0               
+1,11                     1,1hhhh7,7hhhhhhhhhhhhhhhhhhh1,1hh1,11           0               
+1,11                       1,1hhh7,7hhhhhhhhhhhhhhhhh1,1hh1,11            0               
+1,11                         12,12h0,0hhh7,7hhh14,14jakk7,7hhhh0,0hhhh12,12hh1,11           0               
+1,11                       12,12hhhh0,0hhhh7,7hhhhhhh0,0hhhhhh12,12hhh1,11          0               
+1,11                    12,12hhhhhhhh0,0hhhhhhhhhhhhhhh12,12hhhhhhhh1,11      0               
+1,11                   12,12hhhhhhhhhh0,0hhhhhhhhhhh12,12hhhhhhhhhhhhh1,11   0                
+1,11                12,12hhhhhhhhhhhhhh0,0hhhhhhhh12,12hhhhhhhhhhhhhhhhhhh0,11               
+1,11              12,12hhhhhhhhhhhhhhhhh0,0hhhhh12,12hhhhhhhhhhhhhhhhhhhhhhh0,11             
+1,11            12,12hhhhhhhhhhhhhhhhhhhhh0,0h12,12hhhhhhhhhhhhhhhhhhhhhhhhhh12,11 11      0     
+0,1                       REST IN PEACE, EAZY E                            
+0,1                 LONG LIVE THE KING OF GANGSTA RAP                      

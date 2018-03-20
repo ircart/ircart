@@ -1,0 +1,24 @@
+                    1,1hhhhhh                
+                1,1hhhhhh11,11hhhh1,1hh              
+              1,1hh12,12hhhhhh1,1hh11,11hhhh1,1hh            
+            1,1hh12,12hhhhhhhhhh1,1hhhhhhhh          
+            1,1hh12,12hhhhhhhhhh1,1hh11,11hhhh12,12hh1,1hh        
+          1,1hh11,11hh12,12hhhhhhhhhhhh1,1hhhh12,12hh1,1hh        
+          1,1hh11,11hh12,12hhhh8,8hh0,0hhhhhh12,12hhhh0,0hh1,1hh        
+          1,1hh11,11hh12,12hh8,8hh0,0hhhh1,1hhhh8,8hh1,1hh0,0hh1,1hh        
+            1,1hh12,12hh8,8hh0,0hhhh1,1hhhh8,8hh1,1hh0,0hh1,1hh        
+          1,1hhhh12,12hh8,8hhhh0,0hhhhhh8,8hh0,0hhhh1,1hh        
+      1,1hhhh11,11hhhh1,1hh12,12hh8,8hh1,1hhhhhhhh8,8hh1,1hhhhhh      
+    1,1hh12,12hh11,11hhhhhhhh1,1hh8,8hhhhhhhhhh1,1hh11,11hhhh12,12hh1,1hh    
+    1,1hh12,12hhhh11,11hhhhhhhh1,1hhhhhhhhhh11,11hhhh12,12hhhh1,1hh    
+  1,1hh12,12hhhhhh11,11hh1,1hh11,11hhhhhhhhhhhhhh1,1hh11,11hh12,12hhhhhh1,1hh  
+  1,1hh12,12hhhh1,1hhhhhh11,11hhhhhhhhhhhhhh1,1hhhhhh12,12hhhh1,1hh  
+  1,1hh12,12hhhhhh1,1hhhh11,11hhhhhhhhhhhhhh1,1hhhh12,12hhhhhh1,1hh  
+  1,1hh12,12hhhhhh1,1hhhh12,12hhhhhhhhhhhhhh1,1hhhh12,12hhhhhh1,1hh  
+    1,1hhhhhh  1,1hh12,12hh12,12hh12,12hhhhhhhhhh1,1hh  1,1hh1,1hhhh    
+          1,1hh11,11hhhh12,12hh12,12hhhhhh11,11hhhhhh1,1hh          
+        1,1hh12,12hhhh11,11hh11,11hh11,11hh1,1hh11,11hhhhhhhh12,12hh1,1hh        
+      1,1hhhh12,12hhhhhh11,11hh1,1hh  1,1hh11,11hh12,12hhhhhh1,1hhhh      
+  1,1hhhh12,12hhhhhhhhhh1,1hh      1,1hh12,12hhhhhhhhhh1,1hhhh  
+1,1hh12,12hhhhhhhhhhhhhh1,1hh      1,1hh12,12hhhhhhhhhhhhhh1,1hh
+1,1hhhhhhhhhhhhhhhhhh      1,1hhhhhhhhhhhhhhhhhh

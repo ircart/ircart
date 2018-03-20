@@ -1,0 +1,5 @@
+1,1sssssss0,0s2,2ss0,0sss2,2ss0,0s0,0s3,3ssssss0,0s4,4ss0,0sss4,4ss
+1,1ss0,0ssssss2,2ss0,0sss2,2ss0,0s3,3ss0,0ssssss4,4ss0,0ss4,4ss
+1,1sssss0,0sss2,2ss0,0sss2,2ss0,0s3,3ss0,0ssssss4,4sssss
+1,1ss0,0ssssss2,2ss0,0sss2,2ss0,0s3,3ss0,0ssssss4,4ss0,0ss4,4ss
+1,1ss0,0ssssss0,0s2,2sssss0,0sss3,3ssssss0,0s4,4ss0,0sss4,4ss

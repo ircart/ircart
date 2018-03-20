@@ -1,0 +1,15 @@
+1,1xxxx8,8xxxxxxxx1,1xxxxxxxxxx2,2xxxxxxxxxx1,1xxxxxxxxxx2,2xxxxxxxxxx1,1xxxxxxxxxxxx
+1,1xx8,8xxxxxxxxxxxx1,1xxxxxx2,2xxxxxxxxxxxxxx1,1xxxxxx2,2xxxxxxxxxxxxxx1,1xxxxxxxxxx
+8,8xxxxxxxxxxxx1,1xxxxxxxx2,2xx14,14xxxx2,2xx14,14xxxx2,2xx1,1xxxxxx2,2xx14,14xxxx2,2xx14,14xxxx2,2xx1,1xxxxxxxxxx
+8,8xxxxxxxxxx1,1xxxxxxxx2,2xxxx14,14xxxx2,2xx14,14xxxx2,2xxxx1,1xx2,2xxxx14,14xxxx2,2xx14,14xxxx2,2xxxx1,1xxxxxxxx
+8,8xxxxxxxx1,1xxxxxxxxxx2,2xxxxxxxxxxxxxxxxxx1,1xx2,2xxxxxxxxxxxxxxxxxx1,1xxxxxxxx
+8,8xxxxxxxxxx1,1xxxxxxxx2,2xxxx14,14xx2,2xx14,14xx2,2xx14,14xx2,2xxxx1,1xx2,2xxxx14,14xx2,2xx14,14xx2,2xx14,14xx2,2xxxx1,1xxxxxxxx
+8,8xxxxxxxxxxxx1,1xxxxxx2,2xx14,14xx2,2xx14,14xx2,2xx14,14xx2,2xx14,14xx2,2xx1,1xx2,2xx14,14xx2,2xx14,14xx2,2xx14,14xx2,2xx14,14xx2,2xx1,1xxxxxxxx
+1,1xx8,8xxxxxxxxxxxx1,1xxxx2,2xxxxxxxxxxxxxxxxxx1,1xx2,2xxxxxxxxxxxxxxxxxx1,1xxxxxxxx
+1,1xxxx8,8xxxxxxxx1,1xxxxxx2,2xx1,1xx2,2xxxx1,1xx2,2xxxx1,1xx2,2xx1,1xx2,2xx1,1xx2,2xxxx1,1xx2,2xxxx1,1xx2,2xx1,1xxxxxxxx
+1,1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1,1xxxx12,12xxxxxxxx1,1xx12,12xxxxxxxx1,1xx12,12xx1,1xxxxxx12,12xx1,1xx12,12xxxxxxxx1,1xx12,12xxxxxxxx1,1xx12,12xx1,1xxxxxx
+1,1xxxx12,12xx1,1xxxx12,12xx1,1xx12,12xx1,1xxxxxxxx12,12xxxx1,1xxxx12,12xx1,1xx12,12xx1,1xxxx12,12xx1,1xx12,12xx1,1xxxx12,12xx1,1xx12,12xx1,1xxxxxx
+1,1xxxx12,12xx1,1xxxx12,12xx1,1xx12,12xxxxxxxx1,1xx12,12xx1,1xx12,12xx1,1xx12,12xx1,1xx12,12xxxxxxxx1,1xx12,12xxxxxxxx1,1xx12,12xx1,1xxxxxx
+1,1xxxx12,12xx1,1xxxx12,12xx1,1xxxxxxxx12,12xx1,1xx12,12xx1,1xxxx12,12xxxx1,1xx12,12xx1,1xxxx12,12xx1,1xx12,12xx1,1xxxxxxxxxxxxxxxx
+1,1xxxx12,12xxxxxxxx1,1xx12,12xxxxxxxx1,1xx12,12xx1,1xxxxxx12,12xx1,1xx12,12xx1,1xxxx12,12xx1,1xx12,12xx1,1xxxxxxxx12,12xx1,1xxxxxx
