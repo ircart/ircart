@@ -1,1 +1,0 @@
-https://git.supernets.org/acidvegas/scroll/raw/branch/master/scroll/data/list.txt
