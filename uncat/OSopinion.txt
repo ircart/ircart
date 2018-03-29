@@ -1,0 +1,1 @@
+they're all great, linux is alright, openbsd is cool, freebsd sucks ass, netbsd has great intentions and ideas and performs awesome but needs some implementation bug fixes, at least in sparc64

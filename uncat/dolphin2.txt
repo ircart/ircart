@@ -1,0 +1,55 @@
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolph1,1in  dolphin  0,0dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  1,1dolphi14,14n  dolphin1,1  0,0dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolp1,1hin  dol14,14phin  dolphi1,1n 0,0 dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  d1,1olph14,14in  dolphin  dolph1,1in0,0  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphi1,1n  dol14,14phin  dolphin  dol1,1phi0,0n  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  1,1dolphin 14,14 dolphin  dolphin  dol1,1ph0,0in  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  1,1dolphin  dolphin  dolphin  dolp14,14hin  dolphin  dolphin  d1,1olp0,0hin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolp1,1hin  d14,14olphin  dol1,1ph14,14in  dolphin  dolphin  dolphin  dolphin  d1,1olphin0,0  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolp1,1h14,14in  dol1,1phin  dolp14,14hin  dolphin  dolphin  dolphin  dolphin  dolphi1,1n  d0,0olphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dol1,1ph14,14in  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  1,1dolph0,0in  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  1,1dolp14,14hin  d1,1olphin  dol14,14phin  dolphin  dolphin  dolphin  dolphin  dolphin  do1,1lphin  dolphin  0,0dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  1,1d14,14olphin  1,1do0,0lphin  do1,1lphi14,14n  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin 1,1 do0,0lphin  dol
+0,0dolphin  dolphin  dolphin  do1,1lphin  dol14,14ph1,1in  d0,0olphin  dolph1,1in 14,14 dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  d1,1olph0,0in  dol
+0,0dolphin  dolphin  dolphin  dolphin1,1 14,14 dolp1,1hi0,0n  dolphin  dolphin1,1  14,14dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolp1,1hin0,0  dol
+0,0dolphin  dolphin  dolphin  dolphin1,1  dolph0,0in  dolphin  dolphin 1,1 d14,14olphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphi1,1n0,0  dol
+0,0dolphin  dolphin  dolphin  dolph1,1in  0,0dolp1,1h0,0in  dolphin  1,1dolp0,0hin  1,1do14,14lphin15,15  dolphin  dolphin14,14  dolphin  dolphin  dolphin  dolphin  dolphi1,1n0,0  dol
+0,0dolphin  dolphin  dolphin  dolp1,1hi0,0n  dolp1,1h0,0in  dolphin  1,1dolp0,0hin  d1,1o14,14l15,15phin  do1,1lph15,15in  dolphin  do14,14lphin  dolphin  dolphin  1,1dolphin  do14,14lphi1,1n 0,0 dol
+0,0dolphin  dolphin  dolphin  dolp1,1h0,0in  dolp1,1hi0,0n  dolphin  dolphin  1,1do14,14l15,15phin1,1  dol15,15phin  dolphin  dolp14,14hin  dolphin  dolphin  dol1,1p0,0hin  1,1dol14,14phin1,1 0,0 dol
+0,0dolphin  dolphin  dolphin  dol1,1p0,0hin1,1  do0,0lph1,1in0,0  dolphin  dolphi1,1n  d15,15olphin  do1,1l15,15phin  dolphin  dolphi14,14n  dolphin  dolphin  dol1,1p0,0hin  do1,1lphin 0,0 dol
+0,0dolphin  dolphin  dolphin  do1,1l0,0phin1,1  do0,0lphi1,1n 0,0 dolphin  dolp1,1hin15,15  dolphin  d1,1ol15,15phin  dolphin  dolphin 14,14 dolphin  dolphin  do1,1lp0,0hin  dolphin  dol
+0,0dolphin  dolphin  dolphin  do1,1lp0,0hin  dolphi1,1n  dolphin  dolph15,15in  dolphin  d1,1ol15,15phin  dolphin  dolphin  d14,14olphin  dolphin  do1,1l0,0phin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dol1,1phin  dolphi14,14n  dolph15,15in  dolphin  dol1,1phin  do15,15lphin  dolphin  dolphin  d14,14olphin  dolphin  d1,1ol0,0phin  dolphin  dol
+0,0dolphin  dolphin  dolphin  d1,1olp14,14hin  dolphin  dolph15,15in  dol1,1phin  dolp15,15hin  dolphin  dolphin  dolphin  d14,14olphin  dolphin 1,1 do0,0lphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  1,1do14,14lphin  dolphin  d15,15olphi1,1n  dolp15,15hin  dolphin  dolphin  dolphin  dolphin  d14,14olphin  dolphin 1,1 d0,0olphin  dolphin  dol
+0,0dolphin  dolphin  dolphi1,1n  d14,14olphin  dolphi15,15n  do1,1lphin15,15  dolph1,1in  dolphin  dolphi15,15n  dolphin  dolphin  d14,14olphin  dolphin 1,1 0,0dolphin  dolphin  dol
+0,0dolphin  dolphin  do1,1lphin14,14  dolphin  dolp15,15hin 1,1 dol15,15phin1,1  dolphi0,0n  dolphin  1,1do14,14lph1,1in  15,15dolphin  dolphin  d14,14olphin  dolphi1,1n  0,0dolphin  dolphin  dol
+0,0dolphin  dolphin 1,1 dol14,14phin  dolphin  d15,15olph1,1in  15,15dolp1,1hin 15,15 0,0dolphin  dolphin1,1  14,14dolp15,15hin 1,1 do15,15lphin  dolphin  d14,14olphin  dolphi1,1n 0,0 dolphin  dolphin  dol
+0,0dolphin  dolph1,1in 14,14 dolphin  dolphin  15,15dol1,1phi15,15n  1,1dolp15,15h0,0in  dolphin  dol1,1phin14,14  do15,15lphin1,1  0,0d1,1ol15,15phin  dolphin  d14,14olphin  dolp1,1hin0,0  dolphin  dolphin  dol
+0,0dolphin  d1,1olph14,14in  dolphin  dolphin15,15  1,1dol15,15phin1,1  d0,0olphin  dolphi1,1n  dol14,14phin  15,15dolphi1,1n 0,0 do1,1lp15,15hin  dolphin  d14,14olphin  dol1,1ph0,0in  dolphin  dolphin  dol
+0,0dolphin 1,1 do14,14lphin  dolphin  dolp15,15hin1,1  d15,15olp1,1hin15,15 0,0 dolphin  1,1dolphin14,14  dol15,15phin  dolphi1,1n 0,0 dol1,1ph15,15in  dolphin 14,14 dolphin  d1,1olp0,0hin  dolphin  dolphin  dol
+0,0dolphi1,1n 14,14 dolphin  dolphin  dol15,15ph1,1in 15,15 d1,1olph0,0in  dolphin  1,1do14,14lphin 15,15 dolphin  dolp1,1hin0,0  dolph15,15in  dolphin 14,14 dolphin  1,1do0,0lphin  dolphin  dolphin  dol
+0,0dolp1,1hi0,0n  d14,14olphin  dolphin  15,15do1,1lp15,15hin 1,1 do0,0lphin  dolphin  d1,1olp15,15hin  dolphin  dol1,1p0,0hin  dolp1,1hi15,15n  dolphi14,14n  dolphin1,1  d0,0olphin  dolphin  dolphin  dol
+0,0do1,1lp0,0hin  d14,14olphin  dolph15,15in  1,1do15,15lph1,1in  0,0dolphin  dolphin  dol1,1phin 15,15 dolphin  1,1dolp0,0hin  dolph1,1in15,15  dolphi14,14n  dolphin1,1  0,0dolphin  dolphin  dolphin  dol
+0,0do1,1lp0,0hin 14,14 dolphin  dol15,15phi1,1n  15,15dol1,1phi15,15n0,0  dolphin  dolphin  dolphi1,1n  dolphin  d0,0olphin  dolph1,1in15,15  dolp14,14hin  dolph1,1in0,0  dolphin  dolphin  dolphin  dol
+0,0do1,1l14,14p0,0hin15,15 14,14 dolphin  do15,15lp1,1hin15,15  d1,1olp0,0hin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphi1,1n15,15  dolp14,14hin  dol1,1ph0,0in  dolphin  dolphin  dolphin  dol
+0,0do1,1l14,14p15,15hi14,14n  dolphin  do1,1lp15,15hin 1,1 do0,0lphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphi1,1n15,15  dolp14,14hin  d1,1ol0,0phin  dolphin  dolphin  dolphin  dol
+0,0do1,1lp14,14hin  dolph15,15in  dolp1,1hin 0,0 dolphin  dolphin  dolphin  dolphin  dolphin  dolp1,1hin  dolphin15,15  dolp14,14hin 1,1 d0,0olphin  dolphin  dolphin  dolphin  dol
+0,0do1,1lphi14,14n  dol15,15phin1,1  dolph0,0in  dolphin  dolphin  dolphin  dolphin  dolphin  do1,1lph15,15in  dolphin  dolp14,14hi1,1n  0,0dolphin  dolphin  dolphin  dolphin  dol
+0,0dolp15,15h1,1in  dolphin0,0  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin 1,1 do15,15lphin  dolphin  dolphi14,14n 1,1 do0,0lphin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin1,1  15,15dolphin  dolphin  dolphin 14,14 d1,1ol0,0phin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolph1,1in 15,15 dolphin  dolphin  dolphin  14,14do1,1l0,0phin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dol1,1phi15,15n  dolphin  dolphin  dolphin  14,14do1,1l0,0phin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dol1,1p15,15hin  d1,1olphi15,15n  dolphin  dolphin  14,14do1,1l0,0phin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dol1,1phin  do0,0lphi1,1n  d15,15olphin  dolphin  14,14do1,1l0,0phin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin 1,1 dol15,15phin  dolphin 14,14 do1,1l0,0phin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  d15,15o1,1lphi15,15n  dolphin 14,14 d1,1ol0,0phin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolph1,1in 15,15 dolphin 1,1 do0,0lphin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin1,1  15,15dolph14,14in1,1  0,0dolphin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin 1,1 15,15dolp14,14hi1,1n 0,0 dolphin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin 1,1 d15,15ol14,14ph1,1in0,0  dolphin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  1,1d14,14ol1,1phi0,0n  dolphin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  1,1dolp0,0hin  dolphin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dol
+0,0dolphin  d1Making0,0 1a0,0d1SPLASH0,0 1on0,0o1IRC!0,0n  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dol
+0,0dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dolphin  dol

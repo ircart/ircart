@@ -1,0 +1,20 @@
+0,1<icefrog> umadyet?        0,7     0,1                               
+0,1<icefrog> hemad         0,7  0,8   0,1 0,8 0,1  4hehe am ownin these fkn noobs
+0,1<icefrog> umad          0,8        0,1                              
+0,1<icefrog> umad           0,8      0,1                               
+0,1<icefrog> umadyet?      0,5 0,8       0,1                    0,15   0,1       
+0,1<icefrog> nou           0,5 0,2         0,1                 0,11 0,15     0,1     
+0,1<icefrog> umad?         0,5 0,2     0,8       0,1              0,11 0,15      0,1    
+0,1<icefrog> umad          0,5 0,2      0,8              0,1      0,11 0,15       0,1   
+0,1<icefrog> cum @ me bra  0,5 0,2          0,8              0,1   0,15        0,1  
+0,1<icefrog> umad          0,5 0,2               0,1       0,8 0,1 0,8 0,1 0,5           
+0,1<icefrog> umadyet?      0,5 0,2               0,1       0,15    0,5 0,1         0,5 
+0,1<icefrog> umad          0,5 0,8                0,1      0,5     0,1         0,5 
+0,1<icefrog> somad         0,5 0,8                 0,1         0,5 0,1         0,5 
+0,1<icefrog> umadyet?      0,5 0,14                  0,1        0,5 0,1    0,15     0,5 
+0,1<icefrog> umad          0,5              0,1  0,14    0,1       0,5 0,1    0,15     0,5 
+0,1<icefrog> hes ragin     0,5 0,1            0,5 0,1  0,14    0,1      5 0,5 0,1    0,15     0,5 
+0,1<icefrog> umad          0,5 0,1            0,5 0,1  0,4  0,14  0,1      5 0,5 0,1    0,15     0,5 
+0,1<icefrog> umadyet?      0,5 0,1            0,5 0,1  0,4      0,1    5 0,5 0,1    0,15     0,5 
+0,101:04 <+dolphin> * Playback of 'icefrog.txt' complete
+0,101:04 <+dolphin> [19:02:42] * Quit: icefrog (~coatl@c-76-123-5-161.hsd1.va.comcast.net) (Client Quit)

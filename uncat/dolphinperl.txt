@@ -1,0 +1,20 @@
+dolphin
+ #!/usr/bin/perl -s                         
+                                                       sub R{int$_[0]||
+                               return vec$_[1],$_[2]/4,32;int$_[0]*rand}($R)
+                            =$^=~'([\]-\`])';sub F{$u=0;grep$u|=$S->[$_][$_[0]>>
+                               $_*4&15]<<$_*4,reverse 0..7;$u<<11|$u>>21}$t=$e
+                                ||$d?join'',<>:(($p,$d)=($R,1),unpack u
+                                ,"(3=MCV7%2W'<`");@b=@t=0..15;for(
+                            ;$i<length$p;$i+=4){srand($s^=R$R,$p
+                         ,$i)}while($c<8){grep{push@b  ,splice
+                      @b,R(9),5}@t;$R[$c]=R(2       **32);@{     
+                 $S->[$c++]}=@b}@h=0..7;@o       =reverse         
+               @h;while($a<length
+             $t){$v=R$R,$t,$a;
+ $w=R$R,$t,($a+=8)-4;
+    grep$q++%2?$v
+     ^=F$w+$R                 
+      [$$R]:(                                       $w^=F$v+$R[$$R]),$d?(@h,(@o)
+      x3):((                                        @h)x3,@o);$_.=pack N2,$w,$v}
+      print

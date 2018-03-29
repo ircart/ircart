@@ -1,0 +1,12 @@
+1,1same same same same same same same same same same same same same same same same same same same
+1,1same s4,4ame same same sa1,1me s4,4ame same same 1,1sa4,4me same same same same same sa1,1me s4,4ame same same 1,1same
+1,1same8,8 sam1,1e same same 8,8sa1,1me8,8 sam1,1e same sam8,8e same1,1 same same sam8,8e sa1,1me same 8,8sa1,1me8,8 sam1,1e same sam8,8e sa1,1me
+1,1same8,8 s1,1ame same same 8,8same s1,1ame same same 8,8same1,1 same same same same same 8,8same s1,1ame same same 8,8sa1,1me
+1,1same9,9 s1,1ame 9,9same s1,1ame sa9,9me1,1 sam9,9e same s1,1ame 9,9same1,1 same 9,9same1,1 same 9,9same s1,1ame 9,9same1,1 sam9,9e same s1,1ame 9,9sa1,1me
+1,1same9,9 s1,1ame same9,9 same same same same1,1 same 9,9same1,1 sam9,9e same1,1 sam9,9e same s1,1ame 9,9sa1,1me same same same 9,9sa1,1me
+1,1sa11,11me same 1,1same same 11,11same1,1 same same same 11,11same1,1 sam11,11e same1,1 sam11,11e 1,1sa11,11me1,1 same 11,11sa1,1me same same same 11,11sa1,1me
+1,1sa12,12me1,1 sam12,12e same s1,1ame 12,12sa1,1me s12,12ame same1,1 sam12,12e sa1,1me sam12,12e same1,1 sam12,12e 1,1sa12,12me1,1 sam12,12e sa1,1me sam12,12e same same sa1,1me
+1,1sa12,12me1,1 same same same 12,12sa1,1me same same sam12,12e sa1,1me s12,12ame same1,1 sam12,12e 1,1sa12,12me1,1 sam12,12e same1,1 same same same 12,12sa1,1me
+1,1sa13,13me s1,1ame same sam13,13e sa1,1me same sa13,13me1,1 sam13,13e sa1,1me s13,13am1,1e 13,13sa1,1me sam13,13e 1,1sa13,13me1,1 sam13,13e 1,1sa13,13me s1,1ame same13,13 same sa1,1me
+1,1same13,13 same same same same same same same same sam1,1e 13,13same same 1,1sa13,13me same 1,1same13,13 same same s1,1ame same
+1,1same same same same same same same same same same same same same same same same same same same

@@ -1,0 +1,27 @@
+1,1http://code.google.com/p/asciipumper/ http://code.google0,0.c1,1om/p/asciipumper/ http
+1,1http://code.google.com/p/as0,0c1,1iipumper/ http://code.google.0,0co1,1m/p/asciipumper/ http
+1,1http://code.google.com/p/as0,0ci1,1ipumper/ http:/0,0/1,1code.google.c0,0o1,1m/p/asciipumper/ http
+1,1http://code.google.com/p/asc0,0ii1,1pumper/ http:/0,0/1,1code.google.c0,0o1,1m/p/asciipumper/ http
+1,1http://code.google.com/p/asci0,0ip1,1umper/0,0 htt1,1p:/0,0/c1,1ode.0,0goo1,1gle.0,0co1,1m/p/asciipumper/ http
+1,1http://code.google.com/p/ascii0,0pum1,1per/0,0 htt1,1p:0,0//c1,1ode.0,0goog1,1le.0,0c1,1om/p/asciipumper/ http
+1,1http://code.google.com/p/asciipu0,0mper1,1/ htt0,0p:/1,1/0,0co1,1de.googl0,0e.1,1com/p/asciipumper/ http
+1,1http://code.google.com/p/asciipumpe0,0r/ http1,1://c0,0ode.google1,1.com/p/asciipumper/ http
+1,1http://code.google.com/p/asciipumpe0,0r1,1/ http://code0,0.1,1google.com/p/asciipumper/ http
+1,1http://code.google.com/p/asciipumpe0,0r1,1/ http://code0,0.1,1google.com/p/asciipumper/ http
+1,1http://code.google.com/p/asciipumpe0,0r1,1/ http://code0,0.1,1google.com/p/asciipumper/ http
+1,1http://code.google.com/p/asciipump0,0er1,1/ http://code0,0.1,1google.com/p/asciipumper/ http
+1,1http://code.google.com/p/asciipum0,0pe1,1r/ http://code0,0.g1,1oogle.com/p/asciipumper/ http
+im such a pro
+1,1http://code.google.com/p/asciip0,0ump1,1er/ htt0,0p:1,1//code.0,0g1,1oogle.com/p/asciipumper/ http
+1,1http://code.google.com/p/asciip0,0u1,1mper/ htt0,0p:1,1//code.0,0go1,1o0,0gle.com/p/asciipumper/ 1,1http
+1,1http://code.google0,0.com/p/asciipumper/1,1 http://co0,0de.goo1,1gle.com/p/asciipumpe0,0r/1,1 http
+1,1http://code0,0.google.1,1com/p/asciipumper0,0/1,1 h0,0ttp1,1:/0,0/co1,1de.google.com/p/asciipumper/ http
+0,0http://code.1,1google.com/p/asciipumper/ h0,0t1,1t0,0p1,1:/0,0/1,1code.google.com/p/asciipumper/ http
+1,1http:0,0//c1,1ode.google.com/p/asciipumper/ h0,0t1,1t0,0p:1,1//code.google.com/p/asciipumper/ http
+1,1http://code.google.com/p/asciipumper/ h0,0t1,1t0,0p:1,1//code.google.com/p/asciipumper/ http
+1,1http://code.google.com/p/asciipumper/ h0,0t1,1t0,0p1,1://code.google.com/p/asciipumper0,0/1,1 http
+1,1http0,0:/1,1/code.google.com/p/asciipumper/ h0,0ttp1,1:/0,0/1,1code.google.com/p/asciipump0,0er/ htt1,1p
+1,1http:/0,0/c1,1ode.google.com/p/asciipump0,0er/ 1,1http:/0,0/co1,1de.google.com/p/asciip0,0umpe1,1r/ http
+1,1http:0,0//code.g1,1oogle.com/p/asci0,0ipumpe1,1r/ http://c0,0ode.google.com/p/asciipu1,1mper/ http
+0,0http:1,1//code.g0,0oogle.com/p/ascii1,1pumper/ http://code.google.com/p/asciipumper/ http
+1,1http://code.google.com/p/asciipumper/ http://code.google.com/p/asciipumper/ http

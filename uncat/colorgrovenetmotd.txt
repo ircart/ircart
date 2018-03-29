@@ -1,0 +1,22 @@
+9,1                            3,1:.                          3,1.O:                         
+9,1                           3,1:OOOO::             3,1::        .OO.   9,1.:OOOOOO:.          
+9,1         .::OOOOOO.   3,1:O. OO.   :OO           3,1.OO.      .OO:  9,1:OOO:.. .OOO:         
+9,1      :OOOOO.. .::OO   3,1O::O.     :O:   9,1.:OOO:O.3,1:O:      :O: 9,1:OOO.       .O:         
+9,1    .OO:               3,1OOOO      .O: 9,1.OO:   :OO3,1O:O     :O: 9,1::O     :OOOO.           
+9,1   OOO     ::OOOOOO:.  3,1.OOO:     .OO9,1:O: .   ...O:3,1O:   :OO 9,1.:O.  :OOO::OOO           
+9,1  .O:..OOOOOOOOOOOOOOO.3,1.OOOO:    OO9,1:O.  :::O:  .O3,1O:   :O. 9,1.OO.:OO:  .OOO            
+9,1  :OOOOOOO...       .OO3,1OOOO:OO  OO:9,1::   .OO.    OO3,1O. :O:   9,1:OOOOOOOOO:              
+9,1  :O: :OOOO:OOO.     :OO3,1OOO. :OOOO9,1.OO  O: :O.   OO3,1O. OO    9,1:OOOOO:    OO.           
+9,1  :O:    .OOOO:      OOO3,1:OOOOOOOO  9,1:O...        O3,1:OOOO.   9,1OO.         OO            
+9,1  .OO    :OOOOOO:   OO:  3,1OO .:. :O: 9,1:O.       .O. 3,1:OOO  .9,1OO.          .OO.          
+9,1   :O:         OO.OOO    3,1OO      .OO.9,1.OO:...:OO   3,1:OO: 9,1.OO              OOO.        
+9,1    .O::      .OOOO      3,1:O         OO. 9,1....      3,1.OO:9,1.OOO:OOOOOOOOOOOOOOOOOO:      
+9,1      .OOOOOOOOOO:       3,1.:          :O:   OOO.    3,1.O 9,1.:OOOOO...     .....OOOO      
+9,1                :OO      3,1.::        O:9,1.OO:OOO 3,1O:.                                   
+9,1                 .OO.    3,1.OOOO.    OO:9,1.O:.    3,1.OOOOOOOOOO                           
+9,1                  .OO.   3,1.O:::OO   OO 9,1OOOOOO    3,1OO:                                 
+9,1                     .   3,1.OO. .OO.O:O9,1O:O:::     3,1OO   11,1. .:OOOOOOOOO:.                
+11,1            .::O::OOOOOOOOOO3,1O:  O:OO 9,1OO    OO11,1: O3,1OO 11,1:OOOOOOO:. .. ..                 
+11,1           .:::::::::::::.  3,1OO.  :OO 9,1OOOOOOO.  3,1:O                                   
+9,1                                                                                    
+9,1                                         :O)                                        
