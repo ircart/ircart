@@ -1,0 +1,28 @@
+BLOODY SUPERNETS TRAITORS:
+
+• implyingrigged.info	(Auto Z:Line for saying "irc.supernets.org")
+• irc.anonnet.org		(Auto K:Line for saying "irc.supernets.org")
+• irc.arstechnica.com	(Auto K:Line for saying "irc.supernets.org")
+• irc.drlnet.com		(Auto G:Line for saying "irc.supernets.org")
+• irc.Echelon4.net		(Auto G:Line for saying "irc.supernets.org")
+• irc.hackthissite.org	(Auto K:Line for saying "irc.supernets.org")
+• irc.ircstorm.net		(Auto K:Line for saying "supernets")
+• irc.koaxirc.net		(Auto G:Line for saying "irc.supernets.org")
+• irc.mibbit.com		(Auto K:Line for saying "supernets")
+• irc.mozilla.com		(Auto G:Line for saying "irc.supernets.org")
+• irc.nosperg.com		(Auto Z:Line for saying "irc.supernets.org")
+• irc.pounces.me		(Auto K:Line for saying "irc.supernets.org")
+• irc.syn-irc.net		(Auto K:Line for saying "supernets")
+• irc.tawx.net			(Auto K:Line for saying "irc.supernets.org")
+• threekelv.in			(Auto K:Line for saying "irc.supernets.org")
+
+• http://irc.netsplit.de/			(Banned SuperNETs listing)
+• https://github.com/				(Banned @acidvegas & @supernets)
+• https://twitter.com/				(Suspended @supernets)
+• https://www.elitebnc.org/banned/	(Banned connections to SuperNETs)
+
+• This fucking guy -> https://www.reddit.com/r/irc/comments/7w93ua/getting_really_tired_of_supernets_spambots/
+
+
+
+NOTE: The list has last been updated on 02/15/2018
