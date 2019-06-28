@@ -1,0 +1,31 @@
+0,1mnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmn
+0,1mnmnm1,0mnmnmn0,1mnmnmnmnmnmn1,0mnmn0,1mnm1,0mnmnmn 0,1mnmn1,0mnmnmn0,1mnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnm
+0,1mnmn1,0m0,1      1,0mnmnmnmnmnmn0,1    1,0mnm1,1 0      1,0mnmn1,1 0     1,0mnmnmnmnmnmnmnmnmnmnm0,1mnmnmnmnmnmn
+0,1mnm1,0n0,1 8,4mnmnmn0,1 1,0mnmnmnmnm0,1  8,4mnmn8,1 1,0m0,1 8,4mnmnmnm0,1 1,0mn0,1 8,4mnmnmn0,1  1,0mnmnmnmnmnmn0,1       1,0mnmnmnm0,1mnmnm
+0,1mn1,0m0,1 8,4mnmnmnm0,1 1,0nmnmnmn0,1  8,4mnmnmnm8,1 8,4mnmnmnmn0,1 1,0nm0,1 8,4nmnmnmnm0,1 1,0mnmnmnmnm0,1  8,4nmnmnmn0,1 1,0mnmnmnmn0,1mnm
+0,1m1,0m0,1 8,4mnmnmnmnm0,1 1,0mnmnm0,1 8,4mnmnmnmnmn0,1 8,4mnmnmnm8,1 1,0mn0,1 8,4nmnmnmnmm0,1 1,0mnmnmn0,1  8,4nmnmnmnmn0,1 1,0mnmnmnmnmn0,1n
+0,1n1,0n0,1 8,4mnmnmnmnmn0,1 1,0mnm0,1 8,4mnmnmnmnmnm0,1 8,4mnmnmnmn0,1 1,0mn0,1  8,4nmnmnmnm0,1 1,0mnmn1,1m8,4mnmnmnmnmnm0,1 1,0mnmnmnmnmnm
+0,1m1,0m0,1 8,4mnmnmnmnmnm0,1 1,0m0,1 8,4mnmnmnmnmnmn0,1 8,4mnmnmnmn0,1 1,0mnm0,1 8,4nmnmnmnmn0,1 1,0m0,1  8,4nmnmnmnmnmnm8,1 1,0mnmnmnmnmnm
+0,1n1,0n0,1 8,4mnmnmnmnmnm0,1  8,4mnmnmnmnmnmnm8,1 8,4mnmnmnmnm0,1 1,0mn0,1 8,4mnmnmnmnm0,1  8,4mnmnmnmnmnmnmn0,1 1,0mnmnmnmnmnm
+0,1m1,0m0,1 8,4mnmnmnmnmnm0,1  8,4mnmnnmnmnmnnm8,1 8,4mnmnmnmn0,1 1,0mnm0,1  8,4mnmnmnmn0,1 8,4nmnmnmnmnmnmnm0,1  1,0mnmnmnmnmnm
+0,1mn1,0n0,1 8,4mnmnmnmnmn0,1 8,4mnmnmnmnmnnmnm0,1 8,4mnmnmn0,1  1,0mnmnmn0,1 8,4nmnmnmn0,1 8,4nmnmnmnmnmnm0,1  1,0mnmnmnmnmnmnm
+0,1mnm1,0m0,1 8,4mnmnmnmnm0,1 8,4mnmnmnmnnmnmn0,1 8,4mnmnmn0,1 1,0mn0,1        8,4nmnmnm0,1 8,4nmnmnmnmnm0,1  1,0mnmnmnmnmnmnmnm
+0,1mnm1,0n0,1     8,4mnmnm8,1 8,4mnmnmnm0,1       8,4mnmnmn0,1   8,4mnmnmnmn0,1 8,4mnmnm0,1 8,4nmnmnmn0,1   1,0nmmnmnmnmnmnmnmnm
+0,1mnmn1,0mnm0,1 8,4mnm8,1 0 8,4n0,1 8,4mn0,1  8,4mnmn8,1 0  1,0mn0,1 8,4mnmnmn0,1 8,4mnmnmn0,1    8,4mnm0,1  8,4mnm0,1 8,4mnm8,1 0 1,0nmnmnmnmnmnmnmnmnmnm
+0,1mnmnm1,0mn0,1 8,4mnm0,1 8,4mn0,1 8,4mnm0,1 8,4mnmnmnm8,1 0  8,4mnmnmn0,1 8,4mnmn8,1 0 1,0m0,1 8,4mnmnm8,1 1,0m0,1 8,4m0,1  8,4mnmn8,1 1,0mnmnmnmnmnmnmnmnmnmn
+0,1mnmnm1,0m0,1 8,4mnmn0,1  8,4mnmn0,1  8,4mnmnmnmnmn0,1 8,4mnmnmnmnm0,1 1,0nmn1,1 8,4mnmnm0,1 1,0n0,1  1,0m0,1 8,4mnmnm8,1 0 1,0mnmnmnmnmnmnmnmnmn
+0,1mnmnm1,0n0,1 8,4mnmn0,1 1,0m0,1 8,4nm0,1 1,0n0,1 8,4mnmnmnmnmnm0,1 8,4mnmnmnmn0,1 1,0mnm0,1 8,4mnmnm8,1 1,0mnmn0,1 8,4mnmnmnm0,1 1,0mnnmnmnmnmnmnmnmn
+0,1mnmn1,0m0,1 8,4mnmnm0,1 1,0nm0,1  1,0nm0,1 8,4mnmnmnmnmnm0,1      8,4mnm0,1 1,0nmn0,1 8,4mnmnm8,1 1,0mnmn0,1 8,4nmnmnmnm0,1  1,0nmnmnmnmnmnmnmn
+0,1mnmn1,0n0,1 8,4mnmnm0,1 1,0mnmnmnm0,1 8,4mnmnmnmnmn0,1 1,0mnmn1,1 8,4mnmn0,1 1,0mn0,1 8,4nmnmnm0,1 1,0mnmn0,1 8,4mnmnmnmnm0,1 1,0mnmnmnmnmnmnmm
+0,1mnm1,0m0,1 8,4mnmnmnm0,1 1,0mnmnmm0,1 8,4mnmnmnmnmn8,1 1,0mnmn0,1 8,4mnmnm8,1 1,0m0,1 8,4mnmnmnm8,1 1,0mnm1,1 8,4mnmnmnmnmn0,1 1,0mnmnmnmnmnmnm
+0,1mnm1,0n0,1 8,4mnmnmnmn0,1 1,0mnmnm0,1 8,4mnmnmnmnmn0,1 1,0mnmn1,1 8,4mnmnmn0,1 8,4mnmnmnmnm0,1 1,0mnm0,1 8,4mnmnmnmnm0,1 1,0mnmnmnmnmnmnm
+0,1mnm1,0m0,1 8,4mnmnmnmn0,1 1,0mnmnmn1,1 8,4mnmnmn0,1   1,0mnmnmn0,1 8,4mnmnmn0,1 8,4mnmnmnmnm8,1 1,0mn0,1 8,4mnmnmnmnm0,1 1,0mnmnmnmnmnmn0,1m
+0,1mnm1,0n0,1 8,4mnmnmnmn0,1 1,0mnmnmnm0,1      1,0mnmnmnmnm0,1 8,4mnmnmn0,1  8,4mnmnmnm8,1 1,0mnm0,1 8,4mnmnmnm0,1  1,0nmnmnmnmnmnmn0,1n
+0,1mnm1,0m0,1 8,4mnmnmnm8,1 1,0mnmnmnmnmnmnmnmnmnmnmnm0,1 8,4mnmnm0,1 1,0mn0,1 8,4mnmnm0,1 1,0mnmnm0,1       1,0mnmnmnmnmnmn0,1mnmn
+0,1mnmn1,0m0,1       1,0nmnmnmnmnmnmnmnmnmnmnmnmn0,1     1,0mnmn1,1 0    1,0mnmnmnmnmnmnmnmnmnmnmn0,1mnmnmnm
+0,1mnmnm1,0nmnmnmn0,1mnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmn
+0,1mnmnmnmnmnmnm8MAD0nmnmnmnmnmnmnmn8NIGGA0mnmnmnmnmnmn8M3SK0mnmnmnmnmnmnmnmnmnmnmnmnmnmn
+0,1mnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmn
+0,1nmnmnmnmnmnmnmnmnmnmnmnmmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmn
+0,1nmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnmnm
+
