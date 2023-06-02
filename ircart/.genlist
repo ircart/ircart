@@ -1,0 +1,2 @@
+#!/bin/sh
+find ./ -type f -exec grep -Iq . {} \; -print | cut -d'/' -f2- | sed 's/\.[[:alpha:]]*$//' | sort > .list
