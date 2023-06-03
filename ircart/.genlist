@@ -1,2 +1,2 @@
 #!/bin/sh
-find ./ -type f -exec grep -Iq . {} \; -print | cut -d'/' -f2- | sed 's/\.[[:alpha:]]*$//' | sort > .list
+find . -type f -name "*.txt" | cut -c 3- | sort | sed 's/\.[[:alpha:]]*$//' > .list
