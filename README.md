@@ -21,11 +21,12 @@ Do you have IRC art you made that you would like to include in this repository?
 User uploads via git are coming soon! For now, you can join **#scroll** on the [SuperNETs](https://supernets.org/) IRC network to submit your IRC art!
 
 ## Todo
+- git hook to automatically regenerate the .list file
+- .list documentation
 - The ability for users to upload art (using git) to the a `/uploads/` directory to be later organized.
 - Removal of garbage art files not worth ever scrolling in a channel due to being unfunny, bad quality, irrelevant, etc.
-- Remove duplicate art files
 - Include a database containing meta information about art files *(artist, tags, etc)*
-- Conversion of every single known ANSI art packs (blocktronics, etc) into IRC art for the `/ansi/` directory.
+- Conversion of every single known ANSI art packs *(blocktronics, etc)* into IRC art for the `/ansi/` directory.
 - Online gallery of the entire art database converted to a PNG
 
 ## Mirrors
