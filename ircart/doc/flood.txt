@@ -1,0 +1,16 @@
+03[WeeChat]
+    /server add supernets irc.supernets.org/6697 -ssl -autoconnect
+    /set irc.server.supernets.anti_flood_prio_high 0
+    /set irc.server.supernets.anti_flood_prio_low 0
+ 
+03[IRSSI]
+    /network add -cmdmax 0 -cmdspeed 0msec supernets
+    or...
+    /network modify -cmdmax 0 -cmdspeed 0msec supernets
+ 
+03[xChat/HexChat]
+    /set net_throttle 0
+ 
+03[ZNC]
+    /msg *controlpanel setnetwork floodburst $me $network 0
+    /msg *controlpanel setnetwork floodrate $me $network 0# 
