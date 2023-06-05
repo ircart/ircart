@@ -1,9 +1,9 @@
-04COMMAND               DESCRIPTION
-@scroll               information about scroll
-.ascii 10<name>       play the 10<name> art file
-.ascii dirs           list of art directories
-.ascii list           list of art filenames
-.ascii random 06[dir]   play random art, optionally from the 06[dir] directory only
-.ascii search 10<query> search for art diles that match 10<query>
-.ascii stop           stop playing art
-.ascii sync           sync the ascii database to pump the newest art
+08COMMAND               DESCRIPTION
+@scroll               14| information about scroll
+.ascii 10<name>         14| play the 10<name> art file
+.ascii dirs           14| list of art directories
+.ascii list           14| list of art filenames
+.ascii random 06[dir]   14| play random art, optionally from the 06[dir] directory only
+.ascii search 10<query> 14| search for art diles that match 10<query>
+.ascii stop           14| stop playing art
+.ascii sync           14| sync the ascii database to pump the newest art
