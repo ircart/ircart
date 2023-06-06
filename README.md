@@ -1,4 +1,11 @@
-# IRC ART
+```
+██╗██████╗  ██████╗     █████╗ ██████╗ ████████╗
+██║██╔══██╗██╔════╝    ██╔══██╗██╔══██╗╚══██╔══╝
+██║██████╔╝██║         ███████║██████╔╝   ██║   
+██║██╔══██╗██║         ██╔══██║██╔══██╗   ██║   
+██║██║  ██║╚██████╗    ██║  ██║██║  ██║   ██║   
+╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  
+```
 
 This repository contains the largest organized collection of IRC art & is meant to serve as the main central repository for all IRC art.
 
@@ -17,14 +24,6 @@ Head over to the [/uploads/](https://github.com/ircart/ircart/discussions/2) dis
 Create an [issue](https://github.com/ircart/ircart/issues) to report any broken/duplicate/low-quality art, typos, or art that belongs in a category directory.
 
 Come pump with us in **#scroll** on [irc.supernets.org](irc://irc.supernets.org)
-
-###### Todo
-- git hook to automatically regenerate the .list file
-- The ability for users to upload art (using git) to the a `/uploads/` directory to be later organized.
-- Removal of garbage art files not worth ever scrolling in a channel due to being unfunny, bad quality, irrelevant, etc.
-- Include a database containing meta information about art files *(artist, tags, etc)*
-- Conversion of every single known ANSI art packs *(blocktronics, etc)* into IRC art for the `/ansi/` directory.
-- Online gallery of the entire art database converted to a PNG
 
 ###### Mirrors
 - [acid.vegas](https://git.acid.vegas/ircart)
