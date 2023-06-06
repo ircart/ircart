@@ -16,7 +16,7 @@ Do you have IRC art you made that you would like to include in this repository?
 
 Create a [pull request](https://github.com/ircart/ircart/pulls) to submit art, or use the [/uploads/](https://github.com/ircart/ircart/discussions/2) discussion.
 
-Create an [issue](https://github.com/ircart/ircart/issues) to report any broken art, duplicate files, low quality art, or art that belongs in a different directory.
+Create an [issue](https://github.com/ircart/ircart/issues) to report broken art, duplicate files, low quality art, or art that belongs in a directory.
 
 Come pump with us in **#scroll** on [irc.supernets.org](irc://irc.supernets.org)
 
