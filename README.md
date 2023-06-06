@@ -18,7 +18,7 @@ Create a [pull request](https://github.com/ircart/ircart/pulls) to submit art, o
 
 Create an [issue](https://github.com/ircart/ircart/issues) to report broken art, duplicate files, low quality art, or art that belongs in a directory.
 
-Come pump with us in **#scroll** on [irc.supernets.org](irc://irc.supernets.org)
+Come pump with us in **#scroll** on **irc.supernets.org**
 
 ###### Mirrors
 - [acid.vegas](https://git.acid.vegas/ircart)
