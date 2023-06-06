@@ -6,30 +6,27 @@ It contains various popular art packs that have floated around the internet, asw
 
 The repository is constantly being organized & updated with new art files.
 
-## Usage
-
-Popular usage of massive art packs like this are putting them in your IRC client directory to be used with a custom command like `/play <art-name>` to play the art into a channel.
-
-Using this repository with an IRC bot to bring art into your channels is also an option. See [ircart/scroll](https://github.com/ircart/scroll) for an example.
-
-Use `git pull` to update the repository and get a more updated & organized pack.
+Check out the [scroll](https://github.com/acidvegas/scroll) IRC bot to easily bring this art into your channels!
 
 ## Contribute
 
 Do you have IRC art you made that you would like to include in this repository?
 
-User uploads via git are coming soon! For now, you can join **#scroll** on the [SuperNETs](https://supernets.org/) IRC network to submit your IRC art!
+Head over to the [/uploads/](https://github.com/ircart/ircart/discussions/2) discussion to submit your art! You can also create a [pull request](https://github.com/ircart/ircart/pulls) to submit art.
 
-## Todo
+Create an [issue](https://github.com/ircart/ircart/issues) to report any broken/duplicate/low-quality art, typos, or art that belongs in a category directory.
+
+Come pump with us in **#scroll** on [irc.supernets.org](irc://irc.supernets.org)
+
+###### Todo
 - git hook to automatically regenerate the .list file
-- .list documentation
 - The ability for users to upload art (using git) to the a `/uploads/` directory to be later organized.
 - Removal of garbage art files not worth ever scrolling in a channel due to being unfunny, bad quality, irrelevant, etc.
 - Include a database containing meta information about art files *(artist, tags, etc)*
 - Conversion of every single known ANSI art packs *(blocktronics, etc)* into IRC art for the `/ansi/` directory.
 - Online gallery of the entire art database converted to a PNG
 
-## Mirrors
+###### Mirrors
 - [acid.vegas](https://git.acid.vegas/ircart)
 - [GitHub](https://github.com/ircart/ircart)
 - [GitLab](https://gitlab.com/ircart/ircart)
