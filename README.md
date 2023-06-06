@@ -8,7 +8,7 @@ It is meant to serve as the main central repository for all IRC art.
 
 The repository is constantly being organized & updated with new art files.
 
-Check out the [scroll](https://github.com/acidvegas/scroll) IRC bot to easily bring this art into your channels!
+Check out the [wiki](https://github.com/ircart/ircart/wiki) for useful information & resources.
 
 ## Contribute
 
