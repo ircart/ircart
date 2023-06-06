@@ -1,11 +1,4 @@
-```
-██╗██████╗  ██████╗     █████╗ ██████╗ ████████╗
-██║██╔══██╗██╔════╝    ██╔══██╗██╔══██╗╚══██╔══╝
-██║██████╔╝██║         ███████║██████╔╝   ██║   
-██║██╔══██╗██║         ██╔══██║██╔══██╗   ██║   
-██║██║  ██║╚██████╗    ██║  ██║██║  ██║   ██║   
-╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  
-```
+<p align="center"><img src=".screens/ircart.png"/></p>
 
 This repository contains the largest organized collection of IRC art & is meant to serve as the main central repository for all IRC art.
 
