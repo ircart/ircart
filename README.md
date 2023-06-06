@@ -1,8 +1,10 @@
-<p align="center"><img src=".screens/ircart.png"/></p>
+# IRC ART
 
-This repository contains the largest organized collection of IRC art & is meant to serve as the main central repository for all IRC art.
+This repository contains the largest organized art pack for Internet Relay Chat.
 
-It contains various popular art packs that have floated around the internet, aswell as various IRC art collected over the last 10+ years.
+Filled with various popular art packs & IRC art collected over the decades.
+
+It is meant to serve as the main central repository for all IRC art.
 
 The repository is constantly being organized & updated with new art files.
 
