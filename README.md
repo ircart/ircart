@@ -16,7 +16,7 @@ Do you have IRC art that you would like to share & include in this repository?
 
 Create a [pull request](https://github.com/ircart/ircart/pulls) or join the [Community Contributations](https://github.com/ircart/ircart/discussions/2) discussion.
 
-Come pump with us in **#scroll** on **irc.supernets.org**
+Pump with us in **#scroll** on **irc.supernets.org**
 
 ___
 
