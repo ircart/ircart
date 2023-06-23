@@ -1,0 +1,21 @@
+0,1           0,15  0,1 7       .:/+++++/:         7,15 7,1  0                                         
+0,1 X        0,15  0,1  7    .sNMMMMMMMMMMNy+/-.  0 15 15,15 7,1    0       .         X         |          
+0,1         0,15  0,1 7    .hMMMMMMMMMMMMMMMMMMMMmhy14,14so7,1+/:-.-`0                    __\|/__   o   
+0,1        0,15  7,1     sMMMMMMMMMMMMMMMMMMMMMMMMM14,14MM14,1M7MMM3MMMNhso+:.0               /|\         
+0,1    o   0,15 0,1 7    yMMMMMMMMMMM13MMM7MMMMMMMMMMMM14,14MM14,1M7MMM3MMMMMMMMMMMdo-  0    3  0    |          
+0,1        0,15 0,1  7  hMMMMMMMMMMMMMM13MMM7MMMMMMMMMMM14,14M15,1M7MMM3MMMMMMMMMMMMMMMMMMNho-6  0             
+0,1       7 0,15 7,1    dMMMMMMMMMMMMMMM13MM7MMMMMMMMMMM14,14M7,1MMM3MMMMMMMMMMMMMMMMMMMMMM6MNs-0      .     
+0,1 .     7 7,15  7,1   sMMMMMMMMMMMMMMMM13M7MMMMMMMMMMm15,15s7,1N3MMMMMMMMMMMMMMMMMMMMMMM6MMMMMmo.0         
+0,1         0,15 0,1 7  .MMMMM11MMMM7MMMMMMM13M7MMMMMMMMMy15,15  7,1y3MMMMMMMMMMMMMMMMMMMMM6MMMMMMMMMMh: 0  6 0   
+0,1         0,15  0,1  7  -dMM11M1M11M7MMMMMMM13MM7MMMMMMMMM/15,15:3,1yMMMMMMMMMMMMMMMMMMMMM6MMMMMMMMMMMMMMM+ 0   
+0,1  \/      0,15  0,1 7    :hMMMMMMMMM13MMM7MMMMMNyhy15,15NM3,1MMMMdhMMMMMMMMMMMMMMMM6MMMMMMMMMMMMMMM:0    
+0,1  /\        0,15  0,1     7`/osyhysy13ys7odM3MMddNM15,15Mm3,1yo/--yMMMMNsyNMMMMMMMM6MMMMMMMMMMMMMMM+0     
+0,1             0,15  0,1            7`.+MM3MMNyo15,15/.`3,1  `7+y3NMMMN+/sho+ohmM6MMMMMMMMMMMMMMMMMs 0     
+0,1              0,15  0,1           7+sdMMMN-7,15 15.+7,1+yNNMMM3NMMd`0  3  .+ys6o+sdMMh+/mMMMMMMMm/ 0      
+0,1               0,15   0,1        7`:ssoom15,15`0 7 0,1 7 .dMMMd1::Mm.0     3    .6:///.  oMMMMMMy:0         
+0,1    C            0,15          15  ``:.7 7,1   oyNNmM/-1Nd` 0   O        6 0   6:MMMMMM/`7``..-/oo. 
+0,1        _|_                    7 0   7 `/y+s`h`1hMo  0               1`7mMMMMMMMMMMMMMMMMd0 
+0,1         |             .         1-++++/.0 7`  1.dNo++++: 0           7yNMMMMMMMNdhs/MMMm0 
+0,1                               1  +MMMMd0  1  0  1 0x1MMNNNh 0.    1 0    1`7yhdmMNMM1MMMMm`7MMMs 
+0,1   11BaBiEs iN SpAcE !!! ...1ys+.   +MMMMd:oyys:`sMNooo/ -oooo/.os`/MMMMM+/hMM0X1MN7oMMMy-
+0,1                                                             .        o             

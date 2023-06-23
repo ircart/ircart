@@ -1,0 +1,79 @@
+                ,MM,   ~='07==:        :77=       :77      77+MO
+              . MM?                   ~77?        +7?      ?7:NM
+               ,MM+                 .+77?.       ,77~      =7=IM:
+               NM87~              .~I77+         +7I.      :7I:MI
+               MM$77=,          ,~I77I~         :77~     ,  I7~NO
+              :MO,I777+=~:::::~+I777+,         ,I7?     :=  =77DM
+              .M? ,?777777777777I=~,          .?7I.     +?  .I7DM
+              :M~   ,+?77777?+=,             .?7I,     .77,  :78M
+              ?M                            ,?77~      ~77~   =OM
+              ?M                           ~I77~       ?7II    $M
+              ?M                         ,?77I,       ,7I~7:   7M
+              ?M                      .~?777?,        =7+,7+   7M
+              ?8                    .=I777I=         .I7: ?7:  7M
+              Z8                 ,~?I7777+,          =7I  ~7?  7M
+              ND==~:        ,:~+I77777I+,           ,I7~  .I7: 7M
+              NN7777777777777777777I+:.             ?7?    =7I 7M
+              ND=??I77777777777I=:                 +77,    .I7=7M
+              N8    .::::::::,                    =77=      :77ZM
+              N8                                .?77+        +78M
+              N8                               ~I77?    ,,    ?8M
+              N8                             :?777+.    ++    .ZM
+              N8                          ,=I777I=      OZ     7M
+              ND:::::,               ,:=+I77777+,      :NN     7M
+              NM77777777777?????????7777777?~,         8$D+    7M
+              NM?????77777777777777777??~:,           $N=Z8    IM
+              NM       :::::::::::::,                ?M?=IM=   =M
+              NM                                   ,ZN?===NN,  =M
+              ?M                               :=$8MZ=====7MN= =M
+              7M888888888888888888888888888888MMMDZ+=======7MMZZM
+              ?MIIIIIIIIIII7ZZZZZZZZZZZZZZZZZ7?=============+ODD$
+              +M====+I$ZZZ+==========IZZZZ$===========IZZZZ$===I$
+              +M===+Z77777Z+========$7777778=========$7777778==I$
+              +M===?D77777D?========O$7777$D=========O$7777$D==7$
+              +M====I$ZOOOI==========7OOOOZ+==========7OOOOZ+==Z$
+     .+++:    ~M===============================================Z$
+     7MMM$$7: :MDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDN$     .~I$:
+    .$I?I7OM$$?MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMII:+7$$NON:
+    ~M??????ZDMMMMMMMMMMMMMMMMMOOOON77ONMMNO$777$DMMMMMMN777OMMZ~?MDO7I??D:
+    +D?ONN8I??7NMMMMMMMMMMMMMMM????D+:::~8MMMDO7??7DMMMNI?7DMMM$::ZZ??IZID:
+    +D?N??ZMZI??ZNMMMMMMMMMMMMN????D+::::OMMMMMMMDZ77DNIZNN8888=::$O?ZONZ$:
+    +D?8???IONI???OMMMMMMMMMMMD????O$::::~$$$I~:IDN87??OMZ~::::::~N$O7?OI$
+    +D?O?????7N7???DMMMMMMMMMMD????IN~:::::::=$M87??????ZNMO$$$$$M$ZI??7$$
+    +N?O??????I8Z??DMMMMMMMMMMN???I7ZN7+++?$DDZI?????N7?IZ7ZOOONNI????I?8I
+    :M?Z????????D8?DMMMMMMMMMMM????ZOIZOOOZ7I????????8O7DO7????DMMD7???I$~
+    ,$IZ???$OO$7?8ODMMMMMMMMMMM$????$ND8OO$$?????????IIN$Z?????ZDNMMZ??O7
+     $$7???7MOODDDODMMMMMMMMMMMNI??????????II?IZOOO7?????I??I77???IMMIZ$:
+     7OI????7DI????OMMMMMMMMMMMMM7??????7$8NI7D8Z7$ODN8777ZND$$ZI??7MN$~
+     ~N??????I8I???OMMMMMMMMMMMMMMNDDDDNMMM$?????????IZDDDO7????????D7,
+ $?+:+M7??????IZI??OMMMMMMMMMMMMMMMMMMMMMM8?????????????????????????8?      :+I
+ DDMMMMND8OZ7I?????OMMMMMMMMMMMMMMMMMMMMMMI?????????????????????????O$:~?$$$$N8
+ 7II7$O8DMMMMMMND8ODMMMMMMMMMMMMMMMMMMMMM8??????????????????????????8MMMMDO$7II
+ N7IIIIIIII$ZODNMMMMMMMMMMMMMMMMMMMMMMMMMZ??????????????????????????DMO$IIIIII8
+ MM$IIIIIIIIIIIIIDMMMMMMMMMMMMMMMMMMMMMMMI??????????????????????????MMDM$IIII8$
+ ODM$IIIIIIIIIIIIMMMMMMMMD88DMMMMMMMMMMMM?????????????????????????7DMMZDM7I7D$?
+ $Z8M$IIIIIIIIIIIMMMMMMMMMM8$I7$O8DNMMMMM7??I???????????????????ZNMNI, ,MN7N$+
+ +D7OMOIIIIIIIIIIDMMMMMMMMMMMNO7IIIII$ZOD$OMM7????????????????ZMMO=     ~MM$~
+  $$7$MD7IIIIIIIIDMMMMMMMMMMMMMMDZ7IIIIIZMN?IMZ????????????IOMMMZ        ~M?
+  ID777DMOIIIIIIIOMMMMMMMMMMMMMMMMM8$IIZM$   ?MZ?????????$DMMMMMM  :===:  ?$+++
+  .$7777OMN$IIIII$MMMMMMMMMMMMMMMMMMMN8M?     +M8?????IZNMMMMMMMM? NMMMMMMMMMMM
+   IO77777NM87IIIIMMMMMMMMMMMMMMMMMMMMMZ  ~    ~M8??78MMMMMMMMMMMO7MMMMMMMMMMMM
+   :O777777ZNM87II8MMMMMMMMMMMMMMMMMMMN  ~I =   ~MNNMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    $Z7777777ZDM8$$MMMMMMMMMMMMMMMMMMMI ,M+ O  :8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    ~D777777777$DMDMMMMMMMMMMMMMMMMMMM:,DM~ M~ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+     $7777777777778MMMMMMMMMMMMMMMMMMN ZMM =M==MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+     IO7777777777777NMMMMMMMMMMMMMMMM87MMM~$M7+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+     :D7777777777$77ZMMMMMMMMMMMMMMMMMMMMM?DMO7MMMMMMMMMMMMMMMM8OMMMMMMMMMMMMMM
+      $7777777777D$77NMMMMMMMMMMMMMMMMMMMMOMMM8MMMMMMMMMMMMMMMNIIZMMMMMMMMMMMMM
+      ?Z777777777OO77ZMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN7III$NMMMMMMMMMMM
+      :D777777777ZD777DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$IIIIIIOMMMMMMMMMM
+       Z7777777777M777$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$IIIIIIII78MMMMMMMM
+       7$777777777MZ777OMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$IIIIIIIIIIZ$~+7$$$M
+       +O777777777NO7777DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$II/    \III8I
+       :D777777777D877777NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN7III MR.0 IIO$
+        O7777777778N77777$MMMMMMMMMMMMMMMMMMMMMMMMMMMMM87IIII\____/I$$+
+        $7777777778N777777$MMMMMMMMMMMMMMMMMMMMMMMMMMNZIIIIIIIIIIII787
+        $Z77777777ZN7777777$MMMMMMMMMMMMMMMMMMMMMMMNO7IIIIIIIIIIII7D7.
+        +O77777777ZM77777777$MMMNNMMMMNDNMMMMMMMMDO7IIIIIIIIIIIIIIN$.
+        +877777777ZM7777777777NMM7DMMMM$77ZZZM8$7IIIIIIIIIIIIIII7N$.
+        ~D77777777ZM77777777777OMZ7ZNMMM77777ND$$$$$$$$$$$$$$$$ZZ$.

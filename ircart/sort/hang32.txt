@@ -1,0 +1,8 @@
+11,11pDUC1MISS11,11p1LAVEY11,11m1BROKE11,11pumppumppumpp
+11,11pumppu1THE11,11u1HANG11,11m1TREE11,11ppumppumppumpp
+11,11pumppMmppux_xumpp3,3umpp11,11umppumppumpp
+11,11pumppUmppumppumpp3,3umppum11,11ppumppumpp
+11,11pump5,5p1S5,5mp11,11pum5,5ppumppu3,3mppum11,11ppumppumpp
+11,11pum5,5pp1T5,5mp11,11pump5,5pumppu3,3mppump11,11pumppumpp
+11,11pum5,5ppump11,11pum0,0p5,5pumppu3,3mppump11,11pumppumpp
+3,3pum1HANG3,3ppum0,0pp3,3umppumppumppumppumpp

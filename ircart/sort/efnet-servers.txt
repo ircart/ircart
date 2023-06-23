@@ -1,0 +1,170 @@
+# $Id$
+# Last update: Mon Aug  2 17:11:23 CEST 2010
+#
+
+#
+# {{{ EFnet / Server Information -- <http://www.efnet.org/?module=servers>
+# {{{ sh (1)
+# for	 hname								 \
+# in	`wget 		 http://www.efnet.org/?module=servers -qO-	|\
+#	 perl -lne	'print $1 if m,href="[^"]+?server_id=\d+">([^<]+?)</a,'`
+# do	host "${hname}" | awk '/has (IPv6 )?address/ { print $NF }'
+# done	|sort -t: -k2
+# }}}
+
+208.167.236.6
+205.210.145.3
+130.233.48.242
+195.140.202.142
+194.109.129.220
+196.21.31.50
+130.243.52.250
+194.126.217.2
+193.109.122.77
+213.239.111.2
+217.17.33.10
+89.208.34.166
+195.159.0.90
+193.163.220.3
+192.116.231.44
+88.80.5.41
+128.39.65.230
+67.210.234.18
+209.222.22.22
+198.252.144.2
+69.16.172.2
+208.51.40.2
+216.218.132.58
+216.193.223.223
+77.67.101.101
+198.3.160.3
+209.249.249.126
+66.225.225.225
+205.188.234.121
+141.213.238.252
+160.94.151.137
+198.252.195.2
+2001:16d8:26::
+2001:19f0:1004:5123:0:dead:beef:cafe
+2001:19f0::dead:beef:cafe
+2001:4200:fffe:0:204:23ff:feb4:1d96
+2001:470:0:6667::2
+2001:590::c603:a003
+2001:7b8:3:3f:201:2ff:fef6:574e
+2001:840:0:1000:1::1
+2001:888:0:2::2
+
+# }}}
+
+#
+# {{{ LINKS output from /efnet.port80.se/ as of 2010/08/02
+# {{{ ^
+# 17:23.52 [EHnet] >>> efnet.port80.se efnet.port80.se 0 I CAN HAZ MIRKK
+# 17:23.52 [EHnet] >>> hub.dk efnet.port80.se 1 Eat my packets
+# 17:23.52 [EHnet] >>> hub.se hub.dk 2 pay no attention to that man behind the curtain
+# 17:23.52 [EHnet] >>> hub.efnet.nl hub.se 3 Netherlands Hub Server
+# 17:23.52 [EHnet] >>> ircd.efnet.no hub.se 3 There's only one thing that can stop us...
+# 17:23.52 [EHnet] >>> irc.efnet.no ircd.efnet.no 4 I am the god of hellfire
+# 17:23.52 [EHnet] >>> efnet.xs4all.nl hub.efnet.nl 4 EFNet - one level above pedophilia
+# 17:23.52 [EHnet] >>> efnet.ipv6.xs4all.nl efnet.xs4all.nl 5 the weirdos that sit next to you on the bus!
+# 17:23.52 [EHnet] >>> irc.efnet.fr hub.efnet.nl 4 France EFnet Server
+# 17:23.52 [EHnet] >>> ny.us.hub hub.efnet.nl 4 ny.us.hub
+# 17:23.52 [EHnet] >>> efnet.cs.hut.fi ircd.efnet.no 4 HUT EFNet server
+# 17:23.52 [EHnet] >>> irc.underworld.no hub.efnet.nl 4 Underworld EFnet Client Server
+# 17:23.52 [EHnet] >>> ircd.he.net ny.us.hub 5 Hurricane Electric IRC Hub Server
+# 17:23.52 [EHnet] >>> irc.easynews.com ircd.he.net 6 your usenet, our world.
+# 17:23.52 [EHnet] >>> irc.inet.tele.dk hub.dk 2 Better than WoW
+# 17:23.52 [EHnet] >>> west.us.hub ircd.he.net 6 west side
+# 17:23.52 [EHnet] >>> backup.services.int hub.efnet.nl 4 ircd-ratbox EFNet server
+# 17:23.52 [EHnet] >>> irc.Prison.NET west.us.hub 7 Prisoners of the Internet...
+# 17:23.52 [EHnet] >>> irc.homelien.no hub.dk 2 Who Cares
+# 17:23.52 [EHnet] >>> irc.efnet.nl hub.efnet.nl 4 We worship Optimus Prime
+# 17:23.52 [EHnet] >>> irc.colosolutions.net ircd.he.net 6 I'M ON A BOAT
+# 17:23.52 [EHnet] >>> hub.il hub.se 3 EFnet *.il HUB
+# 17:23.52 [EHnet] >>> irc.inter.net.il hub.il 4 Internet Gold IRC Server
+# 17:23.52 [EHnet] >>> irc.mzima.net west.us.hub 7 Welcome to the fjear nation.
+# 17:23.52 [EHnet] >>> irc.umich.edu ny.us.hub 5 The students are back, the parking is gone.
+# 17:23.52 [EHnet] >>> irc.blessed.net ny.us.hub 5 Blessed.Net IRC Server
+# 17:23.52 [EHnet] >>> irc.efnet.pl hub.se 3 Warsaw, Poland
+# 17:23.52 [EHnet] >>> efnet.multiplay.co.uk hub.efnet.nl 4 multiplay.co.uk efnet server
+# 17:23.52 [EHnet] >>> irc.ac.za hub.efnet.nl 4 Spearchuckers EFnet IRC server
+# 17:23.52 [EHnet] >>> irc.paraphysics.net ny.us.hub 5 This isn't rocket science. Oh wait, yes it is!
+# 17:23.52 [EHnet] >>> irc.du.se hub.se 3 Dalarnas University, Borlänge/Sweden
+# 17:23.52 [EHnet] >>> irc.shoutcast.com ny.us.hub 5 OMG PONIEZ
+# 17:23.52 [EHnet] >>> irc.umn.edu ny.us.hub 5 Univ of Minnesota - Frostbite Falls, MN
+# 17:23.52 [EHnet] >>> irc.he.net ircd.he.net 6 Hurricane Electric IRC Server
+# 17:23.52 [EHnet] >>> irc.swepipe.se hub.se 3 Another visitor. Stay a while. Stay FOREVER...
+# 17:23.52 [EHnet] >>> ircd.choopa.net ny.us.hub 5 It's better than bad, it's good!
+# 17:23.52 [EHnet] >>> irc.choopa.ca ircd.choopa.net 6 JUPE THA ERF!
+# 17:23.52 [EHnet] >>> irc.wh.verio.net ircd.choopa.net 6 ooh omnipotence. mm yes gotta get me some of that.
+# 17:23.52 [EHnet] >>> ircd.nac.net ircd.choopa.net 6 Insert witty comment here
+# 17:23.52 [EHnet] >>> irc.nac.net ircd.nac.net 7 Immune to swine flu: it's not kosher
+# 17:23.52 [EHnet] >>> irc.choopa.net ircd.choopa.net 6 60 percent of the time it works every time
+# 17:23.52 [EHnet] >>> irc2.choopa.net irc.choopa.net 7 L'Experience des Difficultés Technique
+# 17:23.52 [EHnet] >>> services.int ircd.choopa.net 6 EFNet OpenServices
+# 17:23.52 [EHnet] >>> ircd.arcti.ca ny.us.hub 5 More uptime than an nntp geek on c1@l|s
+# 17:23.52 [EHnet] >>> irc.arcti.ca ircd.arcti.ca 6 We're hibernating.  Leave a message.
+# 17:23.52 [EHnet] >>> irc.eversible.com ny.us.hub 5 Eversible.com Internet Services
+# 17:23.52 [EHnet] >>> hub.efnet.us ny.us.hub 5 america.. fuck yeah!
+# 17:23.52 [EHnet] >>> irc.servercentral.net hub.efnet.us 6 Server Central Network
+# 17:23.52 [EHnet] >>> chat.efnet.org irc.servercentral.net 7 slower traffic keep right
+# 17:23.52 [EHnet] >>> irc.serious.biz irc.servercentral.net 7 <-- so srs
+# 17:23.52 [EHnet] >>> irc.igs.ca ircd.arcti.ca 6 IGS: A proud branch of Distributel.CA
+# 17:23.52 [EHnet] >>> * End of /LINKS list.
+# }}}
+
+195.140.202.142
+194.54.164.97
+127.159.242.14
+127.0.0.1
+213.239.111.2
+194.109.129.220
+194.126.217.2
+130.233.48.242
+128.39.65.230
+69.16.172.2
+193.163.220.3
+209.249.249.126
+195.159.0.90
+193.109.122.77
+198.252.144.2
+192.116.231.44
+216.193.223.223
+141.213.238.252
+67.210.234.18
+217.17.33.10
+85.236.110.228
+196.21.31.50
+198.3.160.3
+130.243.52.250
+205.188.234.121
+160.94.151.137
+216.218.132.58
+88.80.5.41
+172.26.132.132
+208.167.236.6
+198.252.195.2
+77.67.101.101
+209.222.22.22
+209.222.22.30
+208.51.40.2
+255.255.255.255
+66.225.225.225
+67.213.223.85
+66.225.225.99
+205.210.145.3
+2001:16d8:26::
+2001:19f0:1004:5123:0:dead:beef:cafe
+2001:19f0::dead:beef:cafe
+2001:4200:fffe:0:204:23ff:feb4:1d96
+2001:470:0:6667::2
+2001:4db0:10:6::6
+2001:590::c603:a003
+2001:7b8:3:3f:201:2ff:fef6:574e
+2001:840:0:1000:1::1
+2001:888:0:2::2
+2001:888:0:2::2
+
+# }}}
+
+# vim:ts=8 sw=8 noexpandtab foldmethod=marker filetype=sh

@@ -1,0 +1,28 @@
+11,1        .MMMMMMMMMMMMMs      +MMMMMMMMMNNmmdyo.         oMMMMMMMMMMMMM.      MM8MMMMMMMMMNNdho:11      0 
+11,1        :MMMMMMMMMMMMMd      oMMMMMMMMMMMMMMMMMy`       hMMMMMMM8MMMMMM/      MMMMMMMMMMMMMMMMMm11:    0 
+11,1        +MMMMMMMMMM+:++::::/.oMMMMMMMMMMMMMMMMMMd`      mMMMMMMM8+/oy11hMs   8   MM11MMM8MMMMMMMMMMMMMM/ 11 0  
+11,1        yMMMMMMMNdh        `+odddddddddddddddddho+::::::dmmmmmmm`    sy:.    MMMMMM8MMMMMMMMMMMMMM. 0  
+11,1        dMMMMMMm.                                                       +:...MM8MMMMMMMMMMMMMMMMMMs  0 
+11,1        NMMMMMMs                                                         ....8...../sss11+8/ssssoyMMMd11  0 
+11,1       .MMMMMMMh                           0 11 0 11 0 11                           8         11     8    -MMMN11   
+11,1       :MMMMMMMy                                                         8         11yMMMo::8hNmmmMMMM` 11 
+11,1       +MMMMMMMM-                                                  .ymm8y:s  11 8    11 yMMM/ 8 yMMM11MM8MMM`  
+11,1       sMMMMMMMyyooo+-                 `                          .MM8MMd 11o  8  11    yMMM/8  yMM11MMM8MM11M`  
+11,1       dMMMMMMMooMMMMMd.              sooyNNNNNNNm:               .MMMMN o        hMMM/8  d11MMMM8MM11Mm   
+11,1       NMMMMMMM/+MMMMMMy             yNymNMMMMMMMM+  ``           /NMMMM--:::dddddNMM8My+y11MMMMM8MM11M+   
+11,1      `MMMMMMMM.:MMMMMM/            sMMMNMMMMMMMMm- `ssm        sMMMMMMM/    MMMMMMMM8M11MMMMMMM8MM11N+    
+11,1      -MMMMMMMM -MMMMm-            `oNMNMMNMMMMNy+ `o.yM-       -MMMMMMMs    MMMMMMMMMMMMMMMM8m11+      
+11,1      +MMMMMMMm `MMMm`            +MMMMMMMMMMMms::+s  dMy        sMMMMMMh    MMMMMMMMMMMMMMMMMMd/    
+11,1      sMMMMMMMh  NMN-            /MMMMMMMMMMMMMMd`:+  NMM:       7`dMMMMMN 11   MMMMMMMMMMMMMMMMMMMMo   
+11,1      hMMMMMMMy  mM/            -MMMMMm-/mMMMMMMMh   .MMMm`7       `mMMMMM`   11MMMMMMMMMo:oMMMMMMMMM-  
+11,1      mMMMMMMMo  ho            .NMMMMMm  +MMMMMMMM-  :M7MMMh`       `hMMMM: 11  7MMM11MMMMMM/  hMMMMMMMMo  
+11,1     `MMMM7MMMM+`.s11            `mMMMMMMm  /MMMMMMMM/  7+MMMMMh`11        7oMMM+   MMMMMM11MMM/  yMMMMMMMMy  
+11,1     -MM7MMMMMMMMm`    11       `dMMMMMMMm  :MMMMMMMM/7  yMMMMMMd` 11 7 11 7    .hMy   MMMMMMMMM/11  sMMMMMMMMh  
+11,1     7sMMMMMMMMMy        11    osMMMMMMMMm  :MMMMMMM7M+  NMMMMMMMMMs`  11  7     .//MMMMMMMMM/  y11MMMMMMMMh  
+11,1  7   hMMMMMMMMMMNmhyso+/:--`+hM11MMMMMMMm  :MMMM7MMMM+ `MMMMMMMMMMMN+   11 7 11 7 11 7   11:7smMMMMMM/  yMM11MMMMMMh 7 
+11,1  7 11  7mMMMMMMMMMMMMMMMMMMMMd--oMMMMMMM11Mm  :M7MMMMMMM+ :MMMMMMMMMMMMMm/            `/sdNM/ `mMMMMMMM11Mh 7 
+11,1     7MMMMMMMMMo11.7./MMMMMMMMN  oMMMMMMMMm  :MMMMMMMM+ +MMMMMMMMM-..yMMNo.              `-:hMMMMMMMMMy  
+11,1   7 -MMMMMMMMM:  .MMMMMMMMM. oMMMMMMMMm  :MMMMMMMM+ sMMMMMMMMN   oMMMMMh/`              NMMMMMMMMM+  
+7,1    oMMMMMMMMM`   NMMMMMMMMo oMMMMMMMMm  :MMMMMMMM+ NMMMMMMMMh   /MMMMMMMMM`.Nho:`     mMMMMMMMMMo  11 
+7,1    yMMMMMMMMN    mMMMMMMMMy oMMMMMMMMm  :MMMMMMMM+`MMMMMMMMMs   -MMMMMMMMM: MMMMMNdysyMMMMMMMMm/   11 
+

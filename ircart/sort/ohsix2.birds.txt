@@ -1,0 +1,8 @@
+0,4       ___,                          
+0,4      |_  |                          
+0,4  ,-. ` | |                          
+0,4  `-'   | | "This telecommunication  
+0,4  .-,   | |  company can never fail."
+0,4 / /    | |                          
+0,4 `'   ,_| |    ===============       
+0,4      |___|     Nonfailtelecom       

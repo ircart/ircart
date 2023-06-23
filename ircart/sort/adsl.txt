@@ -1,0 +1,4 @@
+0,5"This connection can never fail."
+0,5     _  __   _          24mb     
+0,5 /\ | \(_ | ' ) _|_ ============ 
+0,5/--\|_/__)|__/_  |   NonfailDSL  

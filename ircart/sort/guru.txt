@@ -1,0 +1,4 @@
+ 4,1   4,4                                                                  4,1   
+ 4,1   4,4  4,1   Software Failure.  Press left mouse button to continue.    4,4  4,1   
+ 4,1   4,4  4,1            Guru Meditation #00000004.0000AAC0                4,4  4,1   
+ 4,1   4,4                                                                  4,1   

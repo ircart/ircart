@@ -1,0 +1,57 @@
+Everybody's essential guide to IRC....
+
+Original document by hop.  Level 7 was left off the original list so I
+added it.  Not his fault, though. One can't write about things they haven't
+experienced.  --ParaGod aka jafo
+
+Remember.. IRC stands for "I Repeat Class"
+
+The Seven Levels Of Competence:
+------------------------------
+Level One:  The newbie -- The person who is new to IRC, knows nothing,
+            and readily admits it.  Typified by asking the same question
+	    every 15 minutes because they forgot the answer from the last
+	    time they asked.  Usually doesn't use an ircrc.
+
+Level Two:  The Cl00b1e -- The person who has been on IRC a few weeks and
+	    is firmly addicted.  They usually think they're hot stuff, even
+	    though they don't know nearly as much as they think they do.
+	    Typified by comments such as "I could run this net better then
+	    the current set of bozos" and "XXX is just a lame vanity oper"
+	    Usually runs a script pack that they don't understand.
+
+Level Three: Competence -- The person knows enough about IRC to be dangerous.
+	     Usually the person is offered an O-line to keep them appeased
+	     and non-destructive.  Typified by killing their friends in an
+	     attempt to impress them.  Overwhelming feelings of necessity
+	     to "get" those who they feel are their enemies.  Usually runs
+	     a modified script pack that they hacked up a bit.
+
+Level Four: Disgruntled -- The person has realized that nothing that
+	    happens on IRC has any bearing on anything in real life, and
+	    therefore, IRC is just wasted time.  If they are an IRC oper,
+	    they realize they got roped into a crappy job and they curse the
+	    day they got addicted.  May try to convince themselves their
+	    time on IRC is useful by working on IRCd trying to "fix the 
+	    blasted protocol".  Also typified by being over-obsessed with
+	    the future of IRC, relentlessly pursuing the "bad guys" who run
+            bots and flood. Usually runs a script pack written by someone
+            they trust, or use their own ircrc.
+
+Level Five:  Nirvana -- The person realizes that IRC IS A COMPLETE FORFEITURE
+	     OF EXPERIENCE AND A WASTE OF EVERYBODY'S TIME!  Realizes that the 
+	     guy from level 2 is just a sweaty fat guy from Hoboken living in 
+	     his parent's basement using a 2400 baud modem.  Realizes that 
+	     there is more to life then whatever fate befalls IRC.
+
+Level Six:   The Afterlife -- The person has realized that all time spent
+	     socializing on the computer takes away from work, home life/
+	     girlfriend, and is more or less just boring anyhow.  These
+	     people have reached the ultimate goal.  THEY HAVE A LIFE.
+
+Level Seven: The Deity -- The person has been at Level Six for quite some
+             time but only remains on IRC because they admin their own 
+             server and/or hold a seat on the routing committee.  This
+             person is often seen idling in #twilight_zone for extended
+             periods of time and only speaks when a newbie needs /killing
+             or services.int needs a new feature coded.

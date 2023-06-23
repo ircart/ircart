@@ -1,0 +1,414 @@
+﻿<Unknown__> Might be some interesting information here....
+<Unknown__> [19:04:55] <Ago> :P
+<Unknown__> [19:04:56] <Ago> it suxx, especially from valve to germany
+<Unknown__> [19:04:56] <Ago> but
+<Unknown__> [19:04:56] <Ago> they had all the hl2 content in vss
+<Unknown__> [19:04:56] <Ago> $/HL2/release/dev :P
+<Unknown__> [19:05:00] <Ago> so i coded myself my own sourcesafe client
+<Unknown__> [19:05:02] <Ago> to get it at full speed :P
+<Unknown__> [19:05:10] <Ago> i only used a simple null-session to a pc in valves net, that wasnt directly controlled by valve
+<Unknown__> [19:05:10] <Ago> www.tangis.com
+<Unknown__> [19:05:37] <Ago> Ferdinand	ValvE!!
+<Unknown__> [19:05:37] <Ago> fernando	Password1
+<Unknown__> [19:05:37] <Ago> ftpuser		ftpuser1
+<Unknown__> [19:05:37] <Ago> gaben		ElAhraira2002
+<Unknown__> [19:05:37] <Ago> gareth		Password1
+<Unknown__> .
+<Unknown__> hostmask of Ago on the 11th of october: frb9-d9bb4a51.pool.mediaWays.net
+<Unknown__> earlier this week
+<Unknown__> in a private channel....
+<Unknown__> the person having access to the beta, sources and other released stuff
+<Unknown__> Join: (|_TooL_|) (~TooL4EvEr@12-243-234-144.client.attbi.com)
+<Unknown__> [09:58:54] [+|_TooL_|]: anywya
+<Unknown__> [09:58:57] [+|_TooL_|]: heres the deal
+<Unknown__> [09:59:16] [+|_TooL_|]: hl2 beta is 3.14gb rar'd with no compression
+<Unknown__> [09:59:19] [+|_TooL_|]: we will repack it but dont have th etime atm to do that
+<Unknown__> [09:59:22] [+|_TooL_|]: would be 1.3gb i tink
+<Unknown__> [09:59:28] [+|_TooL_|]: maps alone were 700mb
+<Unknown__> [09:59:37] [+|_TooL_|]: that was 20 minutes ago or more
+<Unknown__> [09:59:50] [+|_TooL_|]: dude if u had a clue they dont do beta's
+<Unknown__> [10:00:19] [+|_TooL_|]: its fine going under noname
+<Unknown__> [10:00:25] [+|_TooL_|]: now
+<Unknown__> [10:00:34] [+|_TooL_|]: at this moment
+<Unknown__> [10:00:39] [+|_TooL_|]: no bin/cue though
+<Unknown__> [10:00:42] [+|_TooL_|]: its being done remote comp
+<Unknown__> [10:00:45] [+|_TooL_|]: > they cant figure out how to bin/cue it remotely
+<Unknown__> [10:00:48] [+|_TooL_|]: so 15mb rar's
+<Unknown__> [10:02:10] [+|_TooL_|]: yes
+<Unknown__> [10:02:26] [+|_TooL_|]: but i cant show anything til its complete and UL'd
+<Unknown__> this is before the actual beta release
+<Unknown__> to prove he has it for real he pastes some non-before released content
+<Unknown__> .
+<Unknown__> [10:25:35] [+|_TooL_|]: "decals/bloodstain_003"
+<Unknown__> [10:25:35] [+|_TooL_|]: "origin" "224 83 -394.478"
+<Unknown__> [10:25:35] [+|_TooL_|]: }
+<Unknown__> [10:25:35] [+|_TooL_|]: {
+<Unknown__> [10:25:35] [+|_TooL_|]: "classname" "infodecal"
+<Unknown__> [10:25:35] [+|_TooL_|]: "texture" "decals/bloodstain_003"
+<Unknown__> [10:21:15] [+|_TooL_|]: yo
+<Unknown__> [10:21:57] [+|_TooL_|]: & + materials/maps/perftestb/cubemapdefault.vtfPK
+<Unknown__> [10:24:21] [+|_TooL_|]: HALFLIFE2/OUT_GRVL2B PERFTEST/-0OUT_RK3 SKYBOX/SKY_QUARRY01HDRBK SKYBOX/SKY_TRAINSTATION01RT LIGHTS/FLUORESCENTCOOL002A TOOLS/TOOLSNODRAW PERFTEST/DEV_TVMONITOR1A PERFTEST/DEV_COMBINEMONITOR_1
+<Unknown__> [10:42:36] [|_TooL_|]: Total Files Listed:
+<Unknown__> [10:42:37] [|_TooL_|]: 36201 File(s) 3,373,080,768 bytes
+<Unknown__> .
+<Unknown__> [10:54:30] [+|_TooL_|]: ? http://www.warezxinc.com/hl2/
+<Unknown__> [10:54:36] [+|_TooL_|]: 'thats my site basically
+<Unknown__> [10:54:56] [+|_TooL_|]: not my, but person who is doing this
+<Unknown__> .
+<Unknown__> now it would seem that
+<Unknown__> warezxinc.com is a site ran by the owner of irc.rizon.net
+<Unknown__> where the warezx channel is on
+<Unknown__> its a XDCC channel where each of the leaks hit first
+<Unknown__> .
+<Unknown__> warezxinc.com is registered under.
+<Unknown__> Domain Name: WAREZXINC.COM
+<Unknown__> Administrative Contact: 
+<Unknown__> Downey, Jason Nessun123@hotmail.com
+<Unknown__> 1728 Hillrise Drive
+<Unknown__> Lexington, KY 40504
+<Unknown__> US
+<Unknown__> (859)225-2440 
+<Unknown__> .
+<Unknown__> who is online as Nessun
+<Unknown__> this is the same registrant at for rizon.net
+<Unknown__> as*
+<Unknown__> later on 
+<Unknown__> the first screenshots before the release leak
+<Unknown__> on
+<Unknown__> http://www.warezxinc.com/hl2/
+<Unknown__> [11:12:16] [+|_TooL_|]: its from me net
+<Unknown__> [11:12:19] [+|_TooL_|]: and my channel
+<Unknown__> [11:12:22] [+|_TooL_|]: #WarezX
+<Unknown__> [11:12:39] [+|_TooL_|]: Rizon.net
+<Unknown__> [11:12:52] [+|_TooL_|]: no warezxinc.com
+<Unknown__> [11:12:56] [+|_TooL_|]: is going around
+<Unknown__> [11:13:04] [+|_TooL_|]: my frinedns and source of beta
+<Unknown__> [11:13:10] [+|_TooL_|]: host that site
+<Unknown__> .
+<Unknown__> [11:21:36] [+|_TooL_|]: yo
+<Unknown__> [11:21:44] [+|_TooL_|]: Nessun is the owner of Rizon
+<Unknown__> [11:22:05] [+|_TooL_|]: he came to stir shit up
+<Unknown__> [11:22:25] -› Join: (Nessun) (~brpec@nessun.net)
+<Unknown__> [11:23:14] [+Nessun]: warezx will have it within 4 hrs :)
+<Unknown__> [11:24:06] [+Nessun]: we are wored bout i too though cuz we are technically the rls group
+<Unknown__> [11:24:15] [+Nessun]: we are making up a fake rls group just so we dont get bothered
+<Unknown__> [11:24:23] [+Nessun]: its not on any tops yet
+<Unknown__> [11:24:23] [+Nessun]: :/
+<Unknown__> then its nearing release time
+<Unknown__> [11:42:49] [+Nessun]: [05:48:29] [+wx-pwn3d020] ** 10 packs ** 62 of 100 slots open, Record: 381.3KB/s
+<Unknown__> [11:42:50] [+Nessun]: [05:48:29] [+wx-pwn3d020] ** Bandwidth Usage ** Current: 1609.1KB/s, Record: 6737.6KB/s
+<Unknown__> [11:42:55] [+|_TooL_|]: :)
+<Unknown__> [11:42:55] [+Nessun]: [05:48:05] [+wx-pwn3d064] ** 1 pack ** 45 of 50 slots open, Record: 1721.1KB/s
+<Unknown__> [11:42:55] [+Nessun]: [05:48:05] [+wx-pwn3d064] ** Bandwidth Usage ** Current: 140.2KB/s, Record: 3816.7KB/s
+<Unknown__> [11:43:01] [+Nessun]: [05:48:06] [+wx-wh0re038] ** 1 pack ** 23 of 50 slots open, Record: 605.5KB/s
+<Unknown__> [11:43:01] [+Nessun]: [05:48:06] [+wx-wh0re038] ** Bandwidth Usage ** Current: 1315.1KB/s, Record: 4306.7KB/s
+<Unknown__> .
+<Unknown__> [11:42:00] [+Nessun]: ive got 6 fxps open just waiting
+<Unknown__> [11:42:14] [+Nessun]: it goes straight to japan 100mbits
+<Unknown__> .
+<Unknown__> [12:07:06] [+Nessun]: [06:12:21] [@bw] soon soon
+<Unknown__> [12:07:06] [+Nessun]: [06:12:36] [@bpricksoontobedrunk] no, now
+<Unknown__> [12:07:06] [+Nessun]: [06:12:46] [@bw] tell it to the slow ass box
+<Unknown__> [12:07:10] [+Nessun]: thats the eta
+<Unknown__> .
+<Unknown__> [12:08:38] [+|_TooL_|]: Half-Life 2 - "Chosen 9" release |
+<Unknown__> [12:08:38] [+|_TooL_|]: | |
+<Unknown__> [12:08:38] [+|_TooL_|]: | Company: Valve Corporation ( http://www.valvesoftware.com ) |
+<Unknown__> [12:08:38] [+|_TooL_|]: | File size: 1.32 GB |
+<Unknown__> [12:08:38] [+|_TooL_|]: | Release: November 2003
+<Unknown__> [12:08:52] [+|_TooL_|]: There were a ton of rumors the past couple days about the |
+<Unknown__> [12:08:52] [+|_TooL_|]: | existence of a leaked, playable Half-Life 2 beta, but |
+<Unknown__> [12:08:53] [+|_TooL_|]: | thankfully those stories have been confirmed to be completely |
+<Unknown__> [12:08:53] [+|_TooL_|]: | false."
+<Unknown__> [12:09:09] [+|_TooL_|]: read this
+<Unknown__> [12:09:11] [+|_TooL_|]: |
+<Unknown__> [12:09:11] [+|_TooL_|]: | Well, I hope nobody believed this rumor. Who would actually be |
+<Unknown__> [12:09:11] [+|_TooL_|]: | good enough to get the source, but forget the game ? |
+<Unknown__> [12:09:11] [+|_TooL_|]: | |
+<Unknown__> [12:09:11] [+|_TooL_|]: | To myg0t: this is too big for you to take credit :P |
+<Unknown__> [12:09:11] [+|_TooL_|]: | |
+<Unknown__> [12:09:13] [+|_TooL_|]: | - Anonymous leaker
+<Unknown__> [12:09:41] [+|_TooL_|]: Have fun playing, but buy the game, cause this wasnt intended |
+<Unknown__> [12:09:41] [+|_TooL_|]: | to be leaked! After the source leak, there was no reason for |
+<Unknown__> [12:09:41] [+|_TooL_|]: | keeping the beta private. |
+<Unknown__> [12:09:41] [+|_TooL_|]: | |
+<Unknown__> [12:09:41] [+|_TooL_|]: | - Anonymous leaker |
+<Unknown__> [12:09:41] [+|_TooL_|]: |
+<Unknown__> [12:11:44] [+Nessun]: [06:16:37] [@bw] it shud be up in like 10-15 min
+<Unknown__> [12:11:44] [+Nessun]: [06:16:40] [@bw] mayb eless
+<Unknown__> [12:14:46] [+|_TooL_|]: Fuck Valve, Fuck Gabe, Fuck myg0t,
+<Unknown__> [12:15:08] [+Nessun]: /server rizon.net
+<Unknown__> [12:15:17] [+|_TooL_|]: #WarezX
+<Unknown__> [12:15:25] [+Nessun]: heh we dont care where there from
+<Unknown__> [12:15:28] [+Nessun]: cant do shit to me
+<Unknown__> [12:15:30] [+|_TooL_|]: channel to search XDCC's #WX
+<Unknown__> [12:16:25] [+x]: it will go on the 3 bots you pasted above TooL ?
+<Unknown__> [12:16:39] [+Nessun]: prolly 3 fresh ones
+<Unknown__> [12:16:43] [+x]: ah kewl
+<Unknown__> [12:17:22] [+Nessun]: err more like 10 but whatever
+<Unknown__> [12:22:55] [+Nessun]: its at 80%
+<Unknown__> [12:22:56] [+Nessun]: :/
+<Unknown__> [12:23:02] [+Nessun]: [06:27:13] [@bw] Results
+<Unknown__> [12:23:02] [+Nessun]: [06:27:13] [@bw] 36/36 - 100.00% - A
+<Unknown__> [12:23:02] [+Nessun]: [06:27:15] [@bw] :}
+<Unknown__> [12:23:02] [+Nessun]: [06:27:30] [@bw] 77 %
+<Unknown__> [12:23:02] [+Nessun]: [06:27:55] [@Nessun] it on its way to japan
+<Unknown__> [12:23:02] [+Nessun]: [06:27:55] [@Nessun] ?
+<Unknown__> [12:23:02] [+Nessun]: [06:28:30] [@bw] no still raring
+<Unknown__> [12:23:04] [+Nessun]: [06:28:37] [@Nessun] o thought u said done
+<Unknown__> [12:23:04] [+Nessun]: [06:28:49] [@bw] 80%
+<Unknown__> [12:23:14] [+Nessun]: [06:28:51] [@bw] :/
+<Unknown__> [12:23:14] [+Nessun]: god im impatient
+<Unknown__> [12:23:15] [+|_TooL_|]: lol
+<Unknown__> [12:23:30] [+Nessun]: he said 100% i assumed he meant done
+<Unknown__> [12:23:36] [+Nessun]: [06:29:12] [@bw] Half.Life.2.Beta-ANON
+<Unknown__> [12:23:36] [+Nessun]: [06:29:13] [@bw] good?
+<Unknown__> [12:23:36] [+Nessun]: [06:29:34] [@Nessun] yes
+<Unknown__> [12:23:44] [+|_TooL_|]: yep
+<Unknown__> [12:23:53] [+Nessun]: we considered making it WX
+<Unknown__> [12:24:00] [+Nessun]: but we think too much publicity
+<Unknown__> [12:24:05] [+Nessun]: and might get some serious shit involved
+<Unknown__> [12:24:32] [+Nessun]: last thing i need is valve calling me up at 10am bitching
+<Unknown__> [12:24:36] [+Nessun]: when i went to sleep at 9
+<Unknown__> [12:24:41] [+Nessun]: id likely kill there site
+<Unknown__> [12:26:14] [+Nessun]: its so funny seeing every channel everywhere post pics off of warezx site
+<Unknown__> [12:26:44] [+Nessun]: [06:28:33] [niek_] http://www.warezxinc.com/hl2/ <- screenshots of all models in modelviewer/milkshape
+<Unknown__> [12:31:29] [+Nessun]: dont worry we gotta wait for it to send to jp too
+<Unknown__> [12:31:30] [+Nessun]: :/
+<Unknown__> [12:31:34] [+Nessun]: 99
+<Unknown__> [12:31:42] [+|_TooL_|]: 100% in 5
+<Unknown__> [12:31:44] [+|_TooL_|]: 4
+<Unknown__> [12:31:45] [+Nessun]: itll go at 4-5megs to jp but its a gig
+<Unknown__> [12:31:45] [+|_TooL_|]: 3
+<Unknown__> [12:31:46] [+|_TooL_|]: 2
+<Unknown__> [12:31:47] [+|_TooL_|]: 1
+<Unknown__> [12:32:11] [+Nessun]: [06:37:38] [@bpricksoontobedrunk] its like christmas
+<Unknown__> [12:32:11] [+Nessun]: [06:37:44] [@bw] lol
+<Unknown__> [12:32:11] [+Nessun]: [06:38:04] [@Nessun] DONE YET
+<Unknown__> [12:32:11] [+Nessun]: [06:38:05] [@bw] Adding anon-hl2\XSI\Scripts\xsiToPreset_03.js OK
+<Unknown__> [12:32:12] [+Nessun]: [06:38:05] [@bw] Done
+<Unknown__> [12:32:12] [+Nessun]: [06:38:06] [@Nessun] come on damnit
+<Unknown__> [12:32:12] [+Nessun]: [06:38:08] [@bw] holy shit@
+<Unknown__> [12:32:22] [+|_TooL_|]: lol
+<Unknown__> [12:32:40] [+Nessun]: [06:38:13] [@GeniusJay] !!
+<Unknown__> [12:32:40] [+Nessun]: [06:38:13] • @bw pax it up
+<Unknown__> [12:32:40] [+Nessun]: [06:38:25] [@Nessun] SEND
+<Unknown__> [12:32:40] [+Nessun]: [06:38:26] [@Nessun] SEND
+<Unknown__> [12:32:40] [+Nessun]: [06:38:26] [@Nessun] SEND
+<Unknown__> [12:32:40] [+Nessun]: [06:38:26] [@Nessun] SEND
+<Unknown__> [12:32:40] [+Nessun]: [06:38:26] [@Nessun] SEND
+<Unknown__> [12:32:42] [+Nessun]: [06:38:26] [@Nessun] SEND
+<Unknown__> [12:32:42] [+Nessun]: [06:38:27] [@Nessun] SEND
+<Unknown__> [12:32:46] [+|_TooL_|]: ha
+<Unknown__> [12:33:25] [+Nessun]: i have 6 xdccs and 8 ftps waiting on this
+<Unknown__> [12:34:57] [+Nessun]: Half.Life.2.Beta-ANON
+<Unknown__> [12:34:58] [+Nessun]: BAHAHAHA
+<Unknown__> [12:35:19] [+Nessun]: its on albany
+<Unknown__> [12:35:29] [+|_TooL_|]: Transferred: anon-hl2.nfo 6 KB in 0.03 (6.56 KBps)
+<Unknown__> [12:35:47] [+|_TooL_|]: Transferred: anon-hl2.part100.rar 4.23 MB in 21.34 (203.09 KBps)
+<Unknown__> [12:37:01] [+Nessun]: Transferred: anon-hl2.part001.rar 14.31 MB in 20.33 (720.57 KBps)
+<Unknown__> [12:38:57] [+|_TooL_|]: Transferred: anon-hl2.part002.rar 14.31 MB in 51.16 (286.35 KBps)
+<Unknown__> [12:38:57] [+|_TooL_|]: PASV
+<Unknown__> [12:40:01] [+Nessun]: tool
+<Unknown__> [12:40:01] [+Nessun]: im faster
+<Unknown__> [12:40:01] [+Nessun]: Transferred: anon-hl2.part009.rar 14.31 MB in 20.61 (710.78 KBps)
+<Unknown__> [12:42:04] [+|_TooL_|]: Transferred: anon-hl2.part006.rar 14.31 MB in 01:02 (235.02 KBps)
+<Unknown__> [12:42:21] [+Nessun]: site being raped
+<Unknown__> [12:42:22] [+Nessun]: 250-bw in use: 4690.129KB/s
+<Unknown__> [12:43:44] [+Nessun]: [06:47:56] [Nessun] Transferred: anon-hl2.part001.rar 14.31 MB in 01:35 (153.82 KBps)
+<Unknown__> [12:43:44] [+Nessun]: [06:48:03] [Nessun] albany
+<Unknown__> [12:43:44] [+Nessun]: [06:48:10] [Nessun] the site is a little lagged
+<Unknown__> [12:43:44] [+Nessun]: [06:48:14] [Nessun] 250-bw in use: 4690.129KB/s
+<Unknown__> [12:43:44] [+Nessun]: [06:48:23] [ghist] ahh
+<Unknown__> [12:43:44] [+Nessun]: [06:48:37] [ghist] how big is it again ?
+<Unknown__> [12:43:44] [+Nessun]: [06:48:48] [Nessun] 1.3gig
+<Unknown__> [12:43:46] [+Nessun]: [06:48:52] [Nessun] thats full beta
+<Unknown__> [12:43:46] [+Nessun]: [06:49:00] [Nessun] and we have the pics rlsed and all
+<Unknown__> [12:43:48] [+Nessun]: [06:49:09] [ghist] sweet
+<Unknown__> [12:43:50] [+Nessun]: [06:49:22] [ghist] dont take it the wrong way if i say i love you heh
+<Unknown__> [12:43:50] [+Nessun]: [06:49:35] [Nessun] lol
+<Unknown__> .
+<Unknown__> [03:20:18] [+x]: Chosen 9 is bullshit yes
+<Unknown__> [03:20:23] [+|_TooL_|]: its a joke
+<Unknown__> [03:20:25] [+x]: the 'anonymous' leaker took that name as a joke
+<Unknown__> [03:20:29] [+|_TooL_|]: read the nfo
+<Unknown__> [03:20:34] [+|_TooL_|]: lol
+<Unknown__> [03:20:34] [+x]: yeah
+<Unknown__> [03:20:35] [+x]: =p
+<Unknown__> [03:20:38] [+|_TooL_|]: anonymous
+<Unknown__> [03:20:41] [+|_TooL_|]: i made the nfo
+<Unknown__> referring to CS:CZ a few days later
+<Unknown__> [21:00:13] [+|_TooL_|]: whers u get that
+<Unknown__> [21:00:22] [+|_TooL_|]: thats not suppose to be out'
+<Unknown__> [13:58:51] [brockz] complete package 1.6 gig hl with all mods and condition 0
+<Unknown__> [21:01:36] [+|_TooL_|]: haha
+<Unknown__> [21:01:41] [+|_TooL_|]: but does u he it
+<Unknown__> [21:01:42] [+|_TooL_|]: no
+<Unknown__> [21:02:35] [+|_TooL_|]: nope
+<Unknown__> [21:02:48] [+|_TooL_|]: i no exactly where they came from
+<Unknown__> [21:11:36] [+|_TooL_|]: i would have them
+<Unknown__> [21:12:16] [+|_TooL_|]: cant relaly say
+<Unknown__> [21:12:23] [+|_TooL_|]: old on
+<Unknown__> [21:12:29] [+|_TooL_|]: im working on a new patch
+<Unknown__> [21:12:48] [+|_TooL_|]: see what happens when u sleep
+<Unknown__> [21:19:15] [+|_TooL_|]: lol
+<Unknown__> [21:19:27] [+|_TooL_|]: damnit why is he leaking pics
+<Unknown__> [21:20:12] [+|_TooL_|]: no
+<Unknown__> [21:20:16] [+|_TooL_|]: its not us
+<Unknown__> [21:20:22] [+|_TooL_|]: but its Germany
+<Unknown__> [21:20:28] [+|_TooL_|]: so i know whats going on
+<Unknown__> (notice here that Ago is a german)
+<Unknown__> [21:27:27] [+|_TooL_|]: e the pics floating around
+<Unknown__> [21:27:27] [+|_TooL_|]: [3:26pm] <@pdi> /
+<Unknown__> (possible wrong paste here)
+<Unknown__> [21:29:06] [+|_TooL_|]: HL1/CZ
+<Unknown__> [21:29:09] [+|_TooL_|]: ^
+<Unknown__> [21:29:16] [+|_TooL_|]: is it using HL1
+<Unknown__> [21:29:09] [+|_TooL_|]: ^
+<Unknown__> [21:29:16] [+|_TooL_|]: is it using HL1
+<Unknown__> pasting HL:CZ contents before rls
+<Unknown__> [23:48:03] [+|_TooL_|]: this is weird
+<Unknown__> [23:48:13] [+|_TooL_|]: 3wave
+<Unknown__> [23:48:17] [+|_TooL_|]: Core.dll
+<Unknown__> [23:48:20] [+|_TooL_|]: [5:46pm] <@bw> -rw-rw-rw- 1 user group 90112 Sep 26 12:23
+<Unknown__> [23:48:36] [+|_TooL_|]: DemoPlayer.dll
+<Unknown__> [23:48:42] [+|_TooL_|]: FileSystem_Stdio.dll
+<Unknown__> [23:48:45] [+|_TooL_|]: FileSystem_Steam.dll
+<Unknown__> [23:48:49] [+|_TooL_|]: HLTV-Readme.txt
+<Unknown__> [23:48:54] [+|_TooL_|]: Mp3dec.asi
+<Unknown__> [23:48:59] [+|_TooL_|]: Mp3dec.asi
+<Unknown__> [23:49:04] [+|_TooL_|]: Mssv12.asi
+<Unknown__> [23:49:07] [+|_TooL_|]: Mss32.dll
+<Unknown__> [23:49:13] [+|_TooL_|]: SierraPt.dll
+<Unknown__> [23:49:14] [+|_TooL_|]: SierraUp.cfg
+<Unknown__> [23:49:18] [+|_TooL_|]: [5:46pm] <@bw> -rw-rw-rw- 1 user group 466944 Sep 26 13:47 S
+<Unknown__> [23:49:23] [+|_TooL_|]: SierraUp.exe
+<Unknown__> [23:49:25] [+|_TooL_|]: fuck me
+<Unknown__> [23:49:30] [+|_TooL_|]: SierraUp_cfg.bak
+<Unknown__> [23:49:36] [+|_TooL_|]: cstrike
+<Unknown__> [23:49:39] [+|_TooL_|]: cstrike_trs
+<Unknown__> [23:49:42] [+|_TooL_|]: czero
+<Unknown__> [23:49:46] [+|_TooL_|]: a3dapi.dll
+<Unknown__> [23:49:52] [+|_TooL_|]: TrackerNET.dll
+<Unknown__> [23:49:55] [+|_TooL_|]: Steam.dll
+<Unknown__> [23:49:59] [+|_TooL_|]: czero.exe
+<Unknown__> [23:50:03] [+|_TooL_|]: dbg.dll
+<Unknown__> [23:50:05] [+|_TooL_|]: dmc
+<Unknown__> [23:50:09] [+|_TooL_|]: dod
+<Unknown__> [23:50:15] [+|_TooL_|]: dod_v11
+<Unknown__> [23:50:19] [+|_TooL_|]: gearbox
+<Unknown__> [23:50:24] [+|_TooL_|]: gldrv
+<Unknown__> [23:50:29] [+|_TooL_|]: hl.exe
+<Unknown__> [23:50:34] [+|_TooL_|]: hlds_steamgames.vdf
+<Unknown__> so apparently the bw guy sure has to do with the packing
+<Unknown__> [00:19:43] [+|_TooL_|]: its really all from Gabe
+<Unknown__> [00:19:45] [+|_TooL_|]: note
+<Unknown__> [00:19:47] [+|_TooL_|]: ^
+<Unknown__> [00:19:48] [+|_TooL_|]: its really all from Gabe
+<Unknown__> [00:20:07] [+|_TooL_|]: well
+<Unknown__> [00:20:09] [+|_TooL_|]: his box
+<Unknown__> actual packing of the final rls
+<Unknown__> [00:36:58] [+|_TooL_|]: Creating archive anon-hl2_wmods.part015.rar
+<Unknown__> [00:37:03] [+|_TooL_|]: .. anon-hl2_wmods\cstrike_trs\czcs_italy.wad OK
+<Unknown__> [00:37:06] [+|_TooL_|]: Adding anon-hl2_wmods\cstrike_trs\czcs_miami.wad OK
+<Unknown__> [00:37:12] [+|_TooL_|]: Adding anon-hl2_wmods\cstrike_trs\czcs_militia.wad OK
+<Unknown__> [00:37:16] [+|_TooL_|]: Creating archive anon-hl2_wmods.part016.rar
+<Unknown__> [00:37:21] [+|_TooL_|]: ... anon-hl2_wmods\cstrike_trs\czcs_office.wad OK
+<Unknown__> [00:37:34] [+|_TooL_|]: > Adding anon-hl2_wmods\cstrike_trs\czde_airstrip.wad OK
+<Unknown__> Notice how he's quoting someone
+<Unknown__> possibly <bw>
+<Unknown__> [00:55:23] [+|_TooL_|]: Creating archive anon-hl2_wmods.part025.rar
+<Unknown__> [00:55:25] [+|_TooL_|]: ... anon-hl2_wmods\cstrike_trs\maps\de_prodigy.bsp OK
+<Unknown__> [00:55:31] [+|_TooL_|]: Adding anon-hl2_wmods\cstrike_trs\maps\de_stadium_detail.txt OK
+<Unknown__> .
+<Unknown__> [01:05:14] [+|_TooL_|]: _________________________________________________________________
+<Unknown__> [01:05:23] [+|_TooL_|]: | Well, this one here is Half-Life and Counter-Strike for |
+<Unknown__> [01:05:27] [+|_TooL_|]: | Half-Life 2, so there already is something to play with and try |
+<Unknown__> [01:05:31] [+|_TooL_|]: to get working in multiplayer. Hurry, I wanna play :P |
+<Unknown__> [01:05:34] [+|_TooL_|]: Anonymous leaker aka. Osama bin Leaker |
+<Unknown__> [01:05:41] [+|_TooL_|]: | Regarding Half.Life.2.Pre.Gold-ANON: |
+<Unknown__> [01:05:45] [+|_TooL_|]: This is fake, and I will never give out info about my releases |
+<Unknown__> [01:05:52] [+|_TooL_|]: in public. |
+<Unknown__> [01:05:52] [+|_TooL_|]: Regarding Half.Life.2.Beta.Patch1-ANON.tar: |
+<Unknown__> [01:05:56] [+|_TooL_|]: Ok, the last release was my mistake. I thought I didn't |
+<Unknown__> [01:06:00] [+|_TooL_|]: | integrate these patches yet, but that was proved being wrong. |
+<Unknown__> [01:06:05] [+|_TooL_|]: | Sorry for the non working patches, i didnt intend to waste all |
+<Unknown__> [01:06:09] [+|_TooL_|]: this precious bandwidth.
+<Unknown__> [01:06:22] [+|_TooL_|]: GaBeD
+<Unknown__> [01:06:22] [+|_TooL_|]: GaBeD
+<Unknown__> [01:06:24] [+|_TooL_|]: GaBeD
+<Unknown__> .
+<Unknown__> [01:58:19] [+|_TooL_|]: every one read this
+<Unknown__> [01:58:21] [+|_TooL_|]: ------------------------------
+
+<Unknown__> [01:58:31] [+|_TooL_|]: | Regarding Half.Life.2.Pre.Gold-ANON: |
+<Unknown__> [01:58:31] [+|_TooL_|]: | This is fake, and I will never give out info about my releases |
+<Unknown__> [01:58:32] [+|_TooL_|]: | in public. |
+<Unknown__> [01:58:36] [+|_TooL_|]: -------------------------
+<Unknown__> [01:58:41] [+|_TooL_|]: | Regarding Half.Life.2.Beta.Patch1-ANON.tar: |
+<Unknown__> [01:58:44] [+|_TooL_|]: | Ok, the last release was my mistake. I thought I didn't |
+<Unknown__> [01:58:49] [+|_TooL_|]: | integrate these patches yet, but that was proved being wrong. |
+<Unknown__> [01:58:52] [+|_TooL_|]: | Sorry for the non working patches, i didnt intend to waste all |
+<Unknown__> [01:58:56] [+|_TooL_|]: | this precious bandwidth.
+<Unknown__> [01:59:00] [+|_TooL_|]: -------------------------------------
+<Unknown__> [01:59:06] [+|_TooL_|]: | Well, this one here is Half-Life and Counter-Strike for |
+<Unknown__> [01:59:10] [+|_TooL_|]: | Half-Life 2, so there already is something to play with and try |
+<Unknown__> [01:59:15] [+|_TooL_|]: | to get working in multiplayer. Hurry, I wanna play :P |
+<Unknown__> [01:59:17] [+|_TooL_|]: | |
+<Unknown__> [01:59:21] [+|_TooL_|]: | - Anonymous leaker aka. Osama bin Leaker |
+<Unknown__> [01:59:32] [+|_TooL_|]: what is coming out
+<Unknown__> [01:59:50] [+|_TooL_|]: just a part from nfo
+<Unknown__> [01:59:56] [+|_TooL_|]: cause every1 should know
+<Unknown__> [02:03:44] [+|_TooL_|]: yo
+<Unknown__> [02:03:48] [+|_TooL_|]: in 5 minutes
+<Unknown__> [02:03:51] [+|_TooL_|]: Half.Life.2.Beta.HL1Ports-ANON
+<Unknown__> [02:11:48] [+|_TooL_|]: Half.Life.2.Beta.HL1Ports-ANON
+<Unknown__> [02:11:49] [+|_TooL_|]: Half.Life.2.Beta.HL1Ports-ANON
+<Unknown__> [02:11:53] [+|_TooL_|]: got that going now
+<Unknown__> [02:13:53] [+|_TooL_|]: 307mb
+<Unknown__> .
+<Unknown__> [05:48:28] [|_TooL_|]: > Condition Zero, within the hour
+<Unknown__> again a quote, possibly from <bw>
+<Unknown__> just before condition zero rls
+<Unknown__> [05:51:26] [|_TooL_|]: CZ soon
+<Unknown__> [05:51:34] [|_TooL_|]: within the hour
+<Unknown__> [07:10:12] [|_TooL_|]: my steam now runs from hl2.exe
+<Unknown__> [07:10:51] [|_TooL_|]: ] Half.Life.Including.Condition.Zero.READ.NFO-ANON
+<Unknown__> [07:14:13] [|_TooL_|]: no it runs
+<Unknown__> [07:14:23] [|_TooL_|]: ] Half.Life.Including.Condition.Zero.READ.NFO-ANON
+<Unknown__> [07:14:25] [|_TooL_|]: ^
+<Unknown__> [07:14:32] [|_TooL_|]: its 1.9GB
+<Unknown__> [07:16:08] [+|_TooL_|]: kinda
+<Unknown__> [07:16:11] [+|_TooL_|]: but
+<Unknown__> [07:16:14] [+|_TooL_|]: its 1.9GB
+<Unknown__> [07:16:23] [+|_TooL_|]: im trying to see about just CZ
+<Unknown__> [07:17:02] [+x]: Nessun was saying they weren't able to or smth
+<Unknown__> [07:17:21] [+|_TooL_|]: well
+<Unknown__> [07:17:30] [+|_TooL_|]: he's not close to it as i am
+<Unknown__> [07:21:11] [+|_TooL_|]: http://www.uploadit.org/files/091003-anon-czero.nfo
+<Unknown__> [07:21:54] [+|_TooL_|]: 1.9GB
+<Unknown__> [07:22:01] [+|_TooL_|]: i guess it included HL
+<Unknown__> [07:22:15] [+|_TooL_|]: no way to do CZ by itself
+<Unknown__> [07:22:17] [+|_TooL_|]: i guess
+<Unknown__> [07:23:06] [+|_TooL_|]: ill have it in 60seconds
+<Unknown__> [07:23:15] [+|_TooL_|]: so ill know if i should strip CZ out
+<Unknown__> [07:23:21] [+|_TooL_|]: and rar just CZ only orwhat
+<Unknown__> [09:38:08] [+Nessun]: heh well the new news is cs2 and tf2 in a couple days im hoping
+<Unknown__> [09:38:23] [+Nessun]: and tool i have screen shots and vids oif condition zero already
+<Unknown__> [10:33:06] [+Nessun]: [04:38:35] [@Nessun] http://platinum09.swaza.com/cz2.jpg
+<Unknown__> [10:33:06] [+Nessun]: [04:38:37] [@Nessun] http://platinum09.swaza.com/cz3.jpg
+<Unknown__> [10:33:09] [+Nessun]: [04:38:37] [@Nessun] http://platinum09.swaza.com/cz4.jpg
+<Unknown__> [10:33:15] [+Nessun]: [04:38:37] [@Nessun] http://platinum09.swaza.com/cz1.jpg
+<Unknown__> .
+<Unknown__> that would pretty much sum up a lot of incriminating information
+<Unknown__> it seems that
+<Unknown__> |_tool_| and Nessun coordinated releases
+<Unknown__> brought them to the public
+<Unknown__> a 3rd party guy <bw> procured the files and packed them on a remote box (possibly hacked)
+<Unknown__> with the source being in germany as |_tool_| said
+<Unknown__> which would very possibly be Ago
+<Unknown__> who posted all the internal valve info quoted on top
+<Unknown__> I will be disappearing
+<Unknown__> if you want to know more, just put a message I'll understand on the website and I might come
+<Unknown__> What these people did simply has gone too far and caused immense damage to one of the best game companies around
+<Unknown__> ttyl

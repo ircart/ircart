@@ -1,0 +1,10 @@
+init version 69.0 starting.
+Entering runlevel: 5
+Starting myspace hatred:                          [   3OK   ]
+Discovering XSS vulns:                            [   3OK   ]
+Laughing at logically-invalid input validation:   [   3OK   ]
+Matlab captcha breaking attempt:                  [ 4FAILED ]
+C captcha breaking attempt:                       [   3OK   ]
+Registering thousands of accounts:                [   3OK   ]
+Starting to comment-flood Tom:                    [   3OK   ]
+Finishing myspace ruination:                      [   3OK   ]

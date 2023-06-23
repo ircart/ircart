@@ -1,0 +1,1 @@
+Postgres is the only decent RDBM aside from MySQL, and I don't like it for web applications because all of its fancy features are things an efficient web application doesn't need anyway (ie, foreign keys, triggers, etc). If I was running a bank though, hey, Postgres all the way.

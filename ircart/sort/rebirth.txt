@@ -1,0 +1,29 @@
+0,1              7       .:/+++++/:            0                                                          
+0,1              7    .sNMMMMMMMMMMNy+/-.  0 7 0 7    0                                                       
+0,1            7    .hMMMMMMMMMMMMMMMMMMMMmhyso+/:-.-`0                                                   
+0,1          7     sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM3MMMNhso+:.0                                            
+0,1          7    yMMMMMMMMMMM13MMM7MMMMMMMMMMMMMMMMMM3MMMMMMMMMMMdo-  0    3  0                                
+0,1           7  hMMMMMMMMMMMMMM13MMM7MMMMMMMMMMMMMMMM3MMMMMMMMMMMMMMMMMMNho-6  0                              
+0,1       7 0 7    dMMMMMMMMMMMMMMM13MM7MMMMMMMMMMMMMMM3MMMMMMMMMMMMMMMMMMMMMM6MNs-0                             
+0,1       7      sMMMMMMMMMMMMMMMM13M7MMMMMMMMMMmsN3MMMMMMMMMMMMMMMMMMMMMMM6MMMMMmo.0                          
+0,1           7  .MMMMM11MMMM7MMMMMMM13M7MMMMMMMMMy0  7y3MMMMMMMMMMMMMMMMMMMMM6MMMMMMMMMMh: 0  6 0                    
+0,1             7  -dMM11MMM7MMMMMMM13MM7MMMMMMMMM/3:yMMMMMMMMMMMMMMMMMMMMM6MMMMMMMMMMMMMMM+ 0                    
+0,1             7    :hMMMMMMMMM13MMM7MMMMMNyhy3NMMMMMdhMMMMMMMMMMMMMMMM6MMMMMMMMMMMMMMM:0                     
+0,1                   7`/osyhysy13ys7odM3MMddNMMmyo/--yMMMMNsyNMMMMMMMM6MMMMMMMMMMMMMMM+0                      
+0,1                           7`.+MM3MMNyo/.`  `7+y3NMMMN+/sho+ohmM6MMMMMMMMMMMMMMMMMs 0                      
+0,1                           7+sdMMMN- 0.7++yNNMMM3NMMd`0  3  .+ys6o+sdMMh+/mMMMMMMMm/ 0                       
+0,1                          7`:ssoom`0 7 0 7 .dMMMd0::7Mm.0     3    .6:///.  oMMMMMMy:0                          
+0,1                             7``:.    oyNNmM/-Nd`0             6 0   6:MMMMMM/`7``..-/oo. 0                 
+0,1                               7 0   7 `/y+s`h`hMo0                 `7mMMMMMMMMMMMMMMMMd0                  
+0,1                                 4-++++/.0 7`  .4dNo++++: 0           7yNMMMMMMMNdhs/MMMm0                  
+0,1                               4  +MMMMd0  4  0  4 sMMNNNh 0     4 0    `7yhdmMNMM4MMMMm0`7MMMs 0                 
+0,1         4 :oooo:.oo  `/syyys+.   +MMMMd:oyys:`sMNooo/ -oooo/.os`/MMMMM+/hMMMMN7oMMMy- 0                
+0,1        4  sMMMMmMMd +MMMMNMMMMy` +MMMMMNMMMMMMMMMMMMd oMMMMmMMm-MMMMMMMs/MMMMMMMMMMM+0                
+0,1       4   sMMMMMMMd.MMMMM`sMMMMo +MMMMm hMMMMNohMMMMd0 4oMMMMMMMm .MMMMM-`/MMMMMMMMMMMh 0               
+0,1       4   sMMMMMy+::MMMMM+hMMMMh +MMMMd yMMMMd sMMMMd oMMMMMy+/ `MMMMM. /MMMMMssMMMMh 0               
+0,1        4  sMMMMd   :MMMMMNNNNNNh +MMMMd yMMMMMmmMMMMd oMMMMm    `MMMMM. /MMMMm sMMMMh     0           
+0,1        4  sMMMMh   :MMMMM .oooo/ +MMMMd yMMMMMNNMMMMM.oMMMMd    `MMMMM. /MMMMm sMMMMh    0            
+0,1         4 sMMMMh   -MMMMM :MMMMh +MMMMd yMMMMy sMMMMMhhMMMMh    `MMMMM. /MMMMm sMMMMh     0           
+0,1        4  sMMMMh   `mMMMM+yMMMM+ +MMMMN/mMMMMs sMMMMmdMMMMMh    `MMMMMo:/MMMMm sMMMMh       0         
+0,1        4  sMMMMh    `sNMMMMMMd/  +MMMMddMMMMd. sMMMMd:MMMMMh 0 4   oNMMMMd/MMMMm sMMMMh  0    4 0         
+0,1         4 ``````       `---.`     ````  `--`   `````` ..````       ````` ````` ``````       0         

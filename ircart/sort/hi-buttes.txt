@@ -1,0 +1,6 @@
+0 0,0x x x44,12x HI BUTTES xxxxx
+0 0,0x 4,4.xx44,12xx4,4x HI BUTTES xxxxx.
+0 0,0x 4,4xx0,0.44,12xx0,0x12 HI BUTTES 0,0x44,12xx0,0.4,4xx
+0 0,0x 4,4.xx4,4xx4,4x HI BUTTES x44,12xx4,4xx.
+0 0,0x x x44,12x HI BUTTES xxxxx
+

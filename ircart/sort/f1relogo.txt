@@ -1,0 +1,35 @@
+8,1                                          :       -                                                 
+8,1                                          oo     .d                              .                  
+8,1                                          +N-    sN`                             o                  
+8,1                                          oNy    mN+                            `h  :.              
+8,1          -/    `                         hNd    mNd                            /d `m`              
+8,1          oy    o`                       `NNd    hNN/                           hm oN.              
+8,1         .Nh    y/                       oNNy    /NNN.                         +Nd dN+              
+8,1         yNy    yh                      .NMM/     dMNh                        /NNy yNm`             
+8,1        -NN+    oN.                     yNNN.     /NNN/                     `sNNN: -NNd`            
+8,1        hNN`    .Nh      :`            `NMMN`      dNNm`            +:     .dNNNo   /NNm.           
+8,1       +NNy      yNs    .N:         .  `NNNm       oMMNs            `mo   .mNMNh     :NNN/    :     
+8,1      `NNN-      -NN:   oN+         o-  hMNNs`    `hMMNN`  `:        sN:  /MMMNs      oMNN-  -m     
+8,1      +MNm       `NMm.  yNh         /m. .mNNNNhysymNMMNN-  h:        yNh  :NMNNd`    `yNNN:  hN`    
+8,1      sMNm        NMNy  sNN`        .Mh  .dNNMNMNNNNMMMm` +N:       `mNd   oNMNNNhssyNNNNh  `NM/    
+8,1`.    +NMNs`     :NMNs  -NNs        -MN:  `yNNNNNMMNMMMo  dN+       oNNh    oNNNNNMMNNNNs`  `NNh    
+8,1h.   `dNMNNy+/+yNNNh`   hNN/       oNNo    sNNNNMNNNNh  `NNy      -NNNo     oNNNNNMNNm:     mMN:   
+8,1sm.   .dMMMMMNNNNNo     -NNN:      dNNo     sNNNNMNNN-   mNN:     dNMM:      hMNNNNNd.      yNNm`  
+8,1+Mh    .mNMNNNNNNo       oNNN:    :NNM:      sNNNMNNo    sNNm.   -NMMM.      /MNNNNm`       :NNNy  
+8,1/MN-    .dNMMNMMN-       `NNNN:   hNNm`       sNNMNy     .mNNm.  .NNNM:      :MNMNN/         dMMN+ 
+8,1oNNo     `yNNNNMN/        :////   //od         ////`      :d+/-   -///:``   :mNNNNM/         /NNNN-
+8,1`dNNo       yNMMNNd        4,1shhhhhhhh: +` -yhh+ .hhhhhhhhyo- ` shhhhhhhh-8,1 NmmNNMNNNNNy         `NNNNh
+8,1+MMMo        dNNMNNs       4,1dMMMMMMMM+.:odMMMMy -MMMMMMMMMMM+  dMMMMMMMM:8,1 NNNNMNMMNMNNo`       :NNNNm
+8,1mMMN+        /NNNNNNy.     4,1dMMMMd++++MMMMMMMMy -MMMMM//MMMMN  dMMMMd+++`8,1 :yNNMNNNNNNNNms+:::+hNNMNNy
+8,1NNNNs        +MNMMNNNNho/` 4,1dMMMMh   `--:mMMMMy -MMMMM:.MMMMM  dMMMMy    8,1   `omNNNMMNNNNMMMMNNMMMNNo 
+8,1mNNNm`      .mNNMNymNMMNN` 4,1dMMMMmyyy    hMMMMy -MMMMMhdMMMMy  dMMMMmyyy 8,1     `oNNMMNNMNNNNNNNNNNd:  
+8,1-NNNNy.    /mNNMNs/NNMMm:  4,1dMMMMMMMM`   yMMMMy -MMMMMMMMMNs`  dMMMMMMMM`8,1       -NNMNNNNNNNNNMNN+    
+8,1 -mNNNNdyhmNNNNNNs -///`   4,1dMMMMd///    yMMMMy -MMMMM/:MMMMm  dMMMMd///  8,1       oNNNNMNNNNNNNm-     
+8,1   +mNNMNNNNNNNNNs         4,1dMMMMh       yMMMMy -MMMMM:`MMMMM  dMMMMy     8,1       /NMNNNNNNNMNm.      
+8,1    `+mNMNNMNNNNNN/`       4,1dMMMMh       yMMMMy -MMMMM:`MMMMM  dMMMMd///- 8,1      sNNMNNNMNNMMN:       
+8,1       :dMNNNNNNMNNNy/-    4,1dMMMMh       yMMMMy -MMMMM:`MMMMM  dMMMMMMMMy 8,1 ./oymMNNNNNNNNNMNm        
+8,1         yNNNNMNNNNMNNNNo  4,1shhhho       ohhhh+ .hhhhh-`hhhhh  shhhhhhhh+ 8,1+NMNMNMNNNNNNMNNNNm        
+8,1          oMNNNNNMMNNMNNNd4,1///////+:  /d+////////////////////////////////8,1+mNNNNNNNMNNNNNNMNNN:       
+8,1          .NMMNNNNNMNNNMNNNNMNNMMNNNNNNNNNNNNMNMNNNNNNNNMNMNNNNMNNNNNMMNNNNNNNNNNMMNMMNNNNNNm-      
+8,1          /MMNNNMNNNNNMNNNNMNNNNMMNNNNNMNMMNNNNNNNNNMNNMNNMNNNNNMMNNNNNNNNMNNMNMMMMNNMNNNNMMNN/     
+8,1         +NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNs`   

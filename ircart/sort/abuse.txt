@@ -1,0 +1,32 @@
+For the last year I have been dealing with denial of service attacks from
+ users using servers hosted with your company. I recently discovered that
+ they are scanning for cisco routers with default login/passwords and then
+ using those to launch massively parallel ICMP attacks against hosts. I have
+ a list of thousands of hosts that these servers have accessed illegally and
+ used to commit denial of service attacks.
+
+ Here are the currently logged in users into the hacked cisco router being
+ used in denial of service attacks. Note that both of these hosts are owned
+ by the same person or his associates through your hosting company.
+
+ >sh users
+     Line       User       Host(s)              Idle       Location
+    6 vty 0                idle                 00:02:58 92.51.164.205
+    7 vty 1                idle                 00:02:49 87.230.95.90
+
+ Please take some time to investigate these claims as this has been ongoing
+ for quite some time. If these hosts continue to commit illegal acts upon my
+ network and others I will contact the administrators of all the others
+ affected hosts to bring legal litigation upon your company for failing to
+ remove the illegal activity.
+
+ Here is a list of hosts that were illegally accessed by said computers:
+ 66.0.17.66
+ 200.0.30.28
+ 69.0.59.138
+ 72.0.103.94
+ 72.0.105.41
+ 66.0.113.97
+ 200.0.255.4
+ 69.1.98.1
+ 69.1.107.1

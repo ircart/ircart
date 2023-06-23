@@ -1,0 +1,69 @@
+				Analysis of the three dominant types of individual using IRC
+
+Type A: The projector
+
+	The projector is a very common type of IRC user, he can be found predominantly on the well
+	established and older IRC networks (e.g. EFnet (including all the co-dependant sub-networks of circle-jerk
+	eltisim (e.g. ircII)). It is fairly easy to actually identify an IRC user (thereafter to be referred to as
+	ircer, luser, user, et al.), as they project the rules and parameters of their everyday real-life onto IRC
+	and aspire to create a haven of well-mannered communicative `staying in touch with your friends'. To put this
+	brief and simple: the users whom I refer to as `projectors' will appear to be slightly more emotional than your
+	average ircer and will just talk and act like they would in their real lives (with the exception of those individuals
+	amongst the projectors who actually do not have such a thing as a real life).
+
+	Fictional example of two projectors interacting:
+
+	<LillyOnTheNet> god I hate this boy so much; sometimes I really wish he would die from AIDS
+	<Peter23> please do not speak like that. I had a friend who died from AIDS and it makes me sad to see people
+		  abusing the stigmatism and the usual guaranteed mortality associated with this sickness so carelessly
+	<LillyOnTheNet> oh I am sorry petey ;) I didn't know that. I won't do it again.
+
+	Type A.II: The projector attention-whore
+
+		Since this type of IRCer does not provide enough difference to the projector as it is, it is not substantial enough
+		to be eligible to receive their own classification. If my research however shall bring forward a greater distinctiveness
+		as assumed, this may or may not change.
+
+		The P. attention whore is usually female and does not fit into any kind of `norm physical appearance' (meaning:
+		they may or may not be hot - however will always act as if they are the most delicious eye-candy to have ever set
+		foot on this planet). She does show the same kind of attitude in reallife however has lost a considerably large
+		amount of friends as an immediate cause of that. Hence she is trying to get her needs for attention catered to 
+		from a proverbial legion of mindless losers that would do anything for her, struggling for her recognition
+		with a latent hope of `tapping that'.
+
+		Fictional example of an attention-whore and her minions interacting:
+
+		<candice> omg like im so sad
+		<gr1d> why are you sad sexy sweet little applepie? tell me!
+		<candice> omg like fuck off like i dont even care about you
+		<gr1d> *rawr* being a kitty with claws today? <3
+
+	Type A.III: The projector pseudo-authorative jerk
+
+		Same as above. This is just a sub-type of the projector.
+		
+		The pseudo-authorative jerk will always act like he thinks of himself as the boss. Usually he will only
+		talk to other pseudo-authorative jerks.
+
+		Fictional example of two pseudo-authorative `old school IRCers' (i.e. projecters) and some autists (see below).
+
+		<m0par> hey everyone ;)
+		<rap0m> hey m0pey ;) how was your meeting today?
+		<alfonzo-chan> PooooooOooOOoOoOOooooOooOOoOoOOooooOooOOoOoOOooooOooOOoOoOOooooOooOOoOoOOooooOooOOoOoOOooooOooOOoOoOOooooOooOOoOoOOo
+		<infid3l> *emo**cut**emo**cut**emo**cut**emo**cut**emo**cut**emo**cut**emo**cut*
+		<m0par> huh? the kids up late today? ;)
+		<rap0m> seems so ;)
+		m0par sets mode: +m to #LateNightTalkOnIRC
+		<m0par> there seems to be solved ;) 
+		<rap0m> so anyway, what were we talking about?
+
+		
+
+
+	Common fashion of communication utilized: blatant, boring blogging
+
+Type B: The autist
+
+	The autist is a crass opposite of the projector. He will not engage in social activity whatsoever (this might bel
+	caused by a complete absence of social skills / experiencing in interacting with other human beings of any kind).
+	Usually, 

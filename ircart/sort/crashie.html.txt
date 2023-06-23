@@ -1,0 +1,3 @@
+<script type="text/javascript">function galgenfrist() {window.setTimeout('crashIE();',1000);}function crashIE() {var moveNode = document.getElementById("move");if(moveNode) {moveNode.style.top = "100px";moveNode.style.left = "200px";}}</script>
+</head><body onload="galgenfrist();"><h1>CRASH-IE</h1><div id="move"
+class="crash"><table><tbody><tr><td><textarea></textarea></td></tr></tbody></table></div></body></html>

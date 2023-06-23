@@ -1,0 +1,18 @@
+ _,_.                      .i             (
+ #8#8#8                   ,|              |     Y   Y    OOO    U    U
+ '  ,__\                 ,|               |      Y Y    O   O   U    U
+  <o  * |               |                 |       Y    O     O  U    U
+   `"--'|               |(*)              (       Y     O   O   U    U
+ (       \              '|                |       Y      OOO     UUUU
+       .__\              '|               \
+       _\    ,   ,_,_nnnn.,\               i,
+      /    o%%%-{  | |   |                  |   FFFFF    AAA     GGGGG
+      \__,  ''   \_/-|   |,#8#              |   F       A   A   G
+    __,_/            \   | (#8             /    FFFF    AAAAA   G   GG
+   ,''                |  |  |             /     F       A   A   G    G
+  /__                 |  |  |            |      F       A   A    GGGG
+  |  -----_____       |  |  |           i
+               ''---,/   |  |           |
+      _______            /  'i          |
+      /      '''''-----'     |          i
+

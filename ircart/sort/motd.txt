@@ -1,0 +1,33 @@
+NetBSD 5.1 (AMAL) #0: Wed Dec 1 20:44:47 CET 2010
+                                                     [1;30m~/V3@@CX:^[0m
+                                             [1;30m(@BBBBBBBBBBBg3/<<<<(VX`[0m
+              [1;30m0^@<                    ^C0BBBBBBBBBBB@^[0m
+              [1;30m`@^gBBBB0gG@333@Gg0BBBBBBBBBBBBBBBX  ^/3G888G3/`[0m
+               [1;30m^@.gBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBgV(<~</@X[0m
+  This here box [1;30mX@`8BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB<[0m  [1;33;37mDo note[0m that connections to
+  may be reached [1;30m3@ @BBBBBBBBBBBBBBBBBBBBBBBBBBB`[0m  the [4msshd[0m [1;33;37m(8)[0m may solely originate
+  via [4mpublic-key[0m  [1;30m0@ CBBBBBBBBBBBBBBBBBBBBB0`[0m  from known IPv4 addresses {and,or} ranges.
+ authentication to [1;30m$@ 3BBBBBBBBBBBBBBBB0<[0m   Contact me on {EFnet,SandNET} or via e-Mail
+  the [4msshd[0m [1;33;37m(8)[0m on   [1;30m@@ /BBBBBBBBBB0X[0m   at [1;33;37m<[0;4ml.illanes@gmx.de[0;1;33;37m>[0m in case of any changes.
+    [4mvxp.ath.cx[0m.      [1;30m@@[0m
+                      [1;30m@@[0m
+                      [1;30m`@@[0m
+  [1;33;37m@BBBC      3BB^      [1;30m<BB[1;33;37m       :@@@@~<@@@$    @@88@:@@ ^@@@@@@@@@@@0[0m  Use of the [1;33;37mVPN[0m for
+  [1;33;37m`BBBBB      BX         [1;30m@@[1;33;37m       G@@B   3@@@  @@@     @` <@@@      8@@@[0m  for [1;33;37moutgoing IPv4[0m
+  [1;33;37m`B /BBBV    B<          gB      G@@B   @@@$  @@@@`      <@@@       @@@@[0m  connections is
+  [1;33;37m`B   BBBB   B< ^BBVGBBXBBBBBB3  G@@@@@@@/     @@@@@@V   <@@@       <@@@<[0m preferred;  [4mbind[0m
+  [1;33;37m`B    /BBB8 B<@BB  /BB@ BBB     G@@B   @@@@`    /@@@@@` <@@@       <@@@^[0m against [4m10.[12].0.6[0m
+  [1;33;37m`B      0BBBB<BBB/      BBB     G@@B    B@@@`      @@@@ <@@@       @@@$[0m  to make use of it.
+  [1;33;37m^B^      :BBB<0BBX    < BBB     G@@$    @@@g8$     (@@@ :@@@      8@@g[0m  (e.g. -[1;33;37mhost[0m [4m10.[12].0.6[0m
+ [1;33;37m:0BB(`      0B< 8BBBBB0  BBBB0g`/@@@@BV@@@@~ ^@@0~`3@@< (@@@@@C/3@@@/[0m     for [1;33;37mIrssi[0m.)
+        [1;33;37mâLIKE OPENBSD, EXCEPT NOT A BIG PILE OF FUCKING TRASHâ[0m
+                                [1;30mX@@g[0m
+     Utilize the [4mvhosts[0m command  [1;30m0@@0[0m
+      to print the `vhosts' and   [1;30mO@@B[0m
+     corresponding host addresses  [1;30m$@@@[0m
+      configured on this here box.  [1;30m@@@@[0m
+ IPv6 connectivity is available via: [1;30m@@@@[0m   [4m2001:470:9299::/48[0m      [1;33;37mAS6939/Hurricane Electric[0m
+                                      [1;30m@@@C[0m  [4m2001:470:1f09:bca::/64[0m  [1;33;37mAS6939/Hurricane Electric[0m 
+                                      [1;30m~@@@X[0m [4m2001:328:2002:ef12::/64[0m [1;33;37mAS2042/Jaring[0m
+                                       [1;30m`G/[0m
+

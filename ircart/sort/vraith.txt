@@ -1,0 +1,20 @@
+
+	vraith
+		n :	[Arab. Khayyal; probably originally, a guardian Arab, from
+			 Iscdelandic “vræth”]
+			1. A mental representation of some haunting experience;
+			2. a decaying vxp, hzu;
+			3. a slightly lesser worthless Tcl script and eggdrop replacement;
+			4. an anti-bryan contraceptive;
+
+			ex: “bryan looked like he had seen a ghost; awoken, aroused
+			     spectators of his malignant deceit turned dead aisles
+			     of surrender towards whence the reconte of time lived
+			     expressed torment and vanity; and thus, his were unmade;
+			     and afore there was produced a goblet of bryan so bereft;
+			     and from that there spring there sprang a river;  and
+			     thus termed it was vraith.”
+
+			[syn: vhost, vombie, vade, vook, vecter, vectre]
+
+vim:ts=8 sw=8 noexpandtab encoding=utf-8

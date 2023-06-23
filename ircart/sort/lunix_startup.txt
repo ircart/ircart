@@ -1,0 +1,24 @@
+init version 69.0 starting.
+Entering runlevel: 5
+Starting abuse:                   [   3OK   ]
+      abuse for Fedora Whore Lunix 0.11 found 19 IRC Operators online
+Starting jew hatred:              [   3OK   ]
+Starting brawl-hall hatred:       [   3OK   ]
+Getting owned by brawl-hall:      [ 4FAILED ]
+Starting windows love:            [   3OK   ]
+Starting bsd hatred:              [   3OK   ]
+Starting lunix hatred:            [   3OK   ]
+Trying to make money with GNU:    [ 4FAILED ]
+Jews did WTC:                     [   3OK   ]
+Trolling Wikipedia:               [   3OK   ]
+Ruining jasabella:                [   3OK   ]
+Flooding MT blogs:                [   3OK   ]
+Joining #BUTTES:                  [   3OK   ]
+Joining #GNAA:                    [ 4FAILED ]
+    warning: Too much fucking anime. retrying
+Getting first post:               [ 4FAILED ]
+    warning: fristage postage is not yours. retrying.
+Getting first post (try 2):       [ 4FAILED ]
+Getting first post (try 3):       [   3OK   ]
+Banning Yoyo:                     [   3OK   ]
+Test on GNFOS:                    [ 8PASSED ]

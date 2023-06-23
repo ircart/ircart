@@ -1,0 +1,29 @@
+13      db          9`7MMF'    13`7MM"""Yb.        9.M"""bgd 
+13     ;MM:           9MM        13MM    `Yb.     9,MI    "Y 
+13    ,V^MM.          9MM        13MM     `Mb     9`MMb.     
+13   ,M  `MM          9MM        13MM      MM       9`YMMNq. 
+13   AbmmmqMA         9MM        13MM     ,MP     9.     `MM 
+13  A'     VML        9MM        13MM    ,dP'     9Mb     dM 
+13.AMA.   .AMMA.    9.JMML.    13.JMMmmmdP'       9P"Ybmmd"
+                       
+    9`7MMF'                                 13`7MM"""Yb.   
+      9MM                                     13MM    `Yb. 
+      9MM                                     13MM     `Mb 
+      9MM                                     13MM      MM 
+      9MM                                     13MM     ,MP 
+      9MM                                     13MM    ,dP' 
+    9.JMML.                                 13.JMMmmmdP' 
+13 `7MM"""Yb.                                   9`7MMF'
+13   MM    `Yb.                                   9MM  
+13   MM     `Mb                                   9MM  
+13   MM      MM                                   9MM  
+13   MM     ,MP                                   9MM  
+13   MM    ,dP'                                   9MM  
+13 .JMMmmmdP'                                   9.JMML.
+   9.M"""bgd     13`7MM"""Yb.       9`7MMF'          13db      
+  9,MI    "Y       13MM    `Yb.       9MM           13;MM:     
+  9`MMb.           13MM     `Mb       9MM          13,V^MM.    
+    9`YMMNq.       13MM      MM       9MM         13,M  `MM    
+  9.     `MM       13MM     ,MP       9MM         13AbmmmqMA   
+  9Mb     dM       13MM    ,dP'       9MM        13A'     VML  
+  9P"Ybmmd"      13.JMMmmmdP'       9.JMML.    13.AMA.   .AMMA.

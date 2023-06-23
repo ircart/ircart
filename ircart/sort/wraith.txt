@@ -1,0 +1,24 @@
+I will compile leaf bots on bshellz.
+I will e-Mail my PackConfig to <Bratty@observers.net>.
+I will download a copy of arab's private version of Wraith from http://www.anti-aol.net/.
+by 2/wtestZODg
+I will compile bots on servers where they will be hosted.
+I will run hubs on public boxes.
+I will use vhosts in my PackConfig.
+I will add excessive owners in my PackConfig (more than 2 is probably a good idea, they all have access to my shells via .exec)
+I will egg lh on to hack my botnet.
+I will put leaf bots on shells which are insecure or hacked.
+I will use the same SSH password on all my shells.
+I will packet bryan.
+I will not compile binaries on secure boxes, because Wraith lacks security.
+I will not run hubs on secure and trusted boxes, because Wraith is insecure.
+I will not use SSH keys to connect to your shells, because Wraith is not secure.
+I will give out my PackConfig, salts, password, shell account logins, binaries, anti-bryan dDoS tools, IPv6 sniffers, ant hill odours, interpretative dDoS dances, anHOLY KIKE I DON'T CARE
+For maximum security, I will refrain from using Wraith.
+I will enable the msg- cmds, refuse to use the AuthSystem, and have my insecure Wraith bot XDCC Bratty.
+To get the source, search for sanity in bryan's life.
+I will not secure my hub port via firewall to only allow trusted owners and leaf bots to connect because Wraith is a self-defeating amalgation of insecurity.
+I will not watch my shells for intruders, and keep an eye on untrusted shell admins because lh is doing that for me already.
+I will never download the official version from wraith.botpack.net or www.shatow.net because arab's version is actually secure.
+I will not change my password after connecting to the hub for the first time because lh knows all of my passwords anyway.
+I will not pay attention to your botnet because Wraith is insecure and lh is doing a better job at it.

@@ -1,0 +1,34 @@
+    ~ knubbze's Grundregeln beim phpbint schreiben ~
+Maxim 1: The more confusing the error message, the better.
+Maxim 2: If it doesn’t run under Windows, then it’s Windows’ fault.
+Maxim 3: Detect Windows, and crash.
+Maxim 4: Manuals are a waste of time.
+Maxim 5: Words in boldface don’t count.
+Maxim 6: Just because you’re a Windows application doesn’t mean
+Maxim 7: Performance degradation is acceptable in the greater interest
+Maxim 8: If you’re going to do something wrong, do it wrong
+Maxim 9: Find a rule and break it as blatantly as possible.
+Maxim 10: The weirder your code, the harder it will be for the operating system to detect that you are about to do something stupid and rescue you.
+Maxim 11: Always look for the weirdest, most convoluted way of doing something. That way, you stand a good chance of doing it wrong.
+Maxim 12: It is better to be lucky than good.
+Maxim 13: Multitasking is for wimps.
+Maxim 14: Persistence may not help, but it’s fun.
+Maxim 15: Thrashing is good. It reminds the user that the computer is on.
+Maxim 16: Random addresses are harmless.
+Maxim 17: If you’re going to fail, do so as subtly as possible.
+Maxim 18: Do something that is supported only under Windows, and do it wrong.
+Maxim 19: Second-guess the specification whenever possible.
+Maxim 20: Knowledge of the English language is optional.
+Maxim 21: Well-behaved programs are for wimps.
+Maxim 22: Bite the hand that feeds you.
+Maxim 23: Words in italics don’t count.
+Maxim 24: If you can’t be subtle, then be blatant.
+Maxim 25: Intel will never release a new CPU.
+Maxim 26: Slower is better.
+Maxim 27: If you can’t convince the operating system to screw you up, take matters into your own hands.
+Maxim 28: Microsoft will never release a new version of the operating system.
+Maxim 29: The high words of 32-bit registers are always zero.
+Maxim 30: Even business applications can benefit from a boot disk.
+Maxim 31: Error checking is for wimps.
+Maxim 32: Don’t bother testing the error paths. The game is already over.
+Maxim 33: When faced with the unusual, self-destruct.

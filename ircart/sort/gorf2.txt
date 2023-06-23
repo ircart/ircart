@@ -1,0 +1,39 @@
+06,06giraffe giraffe giraff05,05e giraffe giraffe giraffe giraffe giraffe giraffe giraffe giraffe gir
+06,06giraf13(06,06e giraffe giraffe gir05,05affe giraffe giraffe giraffe giraffe giraffe giraffe giraffe gir
+06,06giraf13(06,06e11,11 gi06,06raffe giraff13)06,06 gira05,05ffe giraffe giraffe giraffe giraffe giraffe giraffe giraffe gir
+11,11gi06,06raffe11,11 gi06,06raffe giraff13)06,06 gira05,05ffe giraffe giraffe giraffe giraffe giraffe giraffe giraffe gir
+11,11gir06,06a05,05ff11,11e gir06,06affe gir11,11af06,06fe gi05,05raffe 02,02gir05,05af02,02fe 05,05giraffe giraffe giraffe giraffe giraffe giraffe gir
+06,06g11,11ira05,05ffe11,11 gir05,05af06,06fe g11,11ira06,06ffe05,05 gir02,02affe 05,05g02,02ir11,11af02,02fe11,11 02,02giraffe05,05 giraffe giraffe giraffe giraffe giraffe gir
+05,05gi11,11raf05,05fe11,11 gir05,05affe11,11 gir05,05affe gira03,03ff02,02e giraffe g03,03iraf02,02fe 05,05giraffe giraffe giraffe giraffe giraffe gir
+05,05gi11,11r00\11,11ffe gir05,05aff11,11e gi05,05raffe giraf02,02fe giraffe giraff05,05e giraffe giraffe giraffe giraffe giraffe gir
+05,05gi11,11ra00\11,11f00\11,11 gi05,05raf11,11fe00/11,11g05,05iraffe gira02,02ffe 01,00`02,02ira01,00`02,02fe gir11,11af05,05fe giraffe giraffe giraffe giraffe giraffe gir
+05,05gi11,11raf00\11,11e00\11,11gir05,05a11,11ff00/11,11 05,05giraffe gir02,02affe giraffe gir05,05affe giraffe giraffe giraffe giraffe giraffe gir
+05,05gir11,11aff00||11,11giraf00/11,11e 05,05giraffe gir02,02affe giraffe gir11,11af05,05fe giraffe giraffe giraffe giraffe giraffe gir
+05,05gira11,11ff00|11,11 00|11,11iraf00|11,11e 05,05giraffe gir02,02affe giraffe gir05,05affe giraffe giraffe giraffe giraffe giraffe gir
+05,05gira11,11ff00|11,11 g00|11,11raf00|11,11e 05,05giraffe gira02,02ffe 00__/02,02affe g11[]11,11af05,05fe giraffe giraffe giraffe giraffe giraffe gir
+05,05gira11,11ff00|11,11 gira00/11,11fe 05,05giraffe giraffe gira02,02ffe gir05,05affe giraffe giraffe giraffe giraffe giraffe gir
+05,05giraf11,11f00|11,11 g00|11,11ra00|11,11fe05,05 giraffe giraffe gira02,02ffe 11[]02,02r11,11af05,05fe giraffe giraffe giraffe giraffe giraffe gir
+05,05giraf11,11fe g00|11,11ra00|11,11fe05,05 giraffe giraffe gira02,02ffe gir05,05affe giraffe giraffe giraffe giraffe giraffe gir
+05,05giraf11,11f00|11,11 g00|11,11ra00/11,11f05,05e giraffe giraffe gira02,02ffe g11[]02,02a11,11ff05,05e giraffe giraffe giraffe giraffe giraffe gir
+05,05giraf11,11fe gir00|11,11ff05,05e giraffe giraffe gira02,02ffe giraff11,11e 05,05gi11,11ra05,05f11,11fe05,05 11,11gi05,05raffe giraffe giraffe giraffe gir
+05,05giraf11,11fe00|11,11giraff05,05e giraffe giraffe gira02,02ffe gi11[]02,02ffe gi11[]02,02ffe gir11,11af05,05fe giraffe giraffe giraffe gir
+05,05giraf11,11fe00|11,11giraf05,05fe giraffe giraffe gira02,02ffe giraff11[]02,02giraffe 11[]02,02raf11[]05,05 giraffe giraffe giraffe gir
+05,05giraf11,11fe00|11,11gi00|11,11af05,05fe giraffe giraffe gira02,02ffe giraffe gira11[]02,02e giraffe g05,05iraffe giraffe giraffe gir
+05,05giraf11,11fe00|11,11gir00|11,11ff05,05e giraffe giraffe gira02,02ffe giraffe giraffe gi11[]02,02ffe gir05,05affe g11,11ir05,05affe giraffe gir
+05,05giraf11,11fe00|11,11gir00|11,11ff05,05e giraffe giraffe giraf02,02fe giraffe giraffe giraffe gira05,05ffe 02,02gi05,05raffe giraffe gir
+05,05gira11,11ffe gir00|11,11ff05,05e giraffe giraffe giraff02,02e giraffe giraffe giraffe giraffe g05,05iraffe giraffe gir
+05,05gira11,11ffe 00|11,11ir00|11,11ff05,05e giraffe giraffe giraffe02,02 giraffe giraffe giraffe gira05,05ffe giraffe giraffe gir
+05,05gira11,11ffe 00|11,11iraff05,05e giraffe giraffe giraffe02,02 g00__02,02affe giraffe giraffe gira05,05ffe giraffe giraffe gir
+05,05gira11,11ffe 00|11,11iraff05,05e giraffe giraffe giraffe02,02 gir00|02,02ffe giraffe gira00_02,02fe gir05,05affe giraffe giraffe gir
+05,05gira11,11ffe 00|11,11iraffe05,05 giraffe giraff06,06e giraffe02,02 gir00|02,02ffe g06,06iraffe g02,02iraf00|02,02e gir06,06affe05,05 giraffe giraffe gir
+05,05gira11,11ffe giraffe g05,05ira06,06ffe giraffe giraffe11,11 gir02,02affe g06,06iraffe g11,11iraf02,02fe gir06,06affe gira05,05ffe giraffe gir
+05,05gir11,11affe giraf06,06fe 11,11gir06,06affe giraffe giraffe gir11,11affe g06,06iraffe giraf11,11fe gir06,06affe giraffe gi05,05raffe gir
+06,06gir11,11a06,06ff11,11e giraff06,06e gi11,11r06,06affe giraffe giraffe giraffe giraffe giraffe giraffe giraffe giraffe gir
+06,06giraf11,11fe gira06,06f11,11fe06,06 giraffe giraffe giraffe giraffe giraffe giraffe giraffe giraffe giraffe gir
+06,06gi11,11raff06,06e gira13//06,06e giraffe 13/06,06iraffe gir13//06,06fe giraf13/06,06e gir13/06,06ffe giraffe giraffe giraffe13/06,06giraff13/06,06 gir
+06,06gi11,11r06,06affe giraffe giraffe giraffe gira13/06,06fe giraf13/06,06e giraffe13/06,06giraf13/06,06e giraff13/06,06 giraffe giraffe gir
+06,06giraffe giraffe giraff13/06,06 13/06,06iraffe giraffe giraffe giraffe giraffe giraff13/06,06 giraf13/06,06e giraffe gir
+06,06gir13//06,06fe giraffe g13/06,06raffe giraffe giraf13/06,06e gir13/06,06ffe 13/06,06iraffe gir13/06,06ffe giraffe g13/06,06raffe g13/06,06raf13/06,06e gir
+06,06giraffe g13/06,06raffe 13/06,06i13/06,06affe gi13/06,06affe gi13/06,06a13/06,06fe giraffe giraffe13/06,06giraffe 13/06,06iraffe giraffe 13/06,06ir13/06,06ffe gir
+06,06giraffe giraffe giraffe13/06,06giraffe13/06,06giraffe giraffe giraffe g13/06,06raffe giraffe g13/06,06raffe gi13/06,06a13/06,06f13/06,06 gir
+06,06giraffe giraffe giraffe giraffe giraffe giraffe giraffe giraffe giraf13/06,06e giraffe giraffe gir
