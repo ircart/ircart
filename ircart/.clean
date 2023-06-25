@@ -1,0 +1,11 @@
+#!/bin/sh
+echo "Duplicate files based on contents:"
+fdupes -r1 .
+echo "\n\n\nDuplicate files based on names:"
+find . -type f -printf '%p/ %f\n' | sort -k2 | uniq -f1 --all-repeated=separate
+echo "\n\n\nZero byte files:"
+find . -size 0 -print
+echo "\n\n\nZero byte files:"
+find . -size 0 -print
+echo "\n\n\nNon-text files:"
+find . -type f -not -iname "*.txt"
