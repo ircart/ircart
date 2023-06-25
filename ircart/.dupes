@@ -1,0 +1,3 @@
+#!/bin/sh
+fdupes -r1 .
+find . -type f -printf '%p/ %f\n' | sort -k2 | uniq -f1 --all-repeated=separate
