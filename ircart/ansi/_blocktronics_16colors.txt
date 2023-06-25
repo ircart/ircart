@@ -1,0 +1,102 @@
+33h                                                                             
+                                                     2▄15         14▀                
+                                                            2▄14█14,10▄14,1  2▀█             
+                             14█▄15                7▀15     14█14,10▄14,1  █14,10▄14,1 2▀▀ 8,15▀0█15,1               
+                        11░▄11,10▄▄11,1▒▒10▄2▄15                 7█▀  2▄ 8,15▀0█2,1▄ 8,15▀0█15,1                   
+                    14▄█2▄10▄11,10▄█▀0,1██11,10▄ 2,1▀15     14▄█15            6,7█▄14,1█14,10▄14,1  █14,10▄14,1   ▄▄15            5▄13,2▄ 15,1 
+       14░15        14▄█ 10▄11▄11,10▄█0███11██▄ 2,1▀ 14▄█ 10▄11▄▄9,3▄9,1▓▓▓▓3██15      8,15▀0█6,7█▄8,15▀0█0,1  8,15▀0█0,1  14▀15          5▄13,2▄2,1█5▀  
+     14▄▓ 3▄9▒▒3▒   10▄11▄11,10▄11,1██████11,10██11,1█11,10█▀2,1▀ 10▄11▄11,10▄███9,3████▀3,1█14,3▄14,1▄15        8,15▀0█6,7█▄14,10█▄15,1          5▄▄▄7,5▄▄5,1█▀    
+5    14██3▄9,3▄9,1▓▓3▀10▄11▄11,10▄███████████▀▀ 2,1▀10▄11,10▄██9,3██0,10██11█▀11,1▀14,10▄14,1▄    5█▄  ▄6,7█▄6,1  5██8,15▀0█0,6 7▀5,1▄▄▄4▄4,5▄ 5,1▀▀7,5▀ 4▀█7▀5,1▀▀5,5 5,1██▄
+5   14██ 9,10█████11███9██11█11,1██11,10▀11,1▀10▀10,10 11▄██ 10,1▄11,10▄██0███11▀11,1▀10▀ 14▀▀ ▄  5▄▄▄5,6 7▀5,1██13,5▄█13,6 7▀14,10█▄13,5▄█  5,1██5,5 4▀5,1▀ 10░░ 5▀5,5 5,1▀ 10░░ 5▀7,5▀█
+7   14▀15░░3▀9,10▀████11███▀11,1▀10▀2▀ 10▄11,10▄████▄████▀10,1▀15       14▀14,10▀10,1█5▀█████4,5▄█5,1██8,15▀0█5,1██  5,6 7▀8,15▀0█5,1██▄▄0,2░░5,1▄▄█▄▄0,2░░5,1▄▄██
+     14▀▄ 10▀9,10▀▀▀9,1▀10▀ 14▀█ 12░10▄11,10█████11,15▓11,10████11,1▀10▄▄▄▄ 14█▄  5██▄13▄13,5█  13,6 7▀5,1██5,6 7▀13,5▄█13,6 7▀5,1▓▓13,5▄█13,1 5▄5,6 7▀7,5  7,2 12▀5,1██0,5░░░0,2 12▀5,1█4▒▒▒
+           14▀▀    ░10▄11,10█████11,15░█11,10██11,1█10▄█10,10 11,1▓▓▓▓11,10▄10,1▄  5▀███4▒▒5█▀▀▀█6,5▄5,1▀▀▀██5,2▀5,1▀4▒▒5██▀▀▀4,5░░5,2▀5,1▀▀4,15██4,5▀5,1▀▀▀4▓▓▓
+       6▀6,5█6,1   14▀█  ▓10▄11,10████11,15▀ 11,10███11,1█ 10█▀▀▀11,10▀████▄10,1▄  5▀4▒▓▓   2▄5█2▀  10▀11▒5█  4▓▓▒10█▀  2█4,5█4,1    5▀10█▀ 5▄4,5▓▓▓
+      5▄  ▄6,5▀█6,1   14█▄11,15▓▓▓▓ 14░11█11,10██11,1█ 10▓   14▀█10▀11,10▀████▄2,1▄ 4░4,5▓▓4,1  5▒██2▄ 5▀  █  4,5▀4,1▀5▀  ▀  ▒  ▄ 2▄5█4▄  5▀4,5▀4,15█
+4  5▄█ ██ 4,5▄█5,1█   14█▄11,15░░░░14▄█11▓▓▓▓10,1▀░15        10▀11,15█11,10███▄11,1  4,5██2,1▄   ▀▀ 10░░ 6▀15     10░░  ▀▀    5▀4▀▀2█   2,5 
+2 ▄5█▀4,5▄█5,1▀4,5▄4,15 4,5▀4,1   14█▄15█15,15 15,1███▄11,15░░░░15,1▓    14░░  ▒ 14,15▀11████▓14,1█ 4,5██4,6▄5,1▄10█▄ 5▄   ▄▄▄  2▄5▄▄  2▄5▄▄  2▄▄ 10▄▄ ▄█5▄4,5▄
+4 2▀▀5█4,5▀5,1▀4,5▄4,15█4,5▀4,1   14█ 0,15▄█   14▄15,1█0,15░░░░░14,1▄15       14█ 14,15 11▓▓▓▓░14,1▀ 4,15▀▀4,5██▄5,1▄▄██5,5 6▀0░░░░░ 5,1█0,5░░░ 5,1▀█▄▄█2▀ 10▀6,7▄█13,5█▄4█4,15█
+4 6▄ 5▀█15,5▄15,15 4,5▀4,1   14██14,15▀0██▄█ 0,1 14,15▄0░▓▓▓▓15,1▒░    14▄15░░14,15▀ 11░░░░14▄14,1  5▀4▀4,5▀4,15▄4,5█▒5,1█7,5▄█12,2▄ 12,15 4▀4,5███12,2▄ 4,15▄█4,5█6█6,1▄5▄█6,7▄6,6 6,1   6,5    0░░
+2█2,6▄6,1▀ 6,5 0░░10,1░  14▐█ 0,15█████15,1▒ 14▄15▓0,15▓███▄14▀14,1▄  ▀14,15▀0,1▄0,15▄██▒15,1██▀   14▄▄  5▀██▀▀0,2░░5,1▀4▀4,5▀4,1▀5▀0,2░░5,1▀4▀4,5▀5,1██13,5█▄8,15▀0█5,1░░░█14,10█▄14,5  5,1▀
+5   2▄2,5 4▀5,1▀   14███0,15█████14,1▀ ▀▄15▀0,15▀█████▄▄█████▀ 14▄14,1▄14,15▀15,1▓▓▓14,15▀15,1▄14▄▀  5▀▄ 10░░ 5▄█▄ 10░░ 5▄██5,5 6,7▄6,6 5,1██6,7▄6,6 8,15▀0█0,5  5,1█▄▄
+5   2▀▀  14▄14,10█14,1 15░░14▀14,15▄0▀11██0▀14,1▄    ▄15▀0▀0,15▀11███0███▀0,1▀15▀14▀▄14,15▀        ▀14,1▄   14,5 5,1▄▄13,5░░░7█▄5,1▄▄5,5 13░░░ █▄8,15▀0█14,10█▄2,1▀ 6,7▄6,6 13,5█▄5,1█
+5   14▄14,10█14,1 ▄▄███14,15▀▀14,1███▄█▀▀ ▄   ▀ ▄15█0,15▀0,1▀15▀14▀  ▄14,15█▄▄▄15,1▀▀▀▀14,15▄ 0░░░14▀14,1  5░█13,5█13,15▀ 13,5▀5,1▄ █13,5▄13,15▀ 13,5█▀5,1▀6,7▄6,6 2,1▀ 6,7▄6,6 8,15▀0█2,1▀ 6,7▄6,6 5,1█
+5 14▄ ▄14,10████14,1██14,15█▄█14,1█14,15▄▄15,1▓▓▓14,15▀15,1▄14█▀15          12▄ 14▀▀15     5▄  14▀0,15▓▓▓░14▀14,1  5█13,5▀13,1▀5▀ ██13,5▒▀13,1▀5▀  2▄14,10█▄8,15▀0█14,10█▄2,1▀ 14,10█▄8,15▀0█15,1 
+0 14▄14,10 ▄████14,1▀▀▀▀▀▀14,15▄15,1██14,15▀     ▀15,1▄14▄14,10█14,1▄15     12▀▀15      2█13,2▀5,1▀  0,15███▓0,1▒15     5▄ ▀▀15      2▀▀ 14,10█▄8,15▀0█14,10█▄8,15▀0█15,1   
+14▒14,10███ ▄14,1▀15          14▀15▀14,15▄15,1█15,15     14▀14,1▄15               14▄█15▄0,15███▀14,1▀   5▄ 13▀5▀15        2▄14,10█▄2,1▀ 14,10█▄2,1▀ 14,10█▄15,1   
+14 ▀14,10███15,1             14▀14,10█14,1 ▀15▀14,15▄    ▀14,1▄15        14▄█  15▄0▄0,15▄██▀14▄14,1▀   2█13,2▀5,1▀15          2▀▀ 8,15▀0█2,1▀ 8,15▀0█2,1▀    
+2    14▀▀ ▄█15             14▀14,10█14,1 ▀14,15▄15,1▓▓▓▓14,15▀15,1▄▄▄▄▄▄0▄0,15▄██11██0█▀14▄14,1▀15                   14,10█▄2,1▀ 14,10█▄2,1▀      
+11avg_15                     14▀14,10█14,1▀14,15▄15,1█15,15 15,7██0,15▒███11███0███▀15,1▀14▀15                           8,15▀0█15,1     
+                             14▄▀15▀▀14,15▄0▀█0,1██0,15▀0,1▀▀15▀                         14▀  2▄14,10█▄14,1  ■    
+                                                                         14,10█▄15,1     
+                                  10BLOCKTRONICS14_  14,2112,10610,1██ 9c 11o 4l 13o 8r 0s               
+                                                  14June 26th, 2013               
+    6HELLO                                                                       
+   5 Hello friends. Welcome to our art release, it's 2013.                       
+    8SURPRISE! 5Thanks to all of the artists that made this                       
+  5  release happen. There is some insane innovation in this                     
+  5  release. You will, without a doubt, see some low resolution                 
+  5  artwerk, the likes of which, has never been seen before.                    
+  5  We have had a couple of months to be productive since                       
+5    we all released the "Awaken" art pack after a 3 year                        
+5    hibernation. ANSi art still means a lot to a lot of people                  
+5    after all these years partly because of the nostalgia of                    
+5    the things that had happened in the past but mostly                         
+5    because laying down these small colorful blocks is                          
+5    enjoyable. We have been playing with blocks since we were                   
+5    children, why stop now. I have come to realize, as an                       
+5    artist of many different mediums, that nothing we do                        
+5    creatively matters. If I paint an oil painting, or draw a                   
+5    portrait, I end up at the same place when it's all said and                 
+5    done. Requiring utility for art and creativity is a horribly                
+5    ironic joke to any reasonable artist. Be creative, create,                  
+5    and do it for yourself.                                                     
+5    13169colors!                                                                   
+5    10This release is a tribute to Doug Moore, Brian Cassidy, and                 
+5    10the archive at sixteencolors.net. It is easy to see the contributions       
+5    10that are made by artists during releases but the hard work of               
+    10dedicated soldiers like Brian and Doug are not so obvious and,              
+    10I believe, are taken for granted. So we intend to show our appreciation     
+    10to their hard work with keeping the archive at sixteencolors.net            
+    10available for us and improving it's functionality when time permits.        
+    10I would also like to take a moment to appreciate Curtis Wensley the         
+    10creator and maintainer of Pablodraw. His hard work and coding               
+    10innovations have reinvented our medium. Thank you all.                      
+    5Ladies(lady?), is there even one girl?, and gentlemen, it's                 
+    52013 and this artpack is outstanding. We're older, sexier, than             
+    5ever before. I absolutely cannot wait to see what the next                  
+    5release has in store. It will, without a doubt, top even this               
+    5pack. Thanks to you.                                                        
+    4- TCF                                                                       
+    0A MESSAGE TO BLOCKTRONICS ARTISTS                                           
+    6I would like to thank each one of you for all the contribution and hard     
+    6work to produce this pack. Your passion, talent and artwork inspires me     
+    6and keeps me motivated to go further.                                       
+    6Once again you guys did it! Thank you B7 warriors!                          
+    6This is just the beginning.                                                 
+    11_enzO                                                                       
+    3AVG's TURN (PLEASE DONT READ)                                               
+    Hai guys!, I'm suprised i get to write in this infofile, last infofile      
+    i had written this epic story about how the last pack came to life,         
+    but enzo was too tired to type it out letter for letter.. SLACKER!          
+    .. so i'll tell you how this pack came about.. (in my eyes ofcourse)        
+    After the great success of the last pack it was obvious that another        
+    killer would soon follow.. the wheels were set in motion and we were        
+    rolling at a whopping 3 m/ph (this is fast in brazilian standards)          
+    Anyhoo, I get the call from Enzo.. and the conversation went like this..    
+  9enzo15: (insert brazillian accent here) Hai IVAN! (not mexican accent you idiot)
+  0avg15: Sup?                                                                     
+  9enzo15: i was tinking to put oudanodda pack!                                    
+  0avg15: cool.. (how fucking cool am i?!??)                                       
+    anyways, enjoy the pack, and i'd like to say hi to 11toni frick15..             
+    she's my #1 fan and long time soulmate.                                     
+    11avg_                                                                        
+14    2▄14,10█▄8,15▀0█14,10█▄2,1▀ 14,10█▄8,15▀0█0,1  14_BLOCKTRONICS 16 COLORS                                      
+0    2▀▀ 14,10█▄8,15▀0█14,10█▄8,15▀0█15,1                                                                 
+0    2▄14,10█▄2,1▀ 14,10█▄2,1▀ 14,10█▄14,1  Website_  www.blocktronics.org                                 
+10    2▀▀ 8,15▀0█2,1▀ 8,15▀0█2,1▀   14Facebook_ www.facebook.com/blocktronics                        
+     14,10█▄2,1▀ 14,10█▄2,1▀15     14Twitter_  www.twitter.com/blocktronics                         
+           8,15▀0█15,1                                                                   
+     14▀  2▄14,10█▄14,1  ■   contact@blocktronics.org                                       
+           14,10█▄15,1   14[awesome ansi artwork created by Avenging Angel]                
+
