@@ -1,3 +1,5 @@
 #!/bin/sh
+echo "Duplicate files based on contents:"
 fdupes -r1 .
+echo -e "\n\n\nDuplicate files based on names:"
 find . -type f -printf '%p/ %f\n' | sort -k2 | uniq -f1 --all-repeated=separate
