@@ -1,127 +1,127 @@
-33h                                                                             
-            _......__                                              _..d         
-         .d$@*╩╩╩*@$╫╫$$SS@@S$$S@s┬s/     .    .Vb.          .d┼"`°√╫╫$b.       
-        d°`          `°ⁿ└╫╫╫╫╫╫╫╫╫7'    .d╫   ' `╝╫╫bs'    .d╫╪     `╙║╫#╚ⁿ'    
-       '          .,sS╚ⁿ"```   ```   .d╫P`╫.'    .'      .d╫╫╬'                 
-      i        .d╫Vⁿ`              .d╫╫'  ╟            .d╫╫╚╚·                  
-      ╫       d╫╫`                 ╫╫╫`   │              ╪╫╫'                   
-      `     ·╫$╫`       ┼         ╞╫╫├  _.╫._             ╫╫╫                   
-       `    ╫╫╫│      _.╫._       ╫╫╫│   `╫               ┼╫╫┼                  
-         \_·╫╫╫· _____/ ┼        ·╫╫╫·    ╪                ╫╫╫                  
-           ·╫╫╫·                 ·╫╫╫│    │                ┼╫╫╪ _...._          
-            ╫╫╫│                  ╨╨╨╫    :                 ╫╫╫"     d$b.       
-             ╫╫╫                 .╫╫ ╫.                   .d┼╫╫╪    ┤╫╫P"'      
-              $╫b              .╫/" .╫╫b.             __ .P'`√╫╫·  ```"ⁿ        
-               `√│s.         .*`     `√│╫b,._     _.v"`" '    °╫╫·              
-                  `"└*****┘"`           `"└**@╫╫╫╫P`    i      `╣╫·             
-                                                ``      ┼       `╠╫:            
-                                                         ·        ├╢:           
-                                 {  { { t c f } }  }      `.       DP           
-                                                            `b.__.d'            
-                        Blocktronics #4: Sixteen Colors                         
-                                 June 26th, 2013                                
-             6 ARTWORK                                                           
-              I have numbered my contributions to the artpack.  I attempted     
-              to put them in to some sort of order where you can take time      
-              viewing them and experience the diversity between styles, also,   
-              pics or fonts.                                                    
-              I recommend you use PabloDraw 2.0.8 to view the artpack.          
-              We are drawing in Windows now and it might seem blasphemous       
-              but with a constant VGA preview window available it is a factor   
-              and is taken into account during production. You should also      
-              view ANSi's with both views available at the same time.           
-              8For my drawing iParent I used blinking colors, if you're          
-              8viewing with the new Pablo 3.1.2 ensure you have ice colors off   
-              8so the blinks will work. It's basically not even worth looking    
-              8at without them because that's not how it was intended.           
-             6 THANK YOU                                                         
-              Thank you for taking time to read this and to be interested       
-              in the work of others. Like Filth said, you are here, you         
-              are reading this, it means something, this is for you.            
-              I hope you enjoy the artwork and the time we spent                
-              creating pieces in a medium that people considered to be          
-              dead or dying 17 years ago.                                       
-              6- AARON FRICK (TCF)                                               
-             14 GREETS                                                            
-              7LUCIANO15 14- Enzo, thanks for holding things together, bringing us   
-                        14back. You've always been motivational and energetic.    
-                        14Stay cool. I will see you in Brazil.                    
-              7MISFIT15 14- You are one of those oldschool guys that I didn't        
-                       14know back in the 90's but I have the utmost respect      
-                       14for. I have been searching 16C for Misfit ANSi's and     
-                       14digging through Apathy packs for a loooong time!         
-              7BW15     14- Florian, I don't know where you came from but it's       
-                       14great to be in a group with you in 2013. You're doing    
-                       14some excellent things with ANSi! You make Gladiator yet? 
-              7H715     14- Greets ANTii ANSi. Keep up the great work!               
-              7CHRISTIAN15  14- I didn't know you back in the day but have always    
-                           14had respect. You are not just the ACiD15 14leader        
-                           14and coordinator but you're a textmode WARRIOR.       
-            7  MONGI 14- Nice to see you back Mongi.                               
-            7  BIZ   14- Doing some outstanding work again BIZ, I'm happy to       
-                      14see that you're active and kicking ass.                   
-            7  TXT   14- A true ANSi legend, I feel like we'll be here together    
-                      14in 2050 Keith if I don't die from liver disease.15 14Keith,   
-                      14I'm sorry you got sandwiched between LD and myself in     
-                      14this artpack. ROFL, You're good in the middle.            
-            7  RET   14- Great to see you back in action ret!                      
-            7  SMOKE 14- Hey guy, nice to see you again.                           
-            7  UNGENANNT15 14- Please, tell me what this name means.15 14I'm guessing    
-                         14 a combination of wife and kids names.                 
-           7   TNA  14- Can't wait to see what you're coming up with Alexandre.    
-                     14You're one of my ANSi heroes. I don't have many.           
-           7   ANTII KOLSI15 14- NS, You're one of my ANSi heroes, I never really    
-                            14told you how much I loved your art years ago but    
-                            14I want you to know how badass you are and keep it   
-                            14up so I have something to look at. Also, please     
-                            14sew something for me. Art trade.                    
-            7  ETO14 - Curtis, thank you for your dedication to this stuff.        
-                    14I don't know if you realize this or not but without your    
-                    14work us artists would be suffering in a minimized DOS       
-                    14BOX and I doubt we'd be nearly as active. You have made     
-                    14a massive impact.                                           
-            7  LS 14- OSAMA .BIN LADEN                                             
-             7 BRIAN CASSIDY 14- T'N'A Sauce Editor!, one of the first sceners     
-                              14I got to know in 1996. How you doin?              
-            7  AES15 14- Hey Rippa, whens the next Polyester release?                
-            7  BYM15 14- I am going to take you up on that beer someday. Soon.       
-                    14My world travels begin in 2014.                             
-            7  SEPH15 14- I feel like you're my brother but I can't really figure    
-                     14out why. Maybe your father would be more accurate. Your    
-                     14mom poked me on Facebook the other day and I didn't know   
-                     14if I should poke her back because the last time I did you  
-                     14were born.                                                 
-              7HAWK 14- I've known you for a long ass time, like Curtis, Doug,     
-                     14Christian, Brian, you contribute in a lot of ways that     
-                     14aren't always glorified but I recognize it, keep it up.    
-            7  HAL15  14- You're another one of the legendary oldschool artists      
-                     14who's work surpasses the trial of time. There are less     
-                     14than five artists who's work I refer to when looking for   
-                     14ideas and you are one of them. You may think that ANSi     
-                     14has no place these days but no form of art really does.    
-                     14It's all about creative release and personal challenge.    
-            7  Zii15  14- Joel, when can I expect the next radical smallscale.       
-            7  N4 14- Sodium, a true artist, always creative, non conformist.      
-                   14Bless us with moar ANSIs!                                    
-            7  FILTH 14- WILL YOU HAVE MY GHOST CHILDREN.                          
-            7  JASON HYDE14 - Nice to see you again Card!                          
-            7  CRYO15 14- Nice to see you back in action Cryo. I never had a chance  
-                     14to talk to you before but I have always enjoyed your work. 
-            7  KNOC15 14- K1, keep up the good work k1, I'm glad to be releasing     
-                     14along side you in 2013.                                    
-            7  SPEAR15 14- How about them Orangemen? Mark, I think we've been in     
-                      14all of the same groups throughout the years but you       
-                      14don't have Vii under your belt and that's the most        
-                      14prestigious group of all.                                 
-             7 MAYTAG15 14- Hey man! Welcome back! Looking forward to art!           
-             7 MATT YEE 14- TS from Teklordz was an artistic legend to me, like    
-                         14Michaelangelo, or Da'Vinci. I never knew you so to     
-                         14me you may as well have been one of them. It is very   
-                         14cool to get the chance to know one of my ANSi heroes   
-                         14but it freaks me out because you're basically a        
-                         14zombie!                                                
-          7    ROWAN15 14- I NEED LITZ ROWAN! <3                                     
-          7    AVG14 You are gay but gay is cool nowadays. But you aren't cool.    
-                  14Figure that one out.15 14Hold on, Franka is at the door.          
-              14END                                                               
+33h                                                                                                                                                                                                                                                                                                         
+            _......__                                              _..d                                                                                                                                                                                                                                     
+         .d$@*╩╩╩*@$╫╫$$SS@@S$$S@s┬s/     .    .Vb.          .d┼"`°√╫╫$b.                                                                                                                                                                                                                                   
+        d°`          `°ⁿ└╫╫╫╫╫╫╫╫╫7'    .d╫   ' `╝╫╫bs'    .d╫╪     `╙║╫#╚ⁿ'                                                                                                                                                                                                                                
+       '          .,sS╚ⁿ"```   ```   .d╫P`╫.'    .'      .d╫╫╬'                                                                                                                                                                                                                                             
+      i        .d╫Vⁿ`              .d╫╫'  ╟            .d╫╫╚╚·                                                                                                                                                                                                                                              
+      ╫       d╫╫`                 ╫╫╫`   │              ╪╫╫'                                                                                                                                                                                                                                               
+      `     ·╫$╫`       ┼         ╞╫╫├  _.╫._             ╫╫╫                                                                                                                                                                                                                                               
+       `    ╫╫╫│      _.╫._       ╫╫╫│   `╫               ┼╫╫┼                                                                                                                                                                                                                                              
+         \_·╫╫╫· _____/ ┼        ·╫╫╫·    ╪                ╫╫╫                                                                                                                                                                                                                                              
+           ·╫╫╫·                 ·╫╫╫│    │                ┼╫╫╪ _...._                                                                                                                                                                                                                                      
+            ╫╫╫│                  ╨╨╨╫    :                 ╫╫╫"     d$b.                                                                                                                                                                                                                                   
+             ╫╫╫                 .╫╫ ╫.                   .d┼╫╫╪    ┤╫╫P"'                                                                                                                                                                                                                                  
+              $╫b              .╫/" .╫╫b.             __ .P'`√╫╫·  ```"ⁿ                                                                                                                                                                                                                                    
+               `√│s.         .*`     `√│╫b,._     _.v"`" '    °╫╫·                                                                                                                                                                                                                                          
+                  `"└*****┘"`           `"└**@╫╫╫╫P`    i      `╣╫·                                                                                                                                                                                                                                         
+                                                ``      ┼       `╠╫:                                                                                                                                                                                                                                        
+                                                         ·        ├╢:                                                                                                                                                                                                                                       
+                                 {  { { t c f } }  }      `.       DP                                                                                                                                                                                                                                       
+                                                            `b.__.d'                                                                                                                                                                                                                                        
+                        Blocktronics #4: Sixteen Colors                                                                                                                                                                                                                                                     
+                                 June 26th, 2013                                                                                                                                                                                                                                                            
+             6 ARTWORK                                                                                                                                                                                                                                                                                       
+              I have numbered my contributions to the artpack.  I attempted                                                                                                                                                                                                                                 
+              to put them in to some sort of order where you can take time                                                                                                                                                                                                                                  
+              viewing them and experience the diversity between styles, also,                                                                                                                                                                                                                               
+              pics or fonts.                                                                                                                                                                                                                                                                                
+              I recommend you use PabloDraw 2.0.8 to view the artpack.                                                                                                                                                                                                                                      
+              We are drawing in Windows now and it might seem blasphemous                                                                                                                                                                                                                                   
+              but with a constant VGA preview window available it is a factor                                                                                                                                                                                                                               
+              and is taken into account during production. You should also                                                                                                                                                                                                                                  
+              view ANSi's with both views available at the same time.                                                                                                                                                                                                                                       
+              8For my drawing iParent I used blinking colors, if you're                                                                                                                                                                                                                                      
+              8viewing with the new Pablo 3.1.2 ensure you have ice colors off                                                                                                                                                                                                                               
+              8so the blinks will work. It's basically not even worth looking                                                                                                                                                                                                                                
+              8at without them because that's not how it was intended.                                                                                                                                                                                                                                       
+             6 THANK YOU                                                                                                                                                                                                                                                                                     
+              Thank you for taking time to read this and to be interested                                                                                                                                                                                                                                   
+              in the work of others. Like Filth said, you are here, you                                                                                                                                                                                                                                     
+              are reading this, it means something, this is for you.                                                                                                                                                                                                                                        
+              I hope you enjoy the artwork and the time we spent                                                                                                                                                                                                                                            
+              creating pieces in a medium that people considered to be                                                                                                                                                                                                                                      
+              dead or dying 17 years ago.                                                                                                                                                                                                                                                                   
+              6- AARON FRICK (TCF)                                                                                                                                                                                                                                                                           
+             14 GREETS                                                                                                                                                                                                                                                                                        
+              7LUCIANO15 14- Enzo, thanks for holding things together, bringing us                                                                                                                                                                                                                               
+                        14back. You've always been motivational and energetic.                                                                                                                                                                                                                                
+                        14Stay cool. I will see you in Brazil.                                                                                                                                                                                                                                                
+              7MISFIT15 14- You are one of those oldschool guys that I didn't                                                                                                                                                                                                                                    
+                       14know back in the 90's but I have the utmost respect                                                                                                                                                                                                                                  
+                       14for. I have been searching 16C for Misfit ANSi's and                                                                                                                                                                                                                                 
+                       14digging through Apathy packs for a loooong time!                                                                                                                                                                                                                                     
+              7BW15     14- Florian, I don't know where you came from but it's                                                                                                                                                                                                                                   
+                       14great to be in a group with you in 2013. You're doing                                                                                                                                                                                                                                
+                       14some excellent things with ANSi! You make Gladiator yet?                                                                                                                                                                                                                             
+              7H715     14- Greets ANTii ANSi. Keep up the great work!                                                                                                                                                                                                                                           
+              7CHRISTIAN15  14- I didn't know you back in the day but have always                                                                                                                                                                                                                                
+                           14had respect. You are not just the ACiD15 14leader                                                                                                                                                                                                                                    
+                           14and coordinator but you're a textmode WARRIOR.                                                                                                                                                                                                                                   
+            7  MONGI 14- Nice to see you back Mongi.                                                                                                                                                                                                                                                           
+            7  BIZ   14- Doing some outstanding work again BIZ, I'm happy to                                                                                                                                                                                                                                   
+                      14see that you're active and kicking ass.                                                                                                                                                                                                                                               
+            7  TXT   14- A true ANSi legend, I feel like we'll be here together                                                                                                                                                                                                                                
+                      14in 2050 Keith if I don't die from liver disease.15 14Keith,                                                                                                                                                                                                                               
+                      14I'm sorry you got sandwiched between LD and myself in                                                                                                                                                                                                                                 
+                      14this artpack. ROFL, You're good in the middle.                                                                                                                                                                                                                                        
+            7  RET   14- Great to see you back in action ret!                                                                                                                                                                                                                                                  
+            7  SMOKE 14- Hey guy, nice to see you again.                                                                                                                                                                                                                                                       
+            7  UNGENANNT15 14- Please, tell me what this name means.15 14I'm guessing                                                                                                                                                                                                                                
+                         14 a combination of wife and kids names.                                                                                                                                                                                                                                             
+           7   TNA  14- Can't wait to see what you're coming up with Alexandre.                                                                                                                                                                                                                                
+                     14You're one of my ANSi heroes. I don't have many.                                                                                                                                                                                                                                       
+           7   ANTII KOLSI15 14- NS, You're one of my ANSi heroes, I never really                                                                                                                                                                                                                                
+                            14told you how much I loved your art years ago but                                                                                                                                                                                                                                
+                            14I want you to know how badass you are and keep it                                                                                                                                                                                                                               
+                            14up so I have something to look at. Also, please                                                                                                                                                                                                                                 
+                            14sew something for me. Art trade.                                                                                                                                                                                                                                                
+            7  ETO14 - Curtis, thank you for your dedication to this stuff.                                                                                                                                                                                                                                    
+                    14I don't know if you realize this or not but without your                                                                                                                                                                                                                                
+                    14work us artists would be suffering in a minimized DOS                                                                                                                                                                                                                                   
+                    14BOX and I doubt we'd be nearly as active. You have made                                                                                                                                                                                                                                 
+                    14a massive impact.                                                                                                                                                                                                                                                                       
+            7  LS 14- OSAMA .BIN LADEN                                                                                                                                                                                                                                                                         
+             7 BRIAN CASSIDY 14- T'N'A Sauce Editor!, one of the first sceners                                                                                                                                                                                                                                 
+                              14I got to know in 1996. How you doin?                                                                                                                                                                                                                                          
+            7  AES15 14- Hey Rippa, whens the next Polyester release?                                                                                                                                                                                                                                            
+            7  BYM15 14- I am going to take you up on that beer someday. Soon.                                                                                                                                                                                                                                   
+                    14My world travels begin in 2014.                                                                                                                                                                                                                                                         
+            7  SEPH15 14- I feel like you're my brother but I can't really figure                                                                                                                                                                                                                                
+                     14out why. Maybe your father would be more accurate. Your                                                                                                                                                                                                                                
+                     14mom poked me on Facebook the other day and I didn't know                                                                                                                                                                                                                               
+                     14if I should poke her back because the last time I did you                                                                                                                                                                                                                              
+                     14were born.                                                                                                                                                                                                                                                                             
+              7HAWK 14- I've known you for a long ass time, like Curtis, Doug,                                                                                                                                                                                                                                 
+                     14Christian, Brian, you contribute in a lot of ways that                                                                                                                                                                                                                                 
+                     14aren't always glorified but I recognize it, keep it up.                                                                                                                                                                                                                                
+            7  HAL15  14- You're another one of the legendary oldschool artists                                                                                                                                                                                                                                  
+                     14who's work surpasses the trial of time. There are less                                                                                                                                                                                                                                 
+                     14than five artists who's work I refer to when looking for                                                                                                                                                                                                                               
+                     14ideas and you are one of them. You may think that ANSi                                                                                                                                                                                                                                 
+                     14has no place these days but no form of art really does.                                                                                                                                                                                                                                
+                     14It's all about creative release and personal challenge.                                                                                                                                                                                                                                
+            7  Zii15  14- Joel, when can I expect the next radical smallscale.                                                                                                                                                                                                                                   
+            7  N4 14- Sodium, a true artist, always creative, non conformist.                                                                                                                                                                                                                                  
+                   14Bless us with moar ANSIs!                                                                                                                                                                                                                                                                
+            7  FILTH 14- WILL YOU HAVE MY GHOST CHILDREN.                                                                                                                                                                                                                                                      
+            7  JASON HYDE14 - Nice to see you again Card!                                                                                                                                                                                                                                                      
+            7  CRYO15 14- Nice to see you back in action Cryo. I never had a chance                                                                                                                                                                                                                              
+                     14to talk to you before but I have always enjoyed your work.                                                                                                                                                                                                                             
+            7  KNOC15 14- K1, keep up the good work k1, I'm glad to be releasing                                                                                                                                                                                                                                 
+                     14along side you in 2013.                                                                                                                                                                                                                                                                
+            7  SPEAR15 14- How about them Orangemen? Mark, I think we've been in                                                                                                                                                                                                                                 
+                      14all of the same groups throughout the years but you                                                                                                                                                                                                                                   
+                      14don't have Vii under your belt and that's the most                                                                                                                                                                                                                                    
+                      14prestigious group of all.                                                                                                                                                                                                                                                             
+             7 MAYTAG15 14- Hey man! Welcome back! Looking forward to art!                                                                                                                                                                                                                                       
+             7 MATT YEE 14- TS from Teklordz was an artistic legend to me, like                                                                                                                                                                                                                                
+                         14Michaelangelo, or Da'Vinci. I never knew you so to                                                                                                                                                                                                                                 
+                         14me you may as well have been one of them. It is very                                                                                                                                                                                                                               
+                         14cool to get the chance to know one of my ANSi heroes                                                                                                                                                                                                                               
+                         14but it freaks me out because you're basically a                                                                                                                                                                                                                                    
+                         14zombie!                                                                                                                                                                                                                                                                            
+          7    ROWAN15 14- I NEED LITZ ROWAN! <3                                                                                                                                                                                                                                                                 
+          7    AVG14 You are gay but gay is cool nowadays. But you aren't cool.                                                                                                                                                                                                                                
+                  14Figure that one out.15 14Hold on, Franka is at the door.                                                                                                                                                                                                                                      
+              14END                                                                                                                                                                                                                                                                                           
 
