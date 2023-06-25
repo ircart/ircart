@@ -1342,6 +1342,7 @@ big/ircislit
 big/jerkoff
 big/longcat
 big/longpattern
+big/longpump
 big/matix
 big/matrixhasu
 bigmeech
@@ -1355,6 +1356,7 @@ big/tsunami2
 big/tsunami
 big/vatix2
 big/vatix
+big/waterfall
 billg
 birds/allah4eva
 birds/allbirds
@@ -1564,6 +1566,7 @@ failwhale
 fart/africa
 fart/again
 fart/al_franken
+fart/aol
 fart/artflood
 fart/artgallery
 fart/bee23
@@ -1585,6 +1588,17 @@ fart/chikken
 fart/chirp
 fart/cluepon
 fart/commandments
+fart/cows10
+fart/cows11
+fart/cows2
+fart/cows3
+fart/cows4
+fart/cows5
+fart/cows6
+fart/cows7
+fart/cows8
+fart/cows9
+fart/cows
 fart/crab
 fart/daddyfuckybaby
 fart/deadlycatch
@@ -1604,10 +1618,23 @@ fart/getthejob
 fart/gunoper
 fart/hardshell
 fart/hate
+fart/horse
 fart/jackoff
 fart/jesuscross
 fart/jonny
 fart/krillin
+fart/letmein10
+fart/letmein11
+fart/letmein12
+fart/letmein1
+fart/letmein2
+fart/letmein3
+fart/letmein4
+fart/letmein5
+fart/letmein6
+fart/letmein8
+fart/letmein9
+fart/letmein
 fart/lolberg
 fart/loller
 fart/marg1
@@ -1632,6 +1659,7 @@ fart/rape
 fart/retardedghost
 fart/rimjobs
 fart/rooster
+fart/sex
 fart/sideways_cat_poo_coiled_up_on_a_plate_with_steam_rising
 fart/snail
 fart/snooters
@@ -1646,6 +1674,7 @@ fart/surfsup
 fart/sweetballs
 fart/thatguy
 fart/useful
+fart/waiting_snake
 fart/you
 fatalbert
 fatspurdo
@@ -1768,6 +1797,7 @@ game/megaman3
 game/megamannew
 game/megaman
 game/mog
+game/monopoloy
 game/mortalkombat
 game/pacman1
 game/pacman2
@@ -4777,12 +4807,14 @@ reaction/feels
 reaction/greenhigh
 reaction/handsomefeel
 reaction/madcube
+reaction/mad
 reaction/omg
 reaction/puke2
 reaction/puke
 reaction/rage2
 reaction/rage
 reaction/rainbowsmile
+reaction/rolleyes420
 reaction/rolleyes
 reaction/sad2
 reaction/sad3
@@ -4852,6 +4884,7 @@ small/cancer
 small/car
 small/christmas
 small/cops
+small/farthound
 small/flashbang
 small/grids2
 small/grids
@@ -4875,7 +4908,6 @@ sort/2roses
 sort/2unicorn
 sort/32long
 sort/32
-sort/3dtopic
 sort/3
 sort/4bears
 sort/50ports2
@@ -4884,7 +4916,6 @@ sort/77
 sort/911a
 sort/911b
 sort/911
-sort/aa
 sort/abeb¢n
 sort/abobo2
 sort/abortion
@@ -4921,7 +4952,6 @@ sort/animu3
 sort/animu4
 sort/animu9
 sort/anthrax
-sort/aol
 sort/apple
 sort/arab2
 sort/arab3
@@ -4990,7 +5020,6 @@ sort/blax
 sort/blowfish2
 sort/blt
 sort/blud2
-sort/board
 sort/bobby
 sort/bomb1
 sort/boner-tragedy
@@ -5043,15 +5072,6 @@ sort/canada2
 sort/canoe
 sort/capitalism
 sort/carbike
-sort/card_r1
-sort/card_r2
-sort/card_r3
-sort/card_r4
-sort/card_r5
-sort/card_r6
-sort/card_r7
-sort/card_r8
-sort/card_r9
 sort/card
 sort/care-o-meter
 sort/care
@@ -5093,20 +5113,8 @@ sort/cocodrile
 sort/coffee
 sort/coloredgoatse
 sort/cops
-sort/copter
 sort/cosby
 sort/cowboy
-sort/cows10
-sort/cows11
-sort/cows2
-sort/cows3
-sort/cows4
-sort/cows5
-sort/cows6
-sort/cows7
-sort/cows8
-sort/cows9
-sort/cows
 sort/cp
 sort/crabs
 sort/crack1
@@ -5131,7 +5139,6 @@ sort/dedjew
 sort/dein tod ist ein grund fuer ein freudenfest
 sort/dell
 sort/deppy1
-sort/depressed
 sort/dethronelilo.songs
 sort/dethrone
 sort/diariah
@@ -5191,13 +5198,11 @@ sort/fags
 sort/fag
 sort/fail.ascii
 sort/fail
-sort/fart-hound
 sort/fart
 sort/fatduck
 sort/fauch
 sort/female2
 sort/fett
-sort/fetus
 sort/fiend
 sort/final
 sort/finest
@@ -5272,7 +5277,6 @@ sort/gr1d
 sort/grammar
 sort/greenblue
 sort/grids.xxsart
-sort/gtfo
 sort/guillotine
 sort/guru
 sort/hallofslp
@@ -5323,7 +5327,6 @@ sort/hizbullah2
 sort/hizbullah
 sort/hl2hax
 sort/honk
-sort/horse
 sort/howircworks
 sort/hsix
 sort/huhu
@@ -5384,7 +5387,6 @@ sort/jt3
 sort/juden
 sort/jumb0
 sort/katrina
-sort/kbal.rtf
 sort/ke
 sort/kfc
 sort/killallarabs
@@ -5430,18 +5432,6 @@ sort/latvia
 sort/la
 sort/lemons1
 sort/lemons2
-sort/letmein10
-sort/letmein11
-sort/letmein12
-sort/letmein1
-sort/letmein2
-sort/letmein3
-sort/letmein4
-sort/letmein5
-sort/letmein6
-sort/letmein8
-sort/letmein9
-sort/letmein
 sort/liesgirlstell
 sort/lifelike
 sort/lilol1
@@ -5478,7 +5468,6 @@ sort/lolichan
 sort/lollership
 sort/lol
 sort/lol.xxsart
-sort/longpump
 sort/lopl
 sort/lorf2
 sort/lorf3
@@ -5493,7 +5482,6 @@ sort/lrh15.nfo
 sort/lucio
 sort/lulzpride
 sort/LUM-BOY.ANS
-sort/lump
 sort/lunax
 sort/lunix1
 sort/lunix4
@@ -5576,7 +5564,6 @@ sort/nina2
 sort/nnice
 sort/noasciis
 sort/nord1.stories
-sort/nord2.stories
 sort/nord2
 sort/nord3
 sort/nord4
@@ -5693,7 +5680,6 @@ sort/radium
 sort/ragespider
 sort/rainbow3
 sort/rainbow4
-sort/rainbowdong
 sort/rain
 sort/rape1.stories
 sort/rape2.stories
@@ -5727,7 +5713,6 @@ sort/roarie6
 sort/roaries
 sort/rocks
 sort/roidrage2
-sort/rolleyes-420
 sort/rolloffle
 sort/ronpaul
 sort/rose
@@ -5751,12 +5736,10 @@ sort/saudi
 sort/scd2
 sort/scd
 sort/segfault
-sort/sex
 sort/sexyinside
 sort/sgi
 sort/shani-irlol
 sort/shark
-sort/shave
 sort/sheep2
 sort/sheep3
 sort/shii
@@ -5876,7 +5859,6 @@ sort/turduck
 sort/turtle
 sort/tux
 sort/)
-sort/:(
 sort/^-------.---
 sort/_!
 sort/_+
@@ -5888,7 +5870,6 @@ sort/typicalhtml
 sort/tyson
 sort/u93
 sort/uded
-sort/uk
 sort/ulillilli
 sort/unfinishedvilla
 sort/unicode
@@ -5908,7 +5889,6 @@ sort/vap0r
 sort/vapcat2
 sort/vapcat
 sort/vapday
-sort/vaproxy
 sort/vendetta
 sort/violence
 sort/virgin
@@ -5930,7 +5910,6 @@ sort/vxprap2
 sort/vxprap
 sort/vxp
 sort/vxpworm
-sort/waiting_snake
 sort/wala3ajaba
 sort/wall1
 sort/wall3
@@ -5975,7 +5954,6 @@ sort/wraith
 sort/wtc2.stories
 sort/wtc5
 sort/wtc6
-sort/wtfwtf
 sort/wutang
 sort/xfiles
 sort/xmas2
@@ -5994,7 +5972,6 @@ sort/zero99
 sort/zewb
 sort/zf05
 sort/zimzam
-sort/zoidberg
 sort/zorak
 sort/zubkatzhiemonster
 sort/zubkatz
@@ -6212,6 +6189,7 @@ tv/velma
 tv/wiley
 tv/yodahuge
 tv/yoda
+tv/zoidberg
 tyson2
 tyson
 tysowned
@@ -6621,6 +6599,7 @@ words/youaregay
 worms
 worm
 xbox
+youdontknowme
 zerochan
 zero
 zombie
