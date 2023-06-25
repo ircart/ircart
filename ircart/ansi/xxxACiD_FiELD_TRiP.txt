@@ -1,265 +1,265 @@
-1   7▄    ░15        7░15                                                                                                                                                                                                                                                                                          
-7  █▒    ▒  ▄▄▄▄▄▄▄▄▄  ░15                                                                                                                                                                                                                                                                                     
-                     8,7▒7,1▓ ▄▄15                                                                                                                                                                                                                                                                                  
-                        14░15                                                                                                                                                                                                                                                                                   
-                        14▒░15                                                                                                                                                                                                                                                                                  
-                         14▒15 12▄15                                                                                                                                                                                                                                                                                
-                        2▄12▄12,2▓12,1▌15                                                                                                                                                                                                                                                                                
-                         12,2░▒15,1                                                                                                                                                                                                                                                                                 
-                       0▀8█2▐12,2░15,1                                                                                                                                                                                                                                                                                 
-                                 11▀▀▀▀▀▀▀▀▀▀15                                                                                                                                                                                                                                                                 
-                              11▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀15                                                                                                                                                                                                                                                              
-                                              11▀15                                                                                                                                                                                                                                                             
-                                      14▀15 11▀██████▌15                                                                                                                                                                                                                                                            
-                                             11██▌15                                                                                                                                                                                                                                                            
-                                         11█11,10 11,1███▀ 15 ▄▄▄▄▄▄▄                                                                                                                                                                                                                                                    
-                                               0,15▄▄███████▄▄15,1▄                                                                                                                                                                                                                                                 
-                                                   14,15▄▄▄▄ 0▀ 15,1█                                                                                                                                                                                                                                                 
-                                                               ░      ░░▒▓                                                                                                                                                                                                                                  
-                                                                        14▄15▒                                                                                                                                                                                                                                  
-                                                               ▒░     14▄█14,15▓14,1▀15                                                                                                                                                                                                                                  
-                                                                    14▄██▀15                                                                                                                                                                                                                                    
-                                                        0███▌14▐█15    14▄██▀15                                                                                                                                                                                                                                      
-                                                                14▄██▀15                                                                                                                                                                                                                                        
-                                                         0███14 █▄██▀15                                                                                                                                                                                                                                          
-                                                14▓▓▓▓15   0▄▐███14 ██▀15                                                                                                                                                                                                                                            
-                                                        ▐0███▌14 ▀14,7▓▓14,1▄▄15      ░                                                                                                                                                                                                                                  
-                                                                  14,7▓▒▒7,1▄15  ░▒                                                                                                                                                                                                                                  
-                                                                   14▀14,7▒░░░7,1▄▄15                                                                                                                                                                                                                                  
-                                                                     7▀▀15                                                                                                                                                                                                                                     
-                                      ▀▀███████▀▀ 0  ███▌0,15 ▀0,1███▌15                                                                                                                                                                                                                                              
-                                          5▄▄▄▄▄▄▄15 0  ███▌6░15▀0████15                                                                                                                                                                                                                                              
-                                                         0 0,15▐0,1███0,15▀15,1                                                                                                                                                                                                                                             
-                                                           0█0,15▀ 15,1▀                                                                                                                                                                                                                                             
-                                                   5 15▐0███▌15▀0,15▀ 15,1▀                                                                                                                                                                                                                                               
-                                                        0█15▄▀   ▀▀▀▄▄▄                                                                                                                                                                                                                                        
-                                                           5 15▀▄▄▄    ▀▀▀▄▄▄                                                                                                                                                                                                                                  
-                                                                  ▀▄▄▄    ▀▀▓▄                                                                                                                                                                                                                              
-                                                                 2▄12,2░2,1■▄▓15▀▀▀▄▄▀▀▐                                                                                                                                                                                                                              
-                                                                     2█12,2░░2,1▌15▐   ▌                                                                                                                                                                                                                              
-                                                        ▀▀▄▄▄   ▀▀▀▄▄▄12▀▀ 0,15░15,1▄▀▀                                                                                                                                                                                                                               
-                                                             ▀▀0,15░15,1▄▄▄   ▀▀▀▀▀▄▄                                                                                                                                                                                                                               
-                                                                   ▀▀▀▄▄▄▀▀ ▐                                                                                                                                                                                                                               
-                                                       ▄▄▀▀▐   ▌2▓▒▓▓▒▒░ 15▐   ▌                                                                                                                                                                                                                               
-                                                                            ▌                                                                                                                                                                                                                               
-                                                                 2█12,2░░  2,1▓ 15▌  ▐                                                                                                                                                                                                                                
-                                                       ▌ ▄▄▓  ▐2▐12,2▒░▒▒░░2,1▌15▐   ▐                                                                                                                                                                                                                                
-                                                                12,2▓▒▓▓▒▒2,1▌15▐   ▌                                                                                                                                                                                                                                
-                                                                         10 0 15▌                                                                                                                                                                                                                                
-                                                             ▀▀▀▄▄▄2▀12▀▀ 0,15░15,1▄▀▀                                                                                                                                                                                                                                 
-                                                                   ▀▀▀▀                                                                                                                                                                                                                                     
-        10THE ACiD FiELD TRiP COLLECTION!15                                                                                                                                                                                                                                                                     
-        10or15                                                                                                                                                                                                                                                                                                  
-        10B7: AN ACiD ODYESSY15                                                                                                                                                                                                                                                                                 
-        10or15                                                                                                                                                                                                                                                                                                  
-        10SWING ALONG TO THE 90'S!15 10 WITH ACiD!15                                                                                                                                                                                                                                                                
-        10or15                                                                                                                                                                                                                                                                                                  
-        10O.D. ON ACID!15  10(aCiD oVeRDoSe)15                                                                                                                                                                                                                                                                      
-        10or15                                                                                                                                                                                                                                                                                                  
-        10100% CHANCE OF REiGN.  ACiD REiGN!15                                                                                                                                                                                                                                                                  
-        10or15                                                                                                                                                                                                                                                                                                  
-        10JOLLY WHOMPS IN THE NIGHT.  (U.K. Edition)15                                                                                                                                                                                                                                                          
-                                                            10nsity of15                                                                                                                                                                                                                                        
-                                                            10 no match15                                                                                                                                                                                                                                       
-                                                            10th your15                                                                                                                                                                                                                                         
-                                                            10f out on15                                                                                                                                                                                                                                        
-                                                            10lovers!15                                                                                                                                                                                                                                         
-                                                            10ist back15                                                                                                                                                                                                                                        
-                                                            10lie was15                                                                                                                                                                                                                                         
-                                                            10ey starts15                                                                                                                                                                                                                                       
-                                                            10 know too15                                                                                                                                                                                                                                       
-                                                            10hat.  but15                                                                                                                                                                                                                                       
-                                                            10ce.  the15                                                                                                                                                                                                                                        
-                                                            10ple tech-15                                                                                                                                                                                                                                       
-                                                            10 new way15                                                                                                                                                                                                                                        
-                                                            10turning15                                                                                                                                                                                                                                         
-                                                            10ind.  he15                                                                                                                                                                                                                                        
-                                                            10 our pal15                                                                                                                                                                                                                                        
-                                                            10beeps, to15                                                                                                                                                                                                                                       
-                                                            10oing back15                                                                                                                                                                                                                                       
-                                                            10.15  10in tho...-15                                                                                                                                                                                                                                   
-                         10 0 [SCENE MISSING:  # 2-1337]15                                                                                                                                                                                                                                                       
-                                      14F15                                                                                                                                                                                                                                                                     
-                                                                  14g!15                                                                                                                                                                                                                                        
-                  14just use a guitar string to make the water ripple15                                                                                                                                                                                                                                         
-                                                        14olved his15                                                                                                                                                                                                                                           
-                                                                   14acid15                                                                                                                                                                                                                                     
-                                                                   14f15                                                                                                                                                                                                                                        
-                  14timeline mash-up of all the acid packs.15                                                                                                                                                                                                                                                   
-                  14now let me tell you about the time that i had to15                                                                                                                                                                                                                                          
-                                                             14very15                                                                                                                                                                                                                                           
-                  14personal film Schindlers List.  originally, he15                                                                                                                                                                                                                                            
-                  14wanted to call it 'Schindlers List!'  but i said15                                                                                                                                                                                                                                          
-                  14that the '!' might make it seem..."15                                                                                                                                                                                                                                                       
-           14WRITERS COMMENTARY  ON  15(14OFF15)                                                                                                                                                                                                                                                                    
-                                                            10pixlated,15                                                                                                                                                                                                                                       
-        10grainy escape of amature porn.15                                                                                                                                                                                                                                                                      
-                                                            10ut to see15                                                                                                                                                                                                                                       
-                                                            10 internet15                                                                                                                                                                                                                                       
-                                                            10assion for15                                                                                                                                                                                                                                      
-                                                            10 without15                                                                                                                                                                                                                                        
-                                                            10drawing15                                                                                                                                                                                                                                         
-                                                            10p lie.  i15                                                                                                                                                                                                                                       
-                                                            10 to stream15                                                                                                                                                                                                                                      
-                                                            10listen to.15                                                                                                                                                                                                                                      
-                                                            10d back in15                                                                                                                                                                                                                                       
-                                                            10ernet15                                                                                                                                                                                                                                           
-                                                            10m inspir-15                                                                                                                                                                                                                                       
-                                                            10d down-15                                                                                                                                                                                                                                         
-                                                            10 kind of15                                                                                                                                                                                                                                        
-        10inspiration from stolen wifi onto my .mp3 player.15                                                                                                                                                                                                                                                   
-                                                            10f my15                                                                                                                                                                                                                                            
-                                                            10 through15                                                                                                                                                                                                                                        
-                                                            10d it all,15                                                                                                                                                                                                                                       
-                                                            10ty years15                                                                                                                                                                                                                                        
-                                                            10ly, it's15                                                                                                                                                                                                                                        
-                                                            10se, and15                                                                                                                                                                                                                                         
-                                                            10ine of15                                                                                                                                                                                                                                          
-        10great works of ansi, those thought stick with you.15                                                                                                                                                                                                                                                  
-                                                            10one of those15                                                                                                                                                                                                                                    
-                                                            10e lack of15                                                                                                                                                                                                                                       
-                                                            10o do away15                                                                                                                                                                                                                                       
-                                                            10n more.  i'm15                                                                                                                                                                                                                                    
-                                                            10D Man and15                                                                                                                                                                                                                                       
-                                                            10ere actually15                                                                                                                                                                                                                                    
-                                                            10 much outside15                                                                                                                                                                                                                                   
-                                                            10ture of things15                                                                                                                                                                                                                                  
-                                                            10ng cool.15                                                                                                                                                                                                                                        
-                                                            10 to college,15                                                                                                                                                                                                                                    
-                                                            10d pretty much15                                                                                                                                                                                                                                   
-                                                            10es.15                                                                                                                                                                                                                                             
-                                                            10ng the ansi15                                                                                                                                                                                                                                     
-                                                            10y conversations15                                                                                                                                                                                                                                 
-                                                            10so.  the15                                                                                                                                                                                                                                        
-                                                            10his decision15                                                                                                                                                                                                                                    
-                                                            10 and the15                                                                                                                                                                                                                                        
-                                                            10 still focusing15                                                                                                                                                                                                                                 
-                                                            10when all15                                                                                                                                                                                                                                        
-        10they wanted to do was keep going.15                                                                                                                                                                                                                                                                   
-                                                            10o doubt have15                                                                                                                                                                                                                                    
-                                                            10m writing15                                                                                                                                                                                                                                       
-                                                            10  a lot of15                                                                                                                                                                                                                                      
-                                                 10ene since i came back15                                                                                                                                                                                                                                      
-                                                            10g back and15                                                                                                                                                                                                                                      
-                                                            10ts as a whole,15                                                                                                                                                                                                                                  
-        10accomplishments from all of us.15                                                                                                                                                                                                                                                                     
-                                                            10e man respon-15                                                                                                                                                                                                                                   
-                                                            10ristian Wirth.15                                                                                                                                                                                                                                  
-                                                            10of work done15                                                                                                                                                                                                                                    
-                                                            10mplish by15                                                                                                                                                                                                                                       
-                                                            10eas to sink15                                                                                                                                                                                                                                     
-                                                            10ither get15                                                                                                                                                                                                                                       
-                                                            10peek into15                                                                                                                                                                                                                                       
-                                                            10o make some-15                                                                                                                                                                                                                                    
-        10thing out of nothing and to share it with everyone.15                                                                                                                                                                                                                                                 
-                                                            10ture when15                                                                                                                                                                                                                                       
-                                                            10irc channels15                                                                                                                                                                                                                                    
-        10and complaining.15                                                                                                                                                                                                                                                                                    
-                                                            10se pieces.15                                                                                                                                                                                                                                      
-                                                            10ange from15                                                                                                                                                                                                                                       
-                                                            10 the artists15                                                                                                                                                                                                                                    
-                                                            10l these15                                                                                                                                                                                                                                         
-        10years later.15                                                                                                                                                                                                                                                                                        
-        10k-radly yours,15                                                                                                                                                                                                                                                                                      
-                                                             10ember 201315                                                                                                                                                                                                                                     
-                                                   0 7██████████████████15                                                                                                                                                                                                                                      
-                                                   0 7,7   15█              15,1                                                                                                                                                                                                                                      
-                                                   0 15,7   11,15▄11,7              15,1                                                                                                                                                                                                                                      
-                                                   0 11,7  15,1█11,15█▄11,7             15,1                                                                                                                                                                                                                                      
-                                                               11,7       15,1                                                                                                                                                                                                                                      
-                                                      █11,15█8,1█▓11,15▄11,7           15,1                                                                                                                                                                                                                                      
-                                                            11,7          15,1                                                                                                                                                                                                                                      
-                                                            15,7▓         15,1                                                                                                                                                                                                                                      
-                                                        █11,15███▄15,7▓ ░      15,1                                                                                                                                                                                                                                      
-                                                                    15,7  15,1                                                                                                                                                                                                                                      
-                                                     7,7   15,1█11,15██▀████▄15,7▄    15,1                                                                                                                                                                                                                                      
-                                                                    15,7  15,1                                                                                                                                                                                                                                      
-                                                                ▀11,15▓█11,1█0,15▄0,7 15,1                                                                                                                                                                                                                                      
-                                                                 ▓11,15███15,1▓                                                                                                                                                                                                                                      
-                                                                  11,15▓▓▓░15,1                                                                                                                                                                                                                                      
-                                                                     █                                                                                                                                                                                                                                      
-                                                      14░15  ██14░15      ▓███                                                                                                                                                                                                                                      
-                                                                 14▄15████                                                                                                                                                                                                                                      
-                                                               14▄█15▓▓▓▓14,15▄15,1                                                                                                                                                                                                                                      
-                                                            14▓▓██████▀15                                                                                                                                                                                                                                       
-                                                               14,10█▄14,1█▀15                                                                                                                                                                                                                                         
-                                                       14,15█14,10▓▓14,1▄███▀▀15                                                                                                                                                                                                                                            
-                                                                     6█▄▄15                                                                                                                                                                                                                                    
-                                                                     4,6▐4,15▓▒4,6▄6,1█15                                                                                                                                                                                                                                  
-                                                                         6▌15                                                                                                                                                                                                                                  
-                                                                      4,6█4,15▓4,6 15,1                                                                                                                                                                                                                                   
-                                                             12▀▀▄▄15    6▐4,6██6,1█15                                                                                                                                                                                                                                   
-                                                                     6▐4,6▓▌6,1▌15 5░15                                                                                                                                                                                                                                 
-                                                               12,2▓▓▀12,1█▌15  4,6▒6,1█15 5░░15                                                                                                                                                                                                                                 
-                                                                       6▌15                                                                                                                                                                                                                                    
-                                                     12█12,15▀▓12,1█▄▄███▀▀▀15       5▓15                                                                                                                                                                                                                                   
-                                                                     6▄4,6▄▓6,1▄15                                                                                                                                                                                                                                   
-                                                                      4,6▀5░6,1▌15                                                                                                                                                                                                                                   
-                                                                        5▄15                                                                                                                                                                                                                                   
-                                      ▀0▀0,15▀0,1█0,15▄0,1▄15▄0░14▀██15                                                                                                                                                                                                                                                           
-                                            ░  14█15                                                                                                                                                                                                                                                            
-                                            ▒  14,10▓15,1                                                                                                                                                                                                                                                            
-                                          14▒15 14,15█15,1  14,10░15,1                                                                                                                                                                                                                                                            
-                                            14,10▒15,1  14,10 15,1                                                                                                                                                                                                                                                            
-                                            14,10▄ 11▄▄15,1                                                                                                                                                                                                                                                            
-1  0artistic freedoms and artistic limitations:15                                                                                                                                                                                                                                                               
-                                                  10nd paste job.  however,15                                                                                                                                                                                                                                   
-                                                        10 together.  well,15                                                                                                                                                                                                                                   
-                                                        10t)  what i wanted15                                                                                                                                                                                                                                   
-                                                        10would stand out15                                                                                                                                                                                                                                     
-                                                        10ire head, or15                                                                                                                                                                                                                                        
-                                                        10a cohesive flow when15                                                                                                                                                                                                                                
-                                                        10taken images and15                                                                                                                                                                                                                                    
-10  rotated them vertically and/or horizontally.15                                                                                                                                                                                                                                                              
-                                                        10hapes, letters, etc.,15                                                                                                                                                                                                                               
-                                                        10anywhere.  no colors15                                                                                                                                                                                                                                
-                                                        10e something else.15                                                                                                                                                                                                                                   
-                                                        10is changes and out-15                                                                                                                                                                                                                                 
-                                                        10 them.  manipulating15                                                                                                                                                                                                                                
-                                                        10 of what i set out15                                                                                                                                                                                                                                  
-10  to do.15                                                                                                                                                                                                                                                                                                    
-10  well, with the exception of one thing:15                                                                                                                                                                                                                                                                    
-                                                          10 by a lot, i mean15                                                                                                                                                                                                                                 
-                                                          10ns of artwork.15                                                                                                                                                                                                                                    
-                                                          10e were times when15                                                                                                                                                                                                                                 
-                                                          10he same color.15                                                                                                                                                                                                                                    
-                                                          10cated trying to15                                                                                                                                                                                                                                   
-                                                          10tarted.  this15                                                                                                                                                                                                                                     
-                                                          10e to time.  in15                                                                                                                                                                                                                                    
-                                                          10a few blocks ONLY15                                                                                                                                                                                                                                 
-                                                          10pe.15                                                                                                                                                                                                                                               
-                                      10xxx15                                                                                                                                                                                                                                                                   
-                                                        10taste didn't have15                                                                                                                                                                                                                                   
-                                                        10what not to use when15                                                                                                                                                                                                                                
-                                                        10ould have filled15                                                                                                                                                                                                                                    
-                                                        10 (which wouldn't be15                                                                                                                                                                                                                                 
-                                                        10urpose of what i'm15                                                                                                                                                                                                                                  
-                                                        10with entire somms15                                                                                                                                                                                                                                   
-                                                        10ating the purpose.15                                                                                                                                                                                                                                  
-                                                        10e entire run of the15                                                                                                                                                                                                                                 
-                                                        10 reflection of certian15                                                                                                                                                                                                                              
-                                                        10que, new ideas (both15                                                                                                                                                                                                                                
-                                                        10 going on at certain15                                                                                                                                                                                                                                
-10   times throughout the run.15                                                                                                                                                                                                                                                                                
-                                 0 b14 -15 gl                                                                                                                                                                                                                                                                    
-                                 0 l14 -15 iron man                                                                                                                                                                                                                                                              
-                                 0 o14 -15 grimm                                                                                                                                                                                                                                                                 
-                                 0 c14 -15 slum dweller                                                                                                                                                                                                                                                          
-                                 0 k14 -15 fusion                                                                                                                                                                                                                                                                
-                                 0 t14 -15 jed                                                                                                                                                                                                                                                                   
-                                 0 r14 -15 lordjazz                                                                                                                                                                                                                                                              
-                                 0 o14 -15 radman                                                                                                                                                                                                                                                                
-                                 0 n14 -15 sparr                                                                                                                                                                                                                                                                 
-                                 0 i14 -15 crewl blade                                                                                                                                                                                                                                                           
-                                 0 C14 -15 darkforce                                                                                                                                                                                                                                                             
-                                 0 s14 -15 cool t                                                                                                                                                                                                                                                                
-                                 0 a14 -15 cleaner                                                                                                                                                                                                                                                               
-                                 0 c14 -15 avg                                                                                                                                                                                                                                                                   
-                                 0 i14 -15 knockturnal                                                                                                                                                                                                                                                           
-                                 0 d14 -15 smoke                                                                                                                                                                                                                                                                 
-                                 0 t14 -15 mattmathew                                                                                                                                                                                                                                                            
-                                 0 r14 -15 h7                                                                                                                                                                                                                                                                    
-                                 0 i14 -15 enzo & avg_                                                                                                                                                                                                                                                           
-                                 0 p14 -15 fever                                                                                                                                                                                                                                                                 
-                                 0 !14 -15 zerovision                                                                                                                                                                                                                                                            
+1   7▄    ░15        7░15                                                              
+7  █▒    ▒  ▄▄▄▄▄▄▄▄▄  ░15                                                         
+                     8,7▒7,1▓ ▄▄15                                                      
+                        14░15                                                       
+                        14▒░15                                                      
+                         14▒15 12▄15                                                    
+                        2▄12▄12,2▓12,1▌15                                                    
+                         12,2░▒15,1                                                     
+                       0▀8█2▐12,2░15,1                                                     
+                                 11▀▀▀▀▀▀▀▀▀▀15                                     
+                              11▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀15                                  
+                                              11▀15                                 
+                                      14▀15 11▀██████▌15                                
+                                             11██▌15                                
+                                         11█11,10 11,1███▀ 15 ▄▄▄▄▄▄▄                        
+                                               0,15▄▄███████▄▄15,1▄                     
+                                                   14,15▄▄▄▄ 0▀ 15,1█                     
+                                                               ░      ░░▒▓      
+                                                                        14▄15▒      
+                                                               ▒░     14▄█14,15▓14,1▀15      
+                                                                    14▄██▀15        
+                                                        0███▌14▐█15    14▄██▀15          
+                                                                14▄██▀15            
+                                                         0███14 █▄██▀15              
+                                                14▓▓▓▓15   0▄▐███14 ██▀15                
+                                                        ▐0███▌14 ▀14,7▓▓14,1▄▄15      ░      
+                                                                  14,7▓▒▒7,1▄15  ░▒      
+                                                                   14▀14,7▒░░░7,1▄▄15      
+                                                                     7▀▀15         
+                                      ▀▀███████▀▀ 0  ███▌0,15 ▀0,1███▌15                  
+                                          5▄▄▄▄▄▄▄15 0  ███▌6░15▀0████15                  
+                                                         0 0,15▐0,1███0,15▀15,1                 
+                                                           0█0,15▀ 15,1▀                 
+                                                   5 15▐0███▌15▀0,15▀ 15,1▀                   
+                                                        0█15▄▀   ▀▀▀▄▄▄            
+                                                           5 15▀▄▄▄    ▀▀▀▄▄▄      
+                                                                  ▀▄▄▄    ▀▀▓▄  
+                                                                 2▄12,2░2,1■▄▓15▀▀▀▄▄▀▀▐  
+                                                                     2█12,2░░2,1▌15▐   ▌  
+                                                        ▀▀▄▄▄   ▀▀▀▄▄▄12▀▀ 0,15░15,1▄▀▀   
+                                                             ▀▀0,15░15,1▄▄▄   ▀▀▀▀▀▄▄   
+                                                                   ▀▀▀▄▄▄▀▀ ▐   
+                                                       ▄▄▀▀▐   ▌2▓▒▓▓▒▒░ 15▐   ▌   
+                                                                            ▌   
+                                                                 2█12,2░░  2,1▓ 15▌  ▐    
+                                                       ▌ ▄▄▓  ▐2▐12,2▒░▒▒░░2,1▌15▐   ▐    
+                                                                12,2▓▒▓▓▒▒2,1▌15▐   ▌    
+                                                                         10 0 15▌    
+                                                             ▀▀▀▄▄▄2▀12▀▀ 0,15░15,1▄▀▀     
+                                                                   ▀▀▀▀         
+        10THE ACiD FiELD TRiP COLLECTION!15                                         
+        10or15                                                                      
+        10B7: AN ACiD ODYESSY15                                                     
+        10or15                                                                      
+        10SWING ALONG TO THE 90'S!15 10 WITH ACiD!15                                    
+        10or15                                                                      
+        10O.D. ON ACID!15  10(aCiD oVeRDoSe)15                                          
+        10or15                                                                      
+        10100% CHANCE OF REiGN.  ACiD REiGN!15                                      
+        10or15                                                                      
+        10JOLLY WHOMPS IN THE NIGHT.  (U.K. Edition)15                              
+                                                            10nsity of15            
+                                                            10 no match15           
+                                                            10th your15             
+                                                            10f out on15            
+                                                            10lovers!15             
+                                                            10ist back15            
+                                                            10lie was15             
+                                                            10ey starts15           
+                                                            10 know too15           
+                                                            10hat.  but15           
+                                                            10ce.  the15            
+                                                            10ple tech-15           
+                                                            10 new way15            
+                                                            10turning15             
+                                                            10ind.  he15            
+                                                            10 our pal15            
+                                                            10beeps, to15           
+                                                            10oing back15           
+                                                            10.15  10in tho...-15       
+                         10 0 [SCENE MISSING:  # 2-1337]15                           
+                                      14F15                                         
+                                                                  14g!15            
+                  14just use a guitar string to make the water ripple15             
+                                                        14olved his15               
+                                                                   14acid15         
+                                                                   14f15            
+                  14timeline mash-up of all the acid packs.15                       
+                  14now let me tell you about the time that i had to15              
+                                                             14very15               
+                  14personal film Schindlers List.  originally, he15                
+                  14wanted to call it 'Schindlers List!'  but i said15              
+                  14that the '!' might make it seem..."15                           
+           14WRITERS COMMENTARY  ON  15(14OFF15)                                        
+                                                            10pixlated,15           
+        10grainy escape of amature porn.15                                          
+                                                            10ut to see15           
+                                                            10 internet15           
+                                                            10assion for15          
+                                                            10 without15            
+                                                            10drawing15             
+                                                            10p lie.  i15           
+                                                            10 to stream15          
+                                                            10listen to.15          
+                                                            10d back in15           
+                                                            10ernet15               
+                                                            10m inspir-15           
+                                                            10d down-15             
+                                                            10 kind of15            
+        10inspiration from stolen wifi onto my .mp3 player.15                       
+                                                            10f my15                
+                                                            10 through15            
+                                                            10d it all,15           
+                                                            10ty years15            
+                                                            10ly, it's15            
+                                                            10se, and15             
+                                                            10ine of15              
+        10great works of ansi, those thought stick with you.15                      
+                                                            10one of those15        
+                                                            10e lack of15           
+                                                            10o do away15           
+                                                            10n more.  i'm15        
+                                                            10D Man and15           
+                                                            10ere actually15        
+                                                            10 much outside15       
+                                                            10ture of things15      
+                                                            10ng cool.15            
+                                                            10 to college,15        
+                                                            10d pretty much15       
+                                                            10es.15                 
+                                                            10ng the ansi15         
+                                                            10y conversations15     
+                                                            10so.  the15            
+                                                            10his decision15        
+                                                            10 and the15            
+                                                            10 still focusing15     
+                                                            10when all15            
+        10they wanted to do was keep going.15                                       
+                                                            10o doubt have15        
+                                                            10m writing15           
+                                                            10  a lot of15          
+                                                 10ene since i came back15          
+                                                            10g back and15          
+                                                            10ts as a whole,15      
+        10accomplishments from all of us.15                                         
+                                                            10e man respon-15       
+                                                            10ristian Wirth.15      
+                                                            10of work done15        
+                                                            10mplish by15           
+                                                            10eas to sink15         
+                                                            10ither get15           
+                                                            10peek into15           
+                                                            10o make some-15        
+        10thing out of nothing and to share it with everyone.15                     
+                                                            10ture when15           
+                                                            10irc channels15        
+        10and complaining.15                                                        
+                                                            10se pieces.15          
+                                                            10ange from15           
+                                                            10 the artists15        
+                                                            10l these15             
+        10years later.15                                                            
+        10k-radly yours,15                                                          
+                                                             10ember 201315         
+                                                   0 7██████████████████15          
+                                                   0 7,7   15█              15,1          
+                                                   0 15,7   11,15▄11,7              15,1          
+                                                   0 11,7  15,1█11,15█▄11,7             15,1          
+                                                               11,7       15,1          
+                                                      █11,15█8,1█▓11,15▄11,7           15,1          
+                                                            11,7          15,1          
+                                                            15,7▓         15,1          
+                                                        █11,15███▄15,7▓ ░      15,1          
+                                                                    15,7  15,1          
+                                                     7,7   15,1█11,15██▀████▄15,7▄    15,1          
+                                                                    15,7  15,1          
+                                                                ▀11,15▓█11,1█0,15▄0,7 15,1          
+                                                                 ▓11,15███15,1▓          
+                                                                  11,15▓▓▓░15,1          
+                                                                     █          
+                                                      14░15  ██14░15      ▓███          
+                                                                 14▄15████          
+                                                               14▄█15▓▓▓▓14,15▄15,1          
+                                                            14▓▓██████▀15           
+                                                               14,10█▄14,1█▀15             
+                                                       14,15█14,10▓▓14,1▄███▀▀15                
+                                                                     6█▄▄15        
+                                                                     4,6▐4,15▓▒4,6▄6,1█15      
+                                                                         6▌15      
+                                                                      4,6█4,15▓4,6 15,1       
+                                                             12▀▀▄▄15    6▐4,6██6,1█15       
+                                                                     6▐4,6▓▌6,1▌15 5░15     
+                                                               12,2▓▓▀12,1█▌15  4,6▒6,1█15 5░░15     
+                                                                       6▌15        
+                                                     12█12,15▀▓12,1█▄▄███▀▀▀15       5▓15       
+                                                                     6▄4,6▄▓6,1▄15       
+                                                                      4,6▀5░6,1▌15       
+                                                                        5▄15       
+                                      ▀0▀0,15▀0,1█0,15▄0,1▄15▄0░14▀██15                               
+                                            ░  14█15                                
+                                            ▒  14,10▓15,1                                
+                                          14▒15 14,15█15,1  14,10░15,1                                
+                                            14,10▒15,1  14,10 15,1                                
+                                            14,10▄ 11▄▄15,1                                
+1  0artistic freedoms and artistic limitations:15                                   
+                                                  10nd paste job.  however,15       
+                                                        10 together.  well,15       
+                                                        10t)  what i wanted15       
+                                                        10would stand out15         
+                                                        10ire head, or15            
+                                                        10a cohesive flow when15    
+                                                        10taken images and15        
+10  rotated them vertically and/or horizontally.15                                  
+                                                        10hapes, letters, etc.,15   
+                                                        10anywhere.  no colors15    
+                                                        10e something else.15       
+                                                        10is changes and out-15     
+                                                        10 them.  manipulating15    
+                                                        10 of what i set out15      
+10  to do.15                                                                        
+10  well, with the exception of one thing:15                                        
+                                                          10 by a lot, i mean15     
+                                                          10ns of artwork.15        
+                                                          10e were times when15     
+                                                          10he same color.15        
+                                                          10cated trying to15       
+                                                          10tarted.  this15         
+                                                          10e to time.  in15        
+                                                          10a few blocks ONLY15     
+                                                          10pe.15                   
+                                      10xxx15                                       
+                                                        10taste didn't have15       
+                                                        10what not to use when15    
+                                                        10ould have filled15        
+                                                        10 (which wouldn't be15     
+                                                        10urpose of what i'm15      
+                                                        10with entire somms15       
+                                                        10ating the purpose.15      
+                                                        10e entire run of the15     
+                                                        10 reflection of certian15  
+                                                        10que, new ideas (both15    
+                                                        10 going on at certain15    
+10   times throughout the run.15                                                    
+                                 0 b14 -15 gl                                        
+                                 0 l14 -15 iron man                                  
+                                 0 o14 -15 grimm                                     
+                                 0 c14 -15 slum dweller                              
+                                 0 k14 -15 fusion                                    
+                                 0 t14 -15 jed                                       
+                                 0 r14 -15 lordjazz                                  
+                                 0 o14 -15 radman                                    
+                                 0 n14 -15 sparr                                     
+                                 0 i14 -15 crewl blade                               
+                                 0 C14 -15 darkforce                                 
+                                 0 s14 -15 cool t                                    
+                                 0 a14 -15 cleaner                                   
+                                 0 c14 -15 avg                                       
+                                 0 i14 -15 knockturnal                               
+                                 0 d14 -15 smoke                                     
+                                 0 t14 -15 mattmathew                                
+                                 0 r14 -15 h7                                        
+                                 0 i14 -15 enzo & avg_                               
+                                 0 p14 -15 fever                                     
+                                 0 !14 -15 zerovision                                
 
