@@ -39,7 +39,6 @@ ansi/_02_Calendar_2017_February_by_TCF
 ansi/_03_Calendar_2017_March_by_Whazzit
 ansi/_04_Calendar_2017_April_by_avg
 ansi/_05_Calendar_2017_May_by_Smooth
-ansi/_06_Calendar_2017_June_by_mypalGOO
 ansi/_07_Calendar_2017_July_by_Andy_Herbert
 ansi/_08_Calendar_2017_August_by_Luciano_Ayres
 ansi/_09_Calendar_2017_September_by_H7
@@ -160,6 +159,7 @@ ansi/arcade
 ansi/ar-ice3
 ansi/ar-thnkr
 ansi/ASCII_Star_Wars_om-pl
+ansi/assreflection
 ansi/asx-ACiD
 ansi/avg-16c
 ansi/avg-20yearsandstillloveansi
@@ -6544,7 +6544,7 @@ volatile/kkr-colour
 volatile/kkr
 volatile/kline
 volatile/kloerikrab
-volatile/lol dongs
+volatile/loldongs
 volatile/lolrb
 volatile/motd
 volatile/nerdmatix
@@ -6559,13 +6559,13 @@ volatile/quantumspook
 volatile/rules2
 volatile/shigbat
 volatile/shrug
-volatile/snibedi snab
+volatile/snibedi_snab
 volatile/somethinghappened
 volatile/swastiskates
 volatile/tigger-stole-my-nigger-stole-my-tv
 volatile/tigger-stole-my-nigger
 volatile/tigger-stole-my-tv
-volatile/top cock
+volatile/top_cock
 volatile/trucktruck
 volatile/tucows
 volatile/urandom
