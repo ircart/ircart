@@ -4,6 +4,8 @@ This repository contains the largest organized art pack for Internet Relay Chat.
 
 Filled with various popular art packs & IRC art collected over the decades.
 
+Includes oldschool ANSI art scene packs from [blocktronics](https://github.com/blocktronics/artpacks) & others, converted to IRC art.
+
 It is meant to serve as the main central repository for all IRC art.
 
 The repository is constantly being organized & updated with new art files.
