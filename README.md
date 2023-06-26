@@ -21,4 +21,4 @@ Pump with us in **#scroll** on **irc.supernets.org**
 ___
 
 ###### Mirrors
-[acid.vegas](https://git.acid.vegas/ircart) • [GitHub](https://github.com/ircart/ircart) • [GitLab](https://gitlab.com/ircart/ircart) • [SuperNETs](https://git.supernets.org/ircart/ircart)
+[acid.vegas](https://git.acid.vegas/ircart) • [GitHub](https://github.com/ircart/ircart) • [GitLab](https://gitlab.com/ircart/ircart) • [SourceHut](https://git.sr.ht/~acidvegas/ircart) • [SuperNETs](https://git.supernets.org/ircart/ircart)
