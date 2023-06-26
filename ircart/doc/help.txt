@@ -2,6 +2,7 @@
 @scroll               14| information about scroll
 .ascii 10<name>         14| play the 10<name> art file
 .ascii dirs           14| list of art directories
+.ascii img 10<url>      14| convert image 10<url> to art 14(experimental, beta status)
 .ascii list           14| list of art filenames
 .ascii play 10<url>     14| play the contents of 10<url> 14(must be a raw pastebin url)
 .ascii random 06[dir]   14| play random art, optionally from the 06[dir] directory only
