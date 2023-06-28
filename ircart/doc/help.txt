@@ -1,11 +1,13 @@
 08COMMAND                 DESCRIPTION
-@scroll               14| information about scroll
-.ascii 10<name>         14| play the 10<name> art file
-.ascii dirs           14| list of art directories
-.ascii img 10<url>      14| convert image 10<url> to art 14(experimental, beta status)
-.ascii list           14| list of art filenames
-.ascii play 10<url>     14| play the contents of 10<url> 14(must be a raw pastebin url)
-.ascii random 06[dir]   14| play random art, optionally from the 06[dir] directory only
-.ascii search 10<query> 14| search for art diles that match 10<query>
-.ascii stop           14| stop playing art
-.ascii sync           14| sync the ascii database to pump the newest art
+@scroll                             14| information about scroll
+.ascii 10<name>                       14| play the 10<name> art file
+.ascii dirs                         14| list of art directories
+.ascii img 10<url>                    14| convert image 10<url> to art 14(experimental, beta status)
+.ascii list                         14| list of art filenames
+.ascii play 10<url>                   14| play the contents of 10<url> 14(must be a raw pastebin url)
+.ascii random 06[dir]                 14| play random art, optionally from the 06[dir] directory only
+.ascii search 10<query>               14| search for art files that match 10<query>
+.ascii settings                     14| view settings
+.ascii settings 10<setting> 10<option> 14| change 10<setting> 10<option>  14(admin only)
+.ascii stop                         14| stop playing art
+.ascii sync                         14| sync the ascii database to pump the newest art 14(admin only)
