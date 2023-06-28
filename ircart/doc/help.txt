@@ -1,4 +1,4 @@
-08COMMAND                            DESCRIPTION
+08COMMAND                              DESCRIPTION
 @scroll                            14| information about scroll
 .ascii 10<name>                      14| play the 10<name> art file
 .ascii dirs                        14| list of art directories
