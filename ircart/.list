@@ -220,6 +220,7 @@ ansi/bjansi
 ansi/blockfurynfo
 ansi/_blockmen_res[v]olution
 ansi/_blocknews2
+ansi/blocknroll
 ansi/_blockstreetboyz
 ansi/blockstreet
 ansi/BLOCK_TO_THE_FUTURE_INFO_THING
@@ -376,7 +377,6 @@ ansi/fil-draw
 ansi/FILE_ID
 ansi/fil-farm
 ansi/fil-fire
-ansi/fil-flyr
 ansi/fil-FUEL
 ansi/fil-gbu1
 ansi/fil-idvi
