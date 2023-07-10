@@ -1,0 +1,13 @@
+1,1hhhh9,9mm3,3ooo1,1hh
+1,1hhh9,9m1,1h9,9m1,1h9,9m3,3o1,1hh
+1,1h9,9mmmmmmmm1,1hh
+1,1hh9,9mmmmmmm1,1hh
+1,1hh3,3ooooooo1,1hh
+1,1hh3,3o9,9mmm3,3ooo1,1hh
+1,1hh3,3o9,9mmm3,3ooo1,1hh
+1,1hh3,3ooooooo1,1hh
+1,1hhh9,9mm1,1h9,9mm1,1hhh
+1,1hhh9,9mm1,1h9,9mm1,1hhh
+1,1hhh9,9mm1,1h9,9mm1,1hhh
+1,1h9,9mmmm1,1h9,9mmmm1,1h
+3,3ooooo1,1h3,3ooooo

@@ -1,0 +1,8 @@
+10,10oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+10,10oo4,4oooooooo10,10oooo9,9oooo10,10oooooo12,12oooo10,10oooooo8,8oo10,10oooooo15,15oooooo10,10oooo13,13oooo10,10oooo4,4oooooo10,10oo0,0oooooooo10,10oo
+10,10ooo5,5oo4,4oo5,5oooo10,10o9,9oo3,3oooo9,9oo10,10oo12,12oo2,2oooo12,12oo10,10oooo8,8oo7,7o10,10ooooo15,15oo14,14ooooo10,10o13,13oo6,6ooooo10,10oooo5,5o4,4oo5,5ooo10,10oo1,1oo0,0oo1,1oooo10,10o
+10,10ooooo4,4oo5,5o10,10oooo9,9oo3,3o10,10ooo9,9oo3,3o10,10o12,12oo2,2o10,10ooo12,12oo2,2o10,10ooo8,8oo7,7o10,10ooooo15,15ooooo10,10ooo13,13oo6,6o10,10o13,13oooo10,10oooo4,4oo5,5o10,10oooooo0,0oo1,1o10,10oooo
+10,10ooooo4,4oo5,5o10,10oooo9,9oo3,3o10,10ooo9,9oo3,3o10,10o12,12oo2,2o10,10ooo12,12oo2,2o10,10ooo8,8oo7,7o10,10ooooo15,15oo14,14oooo10,10oo13,13oo6,6o10,10ooo13,13oo6,6o10,10ooo4,4oo5,5o10,10oooooo0,0oo1,1o10,10oooo
+10,10ooooo4,4oo5,5o10,10ooooo3,3o9,9oooo3,3ooo10,10oo2,2o12,12oooo2,2ooo10,10ooo8,8oooooo10,10oo15,15oooooo10,10ooo6,6o13,13oooo6,6ooo10,10o4,4oooooo10,10ooooo0,0oo1,1o10,10oooo
+10,10oooooo5,5oo10,10ooooooo3,3oooo10,10oooooo2,2oooo10,10oooooo7,7oooooo10,10oo14,14oooooo10,10oooo6,6oooo10,10oooo5,5oooooo10,10ooooo1,1oo10,10oooo
+10,10oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo

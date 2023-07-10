@@ -1,0 +1,58 @@
+                              07,08╭─────────────────╮                               
+                             07,08╱ooooooooooooooooooo╲                              
+                            07,08╱ooooooooooooooooooooo╲                             
+                           07,08╱ooooooooooooooooooooooo╲                            
+                          07,08╱oooooooo╭───────╮oooooooo╲                           
+                         07,08╱oooooooo╱         07,08╲oooooooo╲                          
+                        07,08╱oooooooo╱           07,08╲oooooooo╲                         
+                       07,08│oooooooo╱             07,08╲oooooooo│                        
+                       07,08│ooooooo│               07,08│ooooooo│                        
+                       07,08│ooooooo│               07,08│ooooooo│                        
+                       07,08│ooooooo│               07,08│ooooooo│                        
+                       07,08│ooooooo│               07,08│ooooooo│                        
+                        07,08╲ooooooo╲             07,08╱ooooooo╱                         
+                         07,08╲ooooooo╲           07,08╱ooooooo╱                          
+                          07,08╲ooooooo╲         07,08╱ooooooo╱                           
+                           07,08╲ooooooo╲       07,08╱ooooooo╱                            
+                            07,08╲ooooooo╲ 07,08O O 07,08╱ooooooo╱                             
+                             07,08╲oooooooO   Oooooooo╱                              
+                              07,08╲║ooooooO Ooooooo║╱                               
+  07,08────────────────────┌────────║──╭─────────╮──║────────┐────────────────────   
+   07,08───────────────────╲        ╚══│         │══╝        ╱───────────────────    
+    07,08───────────────────╲          │         │          ╱───────────────────     
+     07,08───────────────────╲      ╔══╰┬───┬───┬╯══╗      ╱───────────────────      
+      07,08───────────────────└─────║───│││││││││───║─────┘───────────────────       
+       07,08────────────────────────║───│││││││││───║────────────────────────        
+         07,08──────────────────────────│││││││││──────────────────────────          
+            07,08───────────────────╔═══│││││││││═══╗───────────────────             
+                07,08───────────────║───│││││││││───║───────────────                 
+                               07,08║  07,08│╰───┴───╯│  07,08║                                
+                               07,08║  07,08│ooooooooo│  07,08║                                
+                                  07,08│ooooooooo│                                   
+                                  07,08│ooo   ooo│                                   
+                                  07,08│oo     oo│                                   
+                                  07,08│ooo   ooo│                                   
+                                  07,08│ooooooooo│                                   
+                                  07,08│ooooooooo│                                   
+                                  07,08│ooooooooo│                                   
+                                  07,08│ooooooooo│                                   
+                                  07,08│ooooooooo│                                   
+                                  07,08│ooooooooo│                                   
+                                  07,08│ooooooooo│                                   
+                                  07,08│ooooooooo│                                   
+                                  07,08│ooooooooo│                                   
+                                 07,08│ooooooooooo│                                  
+                                 07,08│ooooooooooo│                                  
+                                 07,08│ooooooooooo│                                  
+                                 07,08│ooooooooooo│                                  
+                                 07,08│ooooooooooo│                                  
+                                07,08│ooooooooooooo│                                 
+                                07,08│ooooooooooooo│                                 
+                                07,08│ooooooOoooooo│                                 
+                                07,08│ooooooooooooo│                                 
+                               07,08│oooooooOooooooo│                                
+                               07,08│ooooooooooooooo│                                
+                               07,08│oooooooOooooooo│                                
+                              07,08│ooooooooooooooooo│                               
+                              07,08│ooooooooooooooooo│                               
+                              07,08└─────────────────┘                               

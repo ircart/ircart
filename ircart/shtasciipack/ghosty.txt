@@ -1,0 +1,18 @@
+2,2h8,2*2,2hhhhhhhh1,1wwwwwwwwww2,2hhhh0,2*2,2hhhhhh 
+2,2hhhh0,2*2,2hhh1,1ww0,0wwwwwwwwww1,1ww2,2hhhhhhhhh 
+2,2hhhhhh1,1ww0,0wwwwwwwwwwwwww1,1ww2,2hhhh0,2*2,2hh 
+2,2h0,2*2,2hh1,1ww0,0wwwwwwwwwwwwwwwwww1,1ww2,2hhhhh 
+2,2hh1,1ww6,0▒▒0,0wwww1,1ww0,0wwwwww1,1ww0,0wwww1,1ww2,2hhhh8,2* 
+2,2hh1,1ww6,0▒▒0,0wwww1,1ww0,0wwwwww1,1ww0,0wwwww11,0▒1,1ww2,2hhh 
+2,2hh1,1ww6,0▒▒0,0wwww1,1ww0,0wwwwww1,1ww0,0wwwww11,0▒1,1ww2,2hhh 
+3,3hh1,1ww6,0▒▒0,0wwwwwwwwwwwwwwwwwww11,0▒1,1ww3,3hhh 
+3,3hh1,1ww6,0▒▒0,0wwww 1,0         0,0wwwww11,0▒1,1ww3,3hhh 
+3,3hh1,1ww6,0▒▒11,0▒▒0,0wwwwwwwwwwwwwwwww11,0▒1,1ww3,3hhh 
+3,3hh1,1ww6,0▒▒▒▒1,1ww0,0wwwwwwwwwwwwww10,0▒▒11,0▒▒▒1,1ww 
+3,3hh1,1wwwwwwww0,0wwwwwwwwwwwwww11,0▒▒1,1wwwww 
+3,3hh1,1ww6,0▒▒11,0▒▒▒▒0,0wwwwwwwwwwwwww11,0▒▒1,1ww3,3hhh 
+3,3hh1,1ww6,0▒▒11,0▒▒▒▒0,0wwwwwwwwwwwwww11,0▒▒1,1ww3,3hhh 
+3,3hh1,1ww6,0▒▒11,0▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒1,1ww3,3hhh 
+3,3hh1,1ww6,0▒▒▒▒▒▒11,0▒▒▒6,0▒▒▒▒▒11,0▒▒6,0▒▒▒▒▒▒1,1ww3,3hhh 
+3,3hh1,1ww6,0▒▒▒▒1,1ww6,0▒▒▒▒1,1ww6,0▒▒▒▒1,1wwww6,0▒▒1,1ww3,3hhh 
+3,3hhhh1,1wwww3,3hh1,1wwww3,3hh1,1wwww3,3hhhh1,1ww3,3hhhhh 

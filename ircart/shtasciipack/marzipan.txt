@@ -1,0 +1,29 @@
+1,0             8,0hhh1,0      
+1,0           8,0hhhhhhhh1,0   
+1,0           8,0hhhhhhhhh1,0  
+1,0       13,0ffff1,0   8,0hhhhhh1,0  
+1,0      13,0ffffff1,0   8,0hhhhh1,0  
+1,0      13,0f1,0E13,0f1,0E13,0ff1,0  8,0hhhhh1,0   
+1,0      13,0ffffff1,0  8,0hhhhh1,0   
+1,0       13,0f1,0O13,0fff1,0  8,0hhhh1,0    
+1,0       13,0fffff1,0 8,0hhhh1,0     
+1,0       13,0fffff8,0hhhh1,0      
+1,0        13,0ffff8,0hhhh1,0      
+1,0        13,0ffff8,0hhh1,0  8,0h1,0    
+1,0        13,0ffff8,0hhh1,0   8,0h1,0   
+1,0        13,0fff1,0  8,0hhhhh1,0    
+1,0        13,0fff1,0   8,0hhh1,0     
+1,0       6,0d13,0fff6,0dd1,0         
+1,0    6,0ddddddddddd1,0       
+1,0   6,0ddddddddddddd1,0      
+1,0   6,0dddddddddddddd1,0     
+1,0  6,0ddddddddddddddd1,0     
+1,0  6,0dddddddddddddddd1,0    
+1,0  6,0dddddddddddddddd1,0    
+1,0 6,0ddddddddddddddddd1,0    
+1,0 6,0dddddddddddddddddd1,0   
+1,0 6,0d7,0dd6,0ddd7,0dd6,0ddd7,0dd6,0dd7,0dd6,0d1,0   
+1,0    6,0ddd7,0dd6,0ddd7,0dd6,0dd1,0 6,0d1,0    
+1,0 6,0ddd1,0   6,0dd1,0   6,0dd1,0  6,0ddddd1,0 
+1,0   6,0ddddddddddddddd1,0    
+1,0                      
