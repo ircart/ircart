@@ -1,28 +1,41 @@
 BLOODY SUPERNETS TRAITORS:
 
-• implyingrigged.info	(Auto Z:Line for saying "irc.supernets.org")
-• irc.anonnet.org		(Auto K:Line for saying "irc.supernets.org")
-• irc.arstechnica.com	(Auto K:Line for saying "irc.supernets.org")
-• irc.drlnet.com		(Auto G:Line for saying "irc.supernets.org")
-• irc.Echelon4.net		(Auto G:Line for saying "irc.supernets.org")
-• irc.hackthissite.org	(Auto K:Line for saying "irc.supernets.org")
-• irc.ircstorm.net		(Auto K:Line for saying "supernets")
-• irc.koaxirc.net		(Auto G:Line for saying "irc.supernets.org")
-• irc.mibbit.com		(Auto K:Line for saying "supernets")
-• irc.mozilla.com		(Auto G:Line for saying "irc.supernets.org")
-• irc.nosperg.com		(Auto Z:Line for saying "irc.supernets.org")
-• irc.pounces.me		(Auto K:Line for saying "irc.supernets.org")
-• irc.syn-irc.net		(Auto K:Line for saying "supernets")
-• irc.tawx.net			(Auto K:Line for saying "irc.supernets.org")
-• threekelv.in			(Auto K:Line for saying "irc.supernets.org")
-
-• http://irc.netsplit.de/			(Banned SuperNETs listing)
-• https://github.com/				(Banned @acidvegas & @supernets)
-• https://twitter.com/				(Suspended @supernets)
-• https://www.elitebnc.org/banned/	(Banned connections to SuperNETs)
-
+• implyingrigged.info              (Auto Z:Line for saying "irc.supernets.org")
+• irc.anonnet.org                  (Auto K:Line for saying "irc.supernets.org")
+• irc.arstechnica.com              (Auto K:Line for saying "irc.supernets.org")
+• irc.drlnet.com                   (Auto G:Line for saying "irc.supernets.org")
+• irc.Echelon4.net                 (Auto G:Line for saying "irc.supernets.org")
+• irc.hackthissite.org             (Auto K:Line for saying "irc.supernets.org")
+• irc.ircstorm.net                 (Auto K:Line for saying "supernets")
+• irc.koaxirc.net                  (Auto G:Line for saying "irc.supernets.org")
+• irc.mibbit.com                   (Auto K:Line for saying "supernets")
+• irc.mozilla.com                  (Auto G:Line for saying "irc.supernets.org")
+• irc.nosperg.com                  (Auto Z:Line for saying "irc.supernets.org")
+• irc.pounces.me                   (Auto K:Line for saying "irc.supernets.org")
+• irc.syn-irc.net                  (Auto K:Line for saying "supernets")
+• irc.tawx.net                     (Auto K:Line for saying "irc.supernets.org")
+• threekelv.in                     (Auto K:Line for saying "irc.supernets.org")
+• irc.letspiss.net                 (Auto G:Line for saying "irc.supernets.org") (immibis is a cry baby)
+• irc.twistednet.org               (Auto G:Line for saying "supernets") <- Hypocritical supernets wanna-be's
+• irc.stuff.is                     (Reported SuperNETs servers) (Svavar Kjarrval, svavar@kjarrval.is)
+• irc.teapot.chat                  (Reported SuperNETs servers) (Wael Karram, wael@teapot.chat)
+• #alba on irc.undernet.org        (Reported SuperNETs servers) (terminal269.hurtrans@gmail.com)
+• muellers-software.org            (Reported SuperNETs servers) (Mueller Minki, freddyfeuerstein@gmx.at)
+• mouse@rodents-montreal.org       (Reported SuperNETs servers)
+• irc.scpwiki.com                  (Reported SuperNETs servers)
+• http://netsplit.de/              (Banned SuperNETs listing)
+• https://github.com/              (Banned @acidvegas & @supernets)
+• https://sr.ht/                   (Banned ~acidvegas Your account has been suspended for the following reason: Violations of the terms of service (use of malware, malware activation, or malware delivery software). Contact support.)
+• https://twitter.com/             (Suspended @supernets)
+• https://www.elitebnc.org/banned/ (Banned connections to SuperNETs)
+• https://unrealircd.org           https://forums.unrealircd.org/viewtopic.php?t=9318
+• Amiga2600 from UnrealIRCd        https://forums.unrealircd.org/viewtopic.php?p=40554&sid=6e1faa58cb6a80613449e8e8551a1220#p40554 (Massive cry baby on IRC)
+• https://dronebl.org/             (Road block for SuperNETs coverage)
+• terminal269.hurtrans@gmail.com (Reported SuperNETs servers)
 • This fucking guy -> https://www.reddit.com/r/irc/comments/7w93ua/getting_really_tired_of_supernets_spambots/
+                      https://www.reddit.com/r/irc/comments/14tcpnp/why_is_98_of_all_botspam_advertising_about_the/
+                      https://www.reddit.com/r/irc/comments/14sy70e/this_new_flood_of_supernetsspam_just_makes_me_sad/
+• https://lord.re/posts/106-unrealircd-spamfilters/
+• https://github.com/klange/isla/blob/master/mods/irc_tools.py#L36
 
-
-
-NOTE: The list has last been updated on 02/15/2018
+NOTE: The list has last been updated on 07/10/2023
