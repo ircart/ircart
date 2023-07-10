@@ -36,6 +36,10 @@ BLOODY SUPERNETS TRAITORS:
                       https://www.reddit.com/r/irc/comments/14tcpnp/why_is_98_of_all_botspam_advertising_about_the/
                       https://www.reddit.com/r/irc/comments/14sy70e/this_new_flood_of_supernetsspam_just_makes_me_sad/
 • https://lord.re/posts/106-unrealircd-spamfilters/
+• https://github.com/privy-cafe/DollarLinuxClub/blob/57ae5d72b23dd6fe9fc5fca4dd120ffdf9dca123/misc/efnetretards.txt#L479
+• https://github.com/grahamc/ircbot/blob/0889d980ffee293055016ac91df5b7f9d951ecd8/ircbot/src/bin/ban.rs#L67
+• https://github.com/FRidh/ofborg/blob/aebecc2e0a0d5ec23c0ec0463f68b10256090941/ircbot/src/bin/ban.rs#L57
+• https://github.com/nlewo/ofborg/blob/e112ff8b05ea9212deeb1d0f381fbb20827b1fcb/ircbot/src/bin/ban.rs#L57
 • https://github.com/klange/isla/blob/master/mods/irc_tools.py#L36
 
 NOTE: The list has last been updated on 07/10/2023
