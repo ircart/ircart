@@ -1,5 +1,6 @@
 BLOODY SUPERNETS TRAITORS:
 
+• irc.oftc.net                     (Auto Z:Line for saying "irc.supernets.org")
 • implyingrigged.info              (Auto Z:Line for saying "irc.supernets.org")
 • irc.anonnet.org                  (Auto K:Line for saying "irc.supernets.org")
 • irc.arstechnica.com              (Auto K:Line for saying "irc.supernets.org")
@@ -42,4 +43,4 @@ BLOODY SUPERNETS TRAITORS:
 • https://github.com/nlewo/ofborg/blob/e112ff8b05ea9212deeb1d0f381fbb20827b1fcb/ircbot/src/bin/ban.rs#L57
 • https://github.com/klange/isla/blob/master/mods/irc_tools.py#L36
 
-NOTE: The list has last been updated on 07/10/2023
+NOTE: The list has last been updated on 07/19/2023
