@@ -1,6 +1,7 @@
 BLOODY SUPERNETS TRAITORS:
 
 • irc.oftc.net                     (Auto Z:Line for saying "irc.supernets.org")
+• irc.rizon.net #videogames        (Auto ban for saying "supernets")
 • implyingrigged.info              (Auto Z:Line for saying "irc.supernets.org")
 • irc.anonnet.org                  (Auto K:Line for saying "irc.supernets.org")
 • irc.arstechnica.com              (Auto K:Line for saying "irc.supernets.org")
