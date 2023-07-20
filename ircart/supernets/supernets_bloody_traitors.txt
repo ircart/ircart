@@ -17,6 +17,7 @@ BLOODY SUPERNETS TRAITORS:
 • irc.syn-irc.net                  (Auto K:Line for saying "supernets")
 • irc.tawx.net                     (Auto K:Line for saying "irc.supernets.org")
 • threekelv.in                     (Auto K:Line for saying "irc.supernets.org")
+• irc.pine64.org                   (Auto K:Line for saying "irc.supernets.org")
 • irc.letspiss.net                 (Auto G:Line for saying "irc.supernets.org") (immibis is a cry baby)
 • irc.twistednet.org               (Auto G:Line for saying "supernets") <- Hypocritical supernets wanna-be's
 • irc.stuff.is                     (Reported SuperNETs servers) (Svavar Kjarrval, svavar@kjarrval.is)
