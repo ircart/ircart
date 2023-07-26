@@ -12,6 +12,8 @@ The repository is constantly being organized & updated with new art files.
 
 Check out the [wiki](https://github.com/ircart/ircart/wiki) for useful information & resources.
 
+You can use [IRC2ANSI](https://github.com/internet-relay-chat/archive/blob/master/art/irc2ansi.py) to preview the art in your terminal, use art for your MOTD, or scroll random art as a screen saver!
+
 ## Contribute
 
 Do you have IRC art that you would like to share & include in this repository?
